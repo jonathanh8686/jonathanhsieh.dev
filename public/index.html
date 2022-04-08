@@ -10,33 +10,35 @@
     <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./style.css" />
     <link rel="stylesheet" href="./animations.css" />
-    <script src="three/build/three.min.js"></script>
-    <script src="three/examples/js/controls/OrbitControls.js"></script>
-    <script src="three/examples/js/loaders/GLTFLoader.js"></script>
-    <script src="three/examples/js/postprocessing/EffectComposer.js"></script>
-    <script src="three/examples/js/postprocessing/RenderPass.js"></script>
-    <script src="three/examples/js/postprocessing/UnrealBloomPass.js"></script>
+ <script type="importmap">
+            {
+                "imports": {
+                    "three": "./build/three.module.js"
+                }
+            }
+    </script>
 
+    <script type="module" src="./javascript/script.js " defer></script>
+    <script type="module" src="./javascript/typewriter.js " defer></script>
 
-    <script src="./javascript/three.min.js " defer></script>
-    <script src="./javascript/gsap.min.js " defer></script>
-    <script src="./javascript/script.js " defer></script>
-    <script src="./javascript/typewriter.js " defer></script>
-
+   
 </head>
 
 <body>
     <canvas class="webgl"></canvas>
     <section class="name-title">
         <h1 style="font-size: 3em; transform: translate(0%, -50%);" class="fade-in-text">Hi.</h1>
-        <h1 style="font-size: 2em; transform: translate(-0%, -50%); animation-delay: 1.5s; opacity: 0;" class="fade-in-text" ">I'm Jonathan</h1>
-        <h2 style=" position: absolute; bottom: 10px; font-size: 0.5em; opacity: 0; animation-delay:2.5s; " class=" flicker ">Scroll down to see more</h2>
-        <div style=" font-size: 0.6em; animation-delay:2.6s; opacity: 0; transform: translate(0%, -80%); " class=" typewriter-text fade-in-text ">&nbsp;</div><div class=" cursor "></div>
+        <h1 style="font-size: 2em; transform: translate(-0%, -50%); animation-delay: 1.5s; opacity: 0;"
+            class="fade-in-text" ">I'm Jonathan</h1>
+        <h2 style=" position: absolute; bottom: 10px; font-size: 0.5em; opacity: 0; animation-delay:2.5s; " class="
+            flicker ">Scroll down to see more</h2>
+        <div style=" font-size: 0.6em; animation-delay:2.6s; opacity: 0; transform: translate(0%, -80%); " class="
+            typewriter-text fade-in-text ">&nbsp;</div><div class=" cursor "></div>
     </section>
 
     <section style=" height: 400vh " class=" section ">
-        <h1>ABOUT ME</h1>
-        <!-- <div style=" display:flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-evenly; margin-top: 10%; ">
+        <!-- <div style=" display:flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-evenly;
+            margin-top: 10%; ">
             <div style=" width: 35vw; text-align: right; ">
                 <div class=" year ">2002</div>
                 <div style=" line-height: 0.5em " class=" year ">
@@ -67,30 +69,30 @@
             </div>
             <div class=" timeline "></div>
             <div style=" width: 35vw; padding-left: 0em;">
-                <div style=" padding-top: 0.2em; ">
-                    <hr>
-                    <div class=" eventtext ">I'm born in Shanghai, China</div>
-                </div>
+            <div style=" padding-top: 0.2em; ">
+                <hr>
+                <div class=" eventtext ">I'm born in Shanghai, China</div>
+            </div>
 
-                <div style=" padding-top: 2em; ">
-                    <hr>
-                    <div class=" eventtext ">I learn to walk, talk, and eat? Who does anything interesting at this age</div>
-                </div>
+            <div style=" padding-top: 2em; ">
+                <hr>
+                <div class=" eventtext ">I learn to walk, talk, and eat? Who does anything interesting at this age</div>
+            </div>
 
-                <div style=" padding-top: 1.1em; ">
-                    <hr>
-                    <div class=" eventtext ">I write my first program, a calculator in C#</div>
-                </div>
+            <div style=" padding-top: 1.1em; ">
+                <hr>
+                <div class=" eventtext ">I write my first program, a calculator in C#</div>
+            </div>
 
-                <div style=" padding-top: 2.5em; ">
-                    <hr>
-                    <div class=" eventtext ">I create some simple games in C#, the code and projects is now lost</div>
-                </div>
+            <div style=" padding-top: 2.5em; ">
+                <hr>
+                <div class=" eventtext ">I create some simple games in C#, the code and projects is now lost</div>
+            </div>
 
-                <div style=" padding-top: 2.3em; ">
-                    <hr>
-                    <div class=" eventtext ">My earliest saved project -- the card game "War" with a GUI made in
-            C#</div>
+            <div style=" padding-top: 2.3em; ">
+                <hr>
+                <div class=" eventtext ">My earliest saved project -- the card game "War" with a GUI made in
+                    C#</div>
             </div>
 
             <div style=" padding-top: 0.2em; ">
@@ -98,7 +100,7 @@
                 <div class=" eventtext ">I begin to learn Python
                     <br>
                     <br>
-I complete a challenge from my dad: to implement a Big Integer class from scratch
+                    I complete a challenge from my dad: to implement a Big Integer class from scratch
                 </div>
             </div>
 
@@ -126,7 +128,8 @@ I complete a challenge from my dad: to implement a Big Integer class from scratc
             <div style=" padding-top: 0.3em; ">
                 <hr>
                 <div class=" eventtext ">
-                    I train a Neural Network that reached 65% accuracy predicting the outcome of a League of Legends match
+                    I train a Neural Network that reached 65% accuracy predicting the outcome of a League of Legends
+                    match
                 </div>
             </div>
 
