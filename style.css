@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.webgl {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.name-title {
+    color: white;
+    display: flex;
+    height: 100vh;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 7vmin;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 50vh;
+    will-change: transform;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    height: 100vh;
+    position: relative;
+    font-family: 'Oxygen', sans-serif;
+    color: #ffffff;
+    font-size: 7vmin;
+    padding-left: 10%;
+    padding-right: 10%;
+    will-change: transform;
+}
+
+.eventdate {
+    font-size: 0.25em;
+    color: lightgreen;
+}
+
+.eventtext {
+    padding-left: 10px;
+    font-size: 0.3em;
+}
+
+.timeline {
+    display: flex;
+    height: 350vh;
+    border: 3px rgb(255, 255, 255) solid;
+    position: absolute;
+}
+
+.year {
+    padding-bottom: 5em;
+    padding-right: 1em;
+    font-size: 0.5em;
+    color: lightblue;
+}
+
+#container {
+    text-align: center;
+}
+
+.typewriter-text {
+    display: inline-block;
+    vertical-align: middle;
+    color: grey;
+    font-family: 'Oxygen', sans-serif;
+}
+
+@keyframes blink {
+    from,
+    to {
+        background-color: transparent
+    }
+    50% {
+        background-color: orange;
+    }
+}
