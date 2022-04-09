@@ -10,35 +10,54 @@
     <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./style.css" />
     <link rel="stylesheet" href="./animations.css" />
- <script type="importmap">
-            {
-                "imports": {
-                    "three": "./build/three.module.js"
-                }
-            }
+    <script type="importmap">
+        { "imports": { "three": "./build/three.module.js" } }
     </script>
 
     <script type="module" src="./javascript/script.js " defer></script>
     <script type="module" src="./javascript/typewriter.js " defer></script>
 
-   
+
 </head>
 
 <body>
     <canvas class="webgl"></canvas>
     <section class="name-title">
         <h1 style="font-size: 3em; transform: translate(0%, -50%);" class="fade-in-text">Hi.</h1>
-        <h1 style="font-size: 2em; transform: translate(-0%, -50%); animation-delay: 1.5s; opacity: 0;"
-            class="fade-in-text" ">I'm Jonathan</h1>
-        <h2 style=" position: absolute; bottom: 10px; font-size: 0.5em; opacity: 0; animation-delay:2.5s; " class="
-            flicker ">Scroll down to see more</h2>
-        <div style=" font-size: 0.6em; animation-delay:2.6s; opacity: 0; transform: translate(0%, -80%); " class="
-            typewriter-text fade-in-text ">&nbsp;</div><div class=" cursor "></div>
+        <h1 style="font-size: 2em; transform: translate(-0%, -50%); animation-delay: 1.5s; opacity: 0;" class="fade-in-text" ">I'm Jonathan</h1>
+        <h2 style=" position: absolute; bottom: 10px; font-size: 0.5em; opacity: 0; animation-delay:2.5s; " class=" flicker ">Scroll down to see more</h2>
+        <div style=" font-size: 0.6em; animation-delay:2.6s; opacity: 0; transform: translate(0%, -80%); " class=" typewriter-text fade-in-text ">&nbsp;</div><div class=" cursor "></div>
     </section>
 
-    <section style=" height: 400vh " class=" section ">
-        <!-- <div style=" display:flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-evenly;
-            margin-top: 10%; ">
+    <section style=" height: 100vh " class=" section ">
+        <div style="width: 80%; text-align: left;">
+        <h1>Jonathan Hsieh</h1>
+            <div class=" about-text " style="color: grey">A 2nd year student at Northeastern University interested in theoretical CS and Math</div>
+            <br>
+            <div class=" about-text " style="color: white">I started my journey into computer science over 10 years ago when I first learned C# with guidance from my Dad.
+                Since then I've studied languages like C++, Python, Java, Javascript and dabbled in a few more. </div>
+            <div class=" about-text " style="padding-top: 3vh;">Probably biggest change in my relationship with Computer Science happened in freshman year of highschool, when I was introduced to
+                the US Computing Olympiad and served as my introduction to competitive programming. This eventually led me to learning more about algorithms and theoretical CS in general and sparked
+                my current interest.
+            </div>
+            <div class=" about-text " style="padding-top: 3vh;">
+                Apart from CS, I played quizbowl for my highschool as a science player. This required me to learn a very broad set of information about topics like Physics, Chemistry, and Biology.
+                I found myself captivated by the fields and always wanting to learn more which resulted in me starting a Biochemistry minor at Northeastern University.
+            </div>
+
+            <div class=" about-text " style="padding-top: 3vh; padding-bottom: 2.5vh;">
+                If you want to learn more about me, you can check out my Resume or Github below:
+            </div>
+
+            <a href="/resume.pdf" style="text-decoration: none;"><img id="about" src="images/resume.png" style="position:relative; width:7%; padding-right:50px">
+            </a>
+            <a href="https://github.com/jonathanh8686">
+                <img id="github" src="images/github.png" style="position:relative; width:7%; padding-right:50px">
+            </a>
+
+
+        </div>
+        <!-- <div style=" display:flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-evenly; margin-top: 10%; ">
             <div style=" width: 35vw; text-align: right; ">
                 <div class=" year ">2002</div>
                 <div style=" line-height: 0.5em " class=" year ">
@@ -68,7 +87,7 @@
                 <div class=" year ">2022</div> 
             </div>
             <div class=" timeline "></div>
-            <div style=" width: 35vw; padding-left: 0em;">
+            <div style=" width: 35vw; padding-left: 0em; ">
             <div style=" padding-top: 0.2em; ">
                 <hr>
                 <div class=" eventtext ">I'm born in Shanghai, China</div>
@@ -91,7 +110,7 @@
 
             <div style=" padding-top: 2.3em; ">
                 <hr>
-                <div class=" eventtext ">My earliest saved project -- the card game "War" with a GUI made in
+                <div class=" eventtext ">My earliest saved project -- the card game " War " with a GUI made in
                     C#</div>
             </div>
 

@@ -20,8 +20,13 @@
     flex-direction: column;
     padding-left: 10%;
     padding-right: 10%;
-    margin-bottom: 50vh;
+    margin-bottom: 35vh;
     will-change: transform;
+}
+
+.about-text {
+    font-size: 3vmin;
+    width: 100%;
 }
 
 .section {

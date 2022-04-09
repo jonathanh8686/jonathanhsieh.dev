@@ -8,5 +8,4 @@ app.use('/jsm/', express.static(path.join(__dirname, 'node_modules/three/example
 
 app.listen(3000, () => {
     console.log("Server running on port 3000")
-    console.log(path.join(__dirname, "node_modules/three/build"))
 })

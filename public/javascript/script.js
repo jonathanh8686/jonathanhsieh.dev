@@ -36,28 +36,28 @@ const starMaterial = new THREE.MeshBasicMaterial({
   color: new THREE.Color("#FDB714"),
 });
 const starMesh = new THREE.Mesh(geometry, starMaterial);
-starMesh.position.set(0, -6, 0);
+starMesh.position.set(0, -10, 0);
 starMesh.layers.set(1);
 scene.add(starMesh);
 
 const loader = new FontLoader();
 
-loader.load("/fonts/Oxygen Light_Regular.json", function (font) {
-  const textGeo = new TextGeometry("About Me", {
-    font: font,
-    size: 0.25,
-    height: 0.01,
-  });
+// loader.load("/fonts/Oxygen Light_Regular.json", function (font) {
+//   const textGeo = new TextGeometry("About Me", {
+//     font: font,
+//     size: 0.25,
+//     height: 0.01,
+//   });
 
-  const textMesh1 = new THREE.Mesh(
-    textGeo,
-    new THREE.MeshPhongMaterial({ color: new THREE.Color("#fd8714") })
-  );
-  textMesh1.position.set(-0.7, -6, 0)
-  // textMesh1.rotation.set(new THREE.Vector3( 0, 0, 0));
+//   const textMesh1 = new THREE.Mesh(
+//     textGeo,
+//     new THREE.MeshPhongMaterial({ color: new THREE.Color("#fd8714") })
+//   );
+//   textMesh1.position.set(-0.7, -6, 0)
+//   // textMesh1.rotation.set(new THREE.Vector3( 0, 0, 0));
 
-  scene.add(textMesh1);
-});
+//   scene.add(textMesh1);
+// });
 
 /**
  * Particles
