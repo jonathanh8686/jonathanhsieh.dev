@@ -1,90 +1,143 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .webgl {
-    position: fixed;
-    top: 0;
-    left: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 .name-title {
-    color: white;
-    display: flex;
-    height: 100vh;
-    font-family: 'Oxygen', sans-serif;
-    font-size: 7vmin;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    padding-left: 10%;
-    padding-right: 10%;
-    margin-bottom: 35vh;
-    will-change: transform;
+  color: white;
+  display: flex;
+  height: 100vh;
+  font-family: "Oxygen", sans-serif;
+  font-size: 7vmin;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 35vh;
+  will-change: transform;
 }
 
 .about-text {
-    font-size: 3vmin;
-    width: 100%;
+  font-size: 3vmin;
+  width: 100%;
 }
 
 .section {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    flex-direction: column;
-    height: 100vh;
-    position: relative;
-    font-family: 'Oxygen', sans-serif;
-    color: #ffffff;
-    font-size: 7vmin;
-    padding-left: 10%;
-    padding-right: 10%;
-    will-change: transform;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100%;
+  position: relative;
+  font-family: "Oxygen", sans-serif;
+  color: #ffffff;
+  font-size: 7vmin;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 10%;
+  will-change: transform;
 }
 
 .eventdate {
-    font-size: 0.25em;
-    color: lightgreen;
+  font-size: 0.25em;
+  color: lightgreen;
 }
 
 .eventtext {
-    padding-left: 10px;
-    font-size: 0.3em;
+  padding-left: 10px;
+  font-size: 0.3em;
 }
 
 .timeline {
-    display: flex;
-    height: 350vh;
-    border: 3px rgb(255, 255, 255) solid;
-    position: absolute;
+  display: flex;
+  height: 350vh;
+  border: 3px rgb(255, 255, 255) solid;
+  position: absolute;
 }
 
 .year {
-    padding-bottom: 5em;
-    padding-right: 1em;
-    font-size: 0.5em;
-    color: lightblue;
+  padding-bottom: 5em;
+  padding-right: 1em;
+  font-size: 0.5em;
+  color: lightblue;
 }
 
 #container {
-    text-align: center;
+  text-align: center;
 }
 
 .typewriter-text {
-    display: inline-block;
-    vertical-align: middle;
-    color: grey;
-    font-family: 'Oxygen', sans-serif;
+  display: inline-block;
+  vertical-align: middle;
+  color: grey;
+  font-family: "Oxygen", sans-serif;
 }
 
 @keyframes blink {
-    from,
-    to {
-        background-color: transparent
-    }
-    50% {
-        background-color: orange;
-    }
+  from,
+  to {
+    background-color: transparent;
+  }
+  50% {
+    background-color: orange;
+  }
+}
+
+.project-container {
+  padding-top: 5%;
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-columns: repeat(3, 30%);
+}
+
+@media (max-width: 1000px) {
+  .project-card {
+    height: 15vh !important;
+  }
+}
+
+@media (max-width: 620px) {
+  .project-container {
+    grid-template-columns: repeat(2, 40%);
+  }
+
+  .project-card {
+    height: 15vh !important;
+  }
+}
+
+@media (max-width: 400px) {
+  .project-container {
+    grid-template-columns: repeat(1, 80%);
+  }
+
+  .project-card {
+    height: 15vh !important;
+  }
+}
+
+.project-card {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.2);
+  height: 25vh;
+  margin-bottom: 5vh;
+  border: 2px;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+.project-title {
+  font-size: 2vmax;
+  padding-bottom: 10px;
+}
+
+.project-description {
+  font-size: 1.2vmax;
 }

@@ -31,14 +31,51 @@ scene.add(light);
 
 const objectsDistance = 4;
 
-const geometry = new THREE.IcosahedronGeometry(1, 3);
-const starMaterial = new THREE.MeshBasicMaterial({
-  color: new THREE.Color("#FDB714"),
-});
-const starMesh = new THREE.Mesh(geometry, starMaterial);
-starMesh.position.set(0, -10, 0);
-starMesh.layers.set(1);
-scene.add(starMesh);
+// const star1Geometry = new THREE.IcosahedronGeometry(0.5, 3);
+// const star1Material = new THREE.MeshBasicMaterial({
+//   color: new THREE.Color("#FDB714"),
+// });
+// const star1Mesh = new THREE.Mesh(star1Geometry, star1Material);
+// star1Mesh.position.set(5.2, 1, 0);
+// star1Mesh.layers.set(1);
+// scene.add(star1Mesh);
+
+// const star2Geometry = new THREE.IcosahedronGeometry(1, 3);
+// const star2Material = new THREE.MeshBasicMaterial({
+//   color: new THREE.Color("#FF0000"),
+// });
+// const star2Mesh = new THREE.Mesh(star2Geometry, star2Material);
+// star2Mesh.position.set(5, -4, 0);
+// star2Mesh.layers.set(1);
+// scene.add(star2Mesh);
+
+// const planet1Geometry = new THREE.IcosahedronGeometry(0.2, 3);
+// const planet1Material = new THREE.MeshLambertMaterial({
+//   color: new THREE.Color("#735a2f"),
+// });
+// const planet1Mesh = new THREE.Mesh(planet1Geometry, planet1Material);
+// planet1Mesh.position.set(-5, -2, 0);
+// planet1Mesh.layers.set(0);
+// scene.add(planet1Mesh);
+
+// const planet2Geometry = new THREE.IcosahedronGeometry(0.5, 3);
+// const planet2Material = new THREE.MeshLambertMaterial({
+//   color: new THREE.Color("#6bd629"),
+// });
+// const planet2Mesh = new THREE.Mesh(planet2Geometry, planet2Material);
+// planet2Mesh.position.set(-5, -10, 0);
+// planet2Mesh.layers.set(0);
+// scene.add(planet2Mesh);
+
+// const planet2RingGeometry = new THREE.TorusGeometry(0.8, 0.01, 16, 100);
+// const planet2RingMaterial = new THREE.MeshLambertMaterial({
+//   color: new THREE.Color("#00ff4c"),
+// });
+// const planet2RingMesh = new THREE.Mesh(planet2RingGeometry, planet2RingMaterial);
+// planet2RingMesh.position.set(-5, -10, 0);
+// planet2RingMesh.rotation.set(-5, -10, 0);
+// planet2RingMesh.layers.set(0);
+// scene.add(planet2RingMesh);
 
 const loader = new FontLoader();
 
@@ -174,3 +211,14 @@ const tick = () => {
 };
 
 tick();
+
+window.addEventListener( 'resize', onWindowResize, false );
+
+function onWindowResize(){
+
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+
+    renderer.setSize( window.innerWidth, window.innerHeight );
+
+}
