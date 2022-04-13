@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jonathan Hsieh</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <script type="importmap">
+      { "imports": { "three": "../../build/three.module.js" } }
+    </script>
+    <script type="module" src="../../javascript/script.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
+    <script src="sketch.js"></script>
+  </head>
+
+  <body>
+    <canvas class="webgl"></canvas>
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <section class="section" style="padding: 5vh 0 5vh 0">
+            <div class="title">A Study on Typing</div>
+            <div style="color: white; width: 50vw; padding-top: 2vh;"><hr></div>
+            <div class="content">
+                <p>
+                    I'm a pretty proficient typer, but I've definitely noticed that some words are harder than others. Which begs
+                    the question, what makes some words hard to type, and what makes some words easy to type?
+                    <br><br>
+                    Intuitively, I think it's probably about the distribution
+                    of letters and more specifically where they are positioned on the keyboard. A naive answer might be something like, typing
+                    speed is proportional to the total distance between the letters.
+                    <br><br>
+                    But when I think about typing a bit more carefully, I've come to the conclusion that perhaps what's more
+                    important is the alternation of hands, because that's what allows typist to start really flowing between the characters. Double letters are probably
+                    a single finger needs to take on so much responsibilty (try typing "balloon" really fast, you'll notice your ring finger is noticebly overworked).
+                </p>
+                <div class="note" style="top: 40%">Of course, I'm writing down my guess before seeing the results, to stay true to the scientific method</div>
+                <p>
+                    <br>
+                    To answer this question, we need to do some data collection first!
+                </p>
+                <div id="p5canvas" style="margin: 50px 0px 50px 0px; border: 2px; border-style: solid;"> </div>
+                <div class="note" style="top: 95%">The wordlist comes from 
+                    <a href="https://www.mit.edu/~ecprice/wordlist.10000" style="text-decoration: none; color:beige; position: relative;">https://www.mit.edu/~ecprice/wordlist.10000</a>
+                </div>
+                <p>
+                    After doing this for about 30 minutes, I got some results that we can start to analyze.
+                </p>
+                <!-- <iframe style="width: 50vw; height: 30vh; overflow: hidden;" scrolling="no" src="ms_histogram.html" seamless></iframe> -->
+        </section>
+
+    </div>
+  </body>
+</html>
