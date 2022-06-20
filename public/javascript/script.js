@@ -130,8 +130,8 @@ const sizes = {
 
 window.addEventListener("resize", () => {
   // Update sizes
-  sizes.width = window.innerWidth;
-  sizes.height = window.innerHeight;
+  sizes.width = document.documentElement.clientHeight;
+  sizes.height = document.documentElement.clientWidth;
 
   // Update camera
   camera.aspect = sizes.width / sizes.height;
