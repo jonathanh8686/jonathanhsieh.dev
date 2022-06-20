@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "date-fns": "^2.28.0",
     "express": "^4.17.3",
+    "helmet": "^5.1.0",
+    "react-scripts": "^5.0.1",
     "three": "^0.139.2"
   },
   "name": "jonathanhsieh.dev",
@@ -9,7 +12,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
