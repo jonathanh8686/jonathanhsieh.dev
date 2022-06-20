@@ -7,5 +7,5 @@ const interval = setInterval(() => {
     var toTime = new Date();
     var differenceTravel = toTime.getTime() - fromTime.getTime();
     var seconds = differenceTravel / 1000;
-    document.getElementById("year-dec").innerText = (4*seconds/totalSeconds).toString().substring(0, 10n);
+    document.getElementById("year-dec").innerText = (4*seconds/totalSeconds).toString().substring(0, 10);
 }, 1)
