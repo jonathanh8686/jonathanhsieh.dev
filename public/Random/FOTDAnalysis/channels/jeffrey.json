@@ -1,0 +1,4485 @@
+{
+  "guild": {
+    "id": "254698074323157013",
+    "name": "\uD83C\uDF93\uD83C\uDF93\uD83C\uDF93",
+    "iconUrl": "https://cdn.discordapp.com/icons/254698074323157013/840724d73280a5affd7ff3b5f8cf3d40.png"
+  },
+  "channel": {
+    "id": "769742813482582046",
+    "type": "GuildTextChat",
+    "category": "fact of the day",
+    "name": "jeffrey",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "769743115652562956",
+      "type": "Default",
+      "timestamp": "2020-10-25T02:04:19.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1: Elephants can\u0027t jump",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e9.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC18",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f418.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF1",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f1.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "3\uFE0F\u20E3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/33-20e3.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "573649150646681613",
+            "name": "DeleteThis",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/573649150646681613.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769757066100211722",
+      "type": "Default",
+      "timestamp": "2020-10-25T02:59:45.953+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "769757065446948914",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/769757065446948914/IMG_20201024_195915.jpg",
+          "fileName": "IMG_20201024_195915.jpg",
+          "fileSizeBytes": 3098253
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726998992587849759",
+            "name": "clubpenguin",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726998992587849759.gif"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770044313148456961",
+      "type": "Default",
+      "timestamp": "2020-10-25T22:01:10.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2: Half of the entire pig population is in China",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770112430272413709",
+      "type": "Default",
+      "timestamp": "2020-10-26T02:31:51.374+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "770112429748912179",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/770112429748912179/IMG_20201025_193141.jpg",
+          "fileName": "IMG_20201025_193141.jpg",
+          "fileSizeBytes": 2994059
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "758049869985349733",
+            "name": "gahegao",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/758049869985349733.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770561920997523457",
+      "type": "Default",
+      "timestamp": "2020-10-27T08:17:58.314+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "770561920570884106",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/770561920570884106/IMG_20201027_011737.jpg",
+          "fileName": "IMG_20201027_011737.jpg",
+          "fileSizeBytes": 3450376
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654486583348690964",
+            "name": "yaopride",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654486583348690964.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770586450458443786",
+      "type": "Default",
+      "timestamp": "2020-10-27T09:55:26.593+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "770586449920786482",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/770586449920786482/IMG_20201027_025512.jpg",
+          "fileName": "IMG_20201027_025512.jpg",
+          "fileSizeBytes": 3161313
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "609373441606287381",
+            "name": "thinkhang",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/609373441606287381.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771229652520927262",
+      "type": "Default",
+      "timestamp": "2020-10-29T04:31:17.915+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "3: You can eat lava, but only once",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100703100993547",
+            "name": "monkaweird",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100703100993547.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "547288705728249873",
+            "name": "4headcustommadebydwen",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547288705728249873.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771265354772119582",
+      "type": "Default",
+      "timestamp": "2020-10-29T06:53:09.995+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "4: You can also eat nails, but also only once",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "626191509103968268",
+            "name": "kekw",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/626191509103968268.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771268055039868928",
+      "type": "Default",
+      "timestamp": "2020-10-29T07:03:53.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5: Yami Yugi plays a variant of Nim in Yu-Gi-Oh! Season 0, with roses instead of rocks. He ends up winning by taking a rose in the opponents hair, who grows old and shrivels up into dust",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771273491139002409",
+      "type": "Default",
+      "timestamp": "2020-10-29T07:25:29.856+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "771273490795986944",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/771273490795986944/20201029_002523.jpg",
+          "fileName": "20201029_002523.jpg",
+          "fileSizeBytes": 1061664
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "687788028697378853",
+            "name": "ccPizza",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/687788028697378853.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771277030855671828",
+      "type": "Default",
+      "timestamp": "2020-10-29T07:39:33.79+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "771277030611615764",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/771277030611615764/20201029_003927.jpg",
+          "fileName": "20201029_003927.jpg",
+          "fileSizeBytes": 835854
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "756240768884146206",
+            "name": "josephkim2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/756240768884146206.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771557940746125333",
+      "type": "Default",
+      "timestamp": "2020-10-30T02:15:47.927+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5: I dislike people who always think they\u0027re always right, but when confronted about it choose to not actually defend their opinions and instead concede in a casual manner in an attempt to shut down dissent but actually continue to just think the same thing",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "356113763499245568",
+            "name": "PogChamp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/356113763499245568.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "755240054137421834",
+            "name": "pogU",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/755240054137421834.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "483050665816358912",
+            "name": "pogchenp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483050665816358912.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771597902152728588",
+      "type": "Default",
+      "timestamp": "2020-10-30T04:54:35.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "771597901918240788",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/771597901918240788/20201029_215429.jpg",
+          "fileName": "20201029_215429.jpg",
+          "fileSizeBytes": 915640
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "771598268929015808",
+      "type": "Default",
+      "timestamp": "2020-10-30T04:56:02.915+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "771598268621651968",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/771598268621651968/20201029_215556.jpg",
+          "fileName": "20201029_215556.jpg",
+          "fileSizeBytes": 1173295
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "771598400835682325",
+      "type": "Default",
+      "timestamp": "2020-10-30T04:56:34.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aidenwoozy:",
+      "author": {
+        "id": "124745315902291968",
+        "name": "Airikan",
+        "discriminator": "7238",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124745315902291968/3402b19178756df321d5751fd7acbb1b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "771867841455718421",
+      "type": "Default",
+      "timestamp": "2020-10-30T22:47:14.014+00:00",
+      "timestampEdited": "2020-10-30T22:49:10.628+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "6: The Venezuelan economy crashed because of socialism, and now a large play old school runescape, because the gold in runescape is worth more then their actual currency. They frequent high income gold farming activities in huge numbers, creating huge clans and i hate them get them out spanish speaking fucking gringo degen retards",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751199406719500338",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751199406719500338.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "591885485245202442",
+            "name": "wewega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/591885485245202442.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772334947670425600",
+      "type": "Default",
+      "timestamp": "2020-11-01T05:43:20.814+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "772334947146661918",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/772334947146661918/IMG_20201031_224305.jpg",
+          "fileName": "IMG_20201031_224305.jpg",
+          "fileSizeBytes": 2935228
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "677708007282573322",
+            "name": "walter",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/677708007282573322.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "544047467289772042",
+            "name": "raymond",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/544047467289772042.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772335316786610197",
+      "type": "Default",
+      "timestamp": "2020-11-01T05:44:48.818+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oc do not steal",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "772554311237369906",
+      "type": "Default",
+      "timestamp": "2020-11-01T20:15:01.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "7: Bananas are actually an herb",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f34c.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772706900159627285",
+      "type": "Default",
+      "timestamp": "2020-11-02T06:21:21.198+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "772706899681738782",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/772706899681738782/IMG_20201101_205157.jpg",
+          "fileName": "IMG_20201101_205157.jpg",
+          "fileSizeBytes": 3271452
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751199244039356426",
+            "name": "yep",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751199244039356426.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772706949165875220",
+      "type": "Default",
+      "timestamp": "2020-11-02T06:21:32.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I can only draw in this 3/4 view and pose",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773055843553509436",
+      "type": "Default",
+      "timestamp": "2020-11-03T05:27:55.786+00:00",
+      "timestampEdited": "2020-11-03T05:28:02.932+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "8: The people at UCSD are insane, I just peer reviewed a paper where their ending sentence was \u0022conservatives have all been indoctrinated into thinking everything liberal is wrong and should be shut down.\u0022",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773106874576928779",
+      "type": "Default",
+      "timestamp": "2020-11-03T08:50:42.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not an fotd, but if you ever want me to draw something just shoot me a dm or type in general or smth",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773390260851703828",
+      "type": "Default",
+      "timestamp": "2020-11-04T03:36:47.083+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "773390260368310332",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/773390260368310332/IMG_20201103_193531.jpg",
+          "fileName": "IMG_20201103_193531.jpg",
+          "fileSizeBytes": 3481247
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "755243243700224191",
+            "name": "sagiri",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/755243243700224191.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "360233065626468362",
+            "name": "pepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/360233065626468362.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773755324783919214",
+      "type": "Default",
+      "timestamp": "2020-11-05T03:47:25.107+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "773755323839807498",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/773755323839807498/IMG_20201104_192601.jpg",
+          "fileName": "IMG_20201104_192601.jpg",
+          "fileSizeBytes": 3487667
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751199244039356426",
+            "name": "yep",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751199244039356426.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "360233065626468362",
+            "name": "pepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/360233065626468362.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773805689880707132",
+      "type": "Default",
+      "timestamp": "2020-11-05T07:07:33.082+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "773805689478316072",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/773805689478316072/IMG_20201104_230718.jpg",
+          "fileName": "IMG_20201104_230718.jpg",
+          "fileSizeBytes": 3393381
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "723040767169396757",
+            "name": "PepeHappy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/723040767169396757.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD0A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f50a.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773805701176360992",
+      "type": "Default",
+      "timestamp": "2020-11-05T07:07:35.775+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mini drawing",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773813263129378866",
+      "type": "Default",
+      "timestamp": "2020-11-05T07:37:38.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "773813262697496586",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/773813262697496586/IMG_20201104_233603.jpg",
+          "fileName": "IMG_20201104_233603.jpg",
+          "fileSizeBytes": 3623730
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773813299707641877",
+      "type": "Default",
+      "timestamp": "2020-11-05T07:37:47.406+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Experimenting with backgrounds",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774056238375895070",
+      "type": "Default",
+      "timestamp": "2020-11-05T23:43:08.498+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "774056237959872522",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/774056237959872522/IMG_20201105_154255_01.jpg",
+          "fileName": "IMG_20201105_154255_01.jpg",
+          "fileSizeBytes": 3511898
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774591132868673536",
+      "type": "Default",
+      "timestamp": "2020-11-07T11:08:37.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "9: I have been @rifter more than every other @ combined",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "483050665816358912",
+            "name": "pogchenp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483050665816358912.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774826186554998834",
+      "type": "Default",
+      "timestamp": "2020-11-08T02:42:38.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "10: After reading these dumb climate change essays, I realize that most of the people in my class think that climate change is caused solely and entirely by climate deniers",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "483046881417494529",
+            "name": "yongjae2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483046881417494529.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a9.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774880170024108032",
+      "type": "Default",
+      "timestamp": "2020-11-08T06:17:09.111+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "774880168825192498",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/774880168825192498/IMG_20201107_213710.jpg",
+          "fileName": "IMG_20201107_213710.jpg",
+          "fileSizeBytes": 3219899
+        },
+        {
+          "id": "774880169588293632",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/774880169588293632/IMG_20201107_221654.jpg",
+          "fileName": "IMG_20201107_221654.jpg",
+          "fileSizeBytes": 3440726
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774880247169941524",
+      "type": "Default",
+      "timestamp": "2020-11-08T06:17:27.504+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "showing my drawing process",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774880335984590860",
+      "type": "Default",
+      "timestamp": "2020-11-08T06:17:48.679+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also I cannot draw faces so i just put the hood on every character",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775257337710772224",
+      "type": "Default",
+      "timestamp": "2020-11-09T07:15:52.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "11: Cashews come from a fruit",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "775492049792925747",
+      "type": "Default",
+      "timestamp": "2020-11-09T22:48:32.616+00:00",
+      "timestampEdited": "2020-11-09T22:56:59.753+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "12: If you unironically think people are evil because their views differ from yours, you are genuinely the most arrogant, self righteous scum of the earth. I know everybody likes to pretend to be non-political, which is just an excuse to not hear anything from the other side while still vehemently supporting Joe Biden, but yes, I am referring to the way that democrats have been framing republicans in the past few years, and currently after this election. People who put on their Instagram story that \u0022if you\u0027re voting for Trump, get off my friends list,\u0022 are ironically, by definition incredibly intolerant, and if you honestly think that Trump supporters are \u0022evil,\u0022 or \u0022ignorant,\u0022 you genuinely need to get an industrial rig and start drilling your head out of your ass. I cannot believe how democrats like Obama\u0027s wife can get away with saying that everybody who voted for trump voted for \u0022lies, deception, and the status quo,\u0022 or how AOC can tweet about keeping an archive of trump supporters, is literally the type of shit that actual Hitler era Nazis would act, and people are just ok with this. It makes me sick to my stomach. This is spoken as a guy who\u0027s views are pretty moderate right, I did not vote for either candidate, but to me it\u0027s clear that radical- moderate Democrats are more and more approaching this stage where they want to exterminate republicans, because they think they are genuinely evil.",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE42",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f642.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "360233065626468362",
+            "name": "pepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/360233065626468362.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f929.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775616922712277022",
+      "type": "Default",
+      "timestamp": "2020-11-10T07:04:44.64+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "775616922313162773",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/775616922313162773/IMG_20201109_230436.jpg",
+          "fileName": "IMG_20201109_230436.jpg",
+          "fileSizeBytes": 3175690
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775834180398481458",
+      "type": "Default",
+      "timestamp": "2020-11-10T21:28:02.909+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "13: You can suck on the tiddy of a cow",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD28",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f928.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775949875941736448",
+      "type": "Default",
+      "timestamp": "2020-11-11T05:07:46.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "775949875580764190",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/775949875580764190/IMG_20201110_210658.jpg",
+          "fileName": "IMG_20201110_210658.jpg",
+          "fileSizeBytes": 3119986
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776183565917487115",
+      "type": "Default",
+      "timestamp": "2020-11-11T20:36:22.908+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "14: We have all been born at least once",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776540978869174303",
+      "type": "Default",
+      "timestamp": "2020-11-12T20:16:36.796+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "124745315902291968",
+        "name": "Airikan",
+        "discriminator": "7238",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124745315902291968/3402b19178756df321d5751fd7acbb1b.png"
+      },
+      "attachments": [
+        {
+          "id": "776540978630230026",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/776540978630230026/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 63977
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776694420233650206",
+      "type": "Default",
+      "timestamp": "2020-11-13T06:26:20.068+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not even going to pen this",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "776694419960102912",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/776694419960102912/20201112_222612.jpg",
+          "fileName": "20201112_222612.jpg",
+          "fileSizeBytes": 748655
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776932713315041292",
+      "type": "Default",
+      "timestamp": "2020-11-13T22:13:13.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "15: I would rate Docchi Mo Maid a 10/10",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777463643335032832",
+      "type": "Default",
+      "timestamp": "2020-11-15T09:22:57.147+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "777463642828177418",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/777463642828177418/IMG_20201113_154222.jpg",
+          "fileName": "IMG_20201113_154222.jpg",
+          "fileSizeBytes": 3062496
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686316025498959875",
+            "name": "satisfied",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686316025498959875.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777479952919560192",
+      "type": "Default",
+      "timestamp": "2020-11-15T10:27:45.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "777479952475357194",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/777479952475357194/IMG_20201115_022732.jpg",
+          "fileName": "IMG_20201115_022732.jpg",
+          "fileSizeBytes": 3204935
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2642\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2642.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2640\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2640.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777480132066934814",
+      "type": "Default",
+      "timestamp": "2020-11-15T10:28:28.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "woman or man",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777812421082873867",
+      "type": "Default",
+      "timestamp": "2020-11-16T08:28:52.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "777812420420829194",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/777812420420829194/IMG_20201116_002843.jpg",
+          "fileName": "IMG_20201116_002843.jpg",
+          "fileSizeBytes": 2807622
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777813201252253736",
+      "type": "Default",
+      "timestamp": "2020-11-16T08:31:58.249+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "less boring pictures later i promise",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777813434640760873",
+      "type": "Default",
+      "timestamp": "2020-11-16T08:32:53.893+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "16: Yelling is just like talking, but louder",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "547289631658475521",
+            "name": "pepega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547289631658475521.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778530898404573206",
+      "type": "Default",
+      "timestamp": "2020-11-18T08:03:50.584+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "17: Teriyaki is not from China",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778884368437477396",
+      "type": "Default",
+      "timestamp": "2020-11-19T07:28:24.407+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "778884366784528384",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/778884366784528384/IMG_20201118_232803.jpg",
+          "fileName": "IMG_20201118_232803.jpg",
+          "fileSizeBytes": 2874191
+        },
+        {
+          "id": "778884367824322560",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/778884367824322560/IMG_20201118_222719.jpg",
+          "fileName": "IMG_20201118_222719.jpg",
+          "fileSizeBytes": 3028922
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779103360049217556",
+      "type": "Default",
+      "timestamp": "2020-11-19T21:58:36.076+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "18: Bear is homosexual slang for masculine, heavy set men with lots of facial hair",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749032285608869988",
+            "name": "Poggus",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749032285608869988.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD28",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f928.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779186131656638486",
+      "type": "Default",
+      "timestamp": "2020-11-20T03:27:30.365+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "779186131547062312",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/779186131547062312/Screenshot_20201119-130049.jpg",
+          "fileName": "Screenshot_20201119-130049.jpg",
+          "fileSizeBytes": 85931
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD23",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f923.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF46",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f346.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779224716300255245",
+      "type": "Default",
+      "timestamp": "2020-11-20T06:00:49.661+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "779224715989352458",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/779224715989352458/IMG_20201119_215754.jpg",
+          "fileName": "IMG_20201119_215754.jpg",
+          "fileSizeBytes": 3159325
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779245261829832714",
+      "type": "Default",
+      "timestamp": "2020-11-20T07:22:28.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "183403512468733953",
+        "name": "K.K.",
+        "discriminator": "4126",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183403512468733953/b7e205ae2bafd22b5cfaa6bfcdfc45c5.png"
+      },
+      "attachments": [
+        {
+          "id": "779245261658259486",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/779245261658259486/47u0406i88061.jpg",
+          "fileName": "47u0406i88061.jpg",
+          "fileSizeBytes": 63835
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686316025498959875",
+            "name": "satisfied",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686316025498959875.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779616035296903178",
+      "type": "Default",
+      "timestamp": "2020-11-21T07:55:47.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "19: hot dog",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2753",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780007575721738250",
+      "type": "Default",
+      "timestamp": "2020-11-22T09:51:37.892+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "20: not dog",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "490412686870577154",
+            "name": "PepeHands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/490412686870577154.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780236738139521065",
+      "type": "Default",
+      "timestamp": "2020-11-23T01:02:14.47+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "21: zot dog",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780561915783938048",
+      "type": "Default",
+      "timestamp": "2020-11-23T22:34:22.862+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "22: lot dog",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDDD1\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f5d1.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780905504112508948",
+      "type": "Default",
+      "timestamp": "2020-11-24T21:19:40.703+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "23: pot dog",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "617981961100722176",
+            "name": "gadzooks",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/617981961100722176.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781706249896984576",
+      "type": "Default",
+      "timestamp": "2020-11-27T02:21:33.375+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "24: top dog",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781707786635444259",
+      "type": "Default",
+      "timestamp": "2020-11-27T02:27:39.762+00:00",
+      "timestampEdited": "2020-11-27T22:47:13.256+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "25: I am thankful for all my friends who support me, like aiden, sean, demi, derek, trevor, josh, and sometimes jonathan",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "626191509103968268",
+            "name": "kekw",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/626191509103968268.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782511451499790356",
+      "type": "Default",
+      "timestamp": "2020-11-29T07:41:08.397+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "26: the entire right side of my body hurts",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "465371181164265483",
+            "name": "kreygasm",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/465371181164265483.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783017877002256427",
+      "type": "Default",
+      "timestamp": "2020-11-30T17:13:29.646+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "27: you can be tickled from the inside",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "343083370798120960",
+            "name": "monkaOMEGA",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/343083370798120960.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783039699388334132",
+      "type": "Default",
+      "timestamp": "2020-11-30T18:40:12.508+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just cut my finger on my hair",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "783039699072712784",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/783039699072712784/20201130_104001.jpg",
+          "fileName": "20201130_104001.jpg",
+          "fileSizeBytes": 1200753
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC87\u200D\u2642\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f487-200d-2642.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783892052202487838",
+      "type": "Default",
+      "timestamp": "2020-12-03T03:07:09.255+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "28: In most games, the most valuable resource is actually your time",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e8.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD91",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f191.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f0.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF1",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f1.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ee.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1eb.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784163091990315028",
+      "type": "Default",
+      "timestamp": "2020-12-03T21:04:10.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "29: the wind last night knocked all the power out of the stoplights outside my house",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784683349855174657",
+      "type": "Default",
+      "timestamp": "2020-12-05T07:31:29.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "30: p",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF5",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f5.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784878890094952449",
+      "type": "Default",
+      "timestamp": "2020-12-05T20:28:29.743+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "31: Bleach is actually a really good anime and I\u0027m not sure why more people don\u0027t like it. 9/10",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "776961226823565322",
+            "name": "jae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/776961226823565322.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785730767736406036",
+      "type": "Default",
+      "timestamp": "2020-12-08T04:53:33.2+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "32: a hot dog is clearly a sub",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "775889234820857856",
+            "name": "3head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/775889234820857856.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786120058485211147",
+      "type": "Default",
+      "timestamp": "2020-12-09T06:40:27.347+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "33: jonathan smells bad",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "775889234820857856",
+            "name": "3head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/775889234820857856.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786692724552237136",
+      "type": "Default",
+      "timestamp": "2020-12-10T20:36:01.577+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "34: Today I will be starting jeffrey\u0027s a-z champion insights, where I will be giving my opinions on how every champion is designed.",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44f.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786717833613934602",
+      "type": "Default",
+      "timestamp": "2020-12-10T22:15:48.044+00:00",
+      "timestampEdited": "2020-12-10T23:08:18.072+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "35: Preseason thoughts - I find it amazing how riot manages to completely overhaul the items, and yet the game still plays out exactly the same. None of the mythic items change gameplay whatsoever. They are just huge statsticks, and whoever gets the larger statstick is meta (tanks).\n\nBruiser mythics are overall underwhelming. They are interesting but the actives suck and are all outclassed by pretty much any other mythic.\nGoredrinker - ideally, tankier bruisers like a Darius or Illaoi would build this, but the problem is that it gives no mobility, so you are just doubling down on your weaknesses. The radius is tiny on the active and the cooldown is too long, when you die in teamfights in 5-6 seconds. On squishier bruisers, the stats suck balls (there is no physical vamp, for some bizarre reason), and you die even faster, so the active is pretty much worthless. \nStridebreaker - This item sucks, the dash is barely even noticeable, and there is A CAST TIME which makes the dash even worse. I build this pretty much as a troll item for the movespeed bonus. The stats are ok but are too widespread to be really good on any one champion. The dash is just too short to justify buying this when you can buy any other item in the game.\nTriforce - Just outclasses most other mythics. It gives bruisers a nice mobility and damage powerspike, so there really isn\u0027t a reason to build anything else on champs that already built it. Idk why they put the ramping damage in that shit it\u0027s barely noticable.\nDivine Sunderer - The whole shtick of this item is that it concentrates the power of triforce into the spellblade passive, but the passive sucks and is outclassed by triforce\u0027s spellblade, so it\u0027s worthless. The only reason people buy it is for the mythic armor pen passive. You can tell that it sucks because Camille takes triforce, even though the sunderer passive synergizes much more with her kit.",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "776961226823565322",
+            "name": "jae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/776961226823565322.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786717863737032775",
+      "type": "Default",
+      "timestamp": "2020-12-10T22:15:55.226+00:00",
+      "timestampEdited": "2020-12-10T22:16:07.676+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Assassin mythics are also underwhelming. Mainly because assassins only care about damage, so they just pick the mythic with the most damage (duskblade)\nDuskblade - deals damage, invisibility effect is basically a non-factor, because most assassins already have an escape\nEclipse - has way too many effects on the passive. This item is literally built specifically for Jhin - what assassin needs a fucking shield and ms? \nProwlers claw - I literally forgot this item exists. There is no reason to buy it, like ever. The stats are just so bad compared to the other mythics, and assassin don\u0027t need the dash.",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "776961226823565322",
+            "name": "jae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/776961226823565322.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786718245171625985",
+      "type": "Default",
+      "timestamp": "2020-12-10T22:17:26.167+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tank mythics suck other than sunfire, which is op because it does too much damage. Iceborne sucks, because a shitty slow is not enough to justify going it over sunfire. Chemtank is just niche, for those tanks that have like a single purpose in a teamfight (skarner)",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "776961226823565322",
+            "name": "jae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/776961226823565322.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786718671787130930",
+      "type": "Default",
+      "timestamp": "2020-12-10T22:19:07.88+00:00",
+      "timestampEdited": "2020-12-10T22:20:12.311+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AD mythics overall are just bad because they rely on other items to be strong, so they don\u0027t spike hard in games that last 2 items.\nKraken Slayer - The passive is just bad, because it barely does any damage. That\u0027s about it. Nobody really cares about 80 true damage every third auto.\nGaleforce - AD\u0027s don\u0027t need the dash, because they get killed in one hit before they can dash. Stats suck\nShieldbow - Easily the best AD mythic, but because it doesn\u0027t give you massive damage first item, ADC\u0027s choose to go other items.",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "776961226823565322",
+            "name": "jae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/776961226823565322.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786721571775447101",
+      "type": "Default",
+      "timestamp": "2020-12-10T22:30:39.291+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mage mythics all do the same thing, it\u0027s just that some do damage slightly differently\nProtobelt - actually weaker then before, because it costs a reasonable amount, and not 2600 gold. For that reason, a lot of mages don\u0027t go it.\nLudens - does the same thing as all the other ones, but it gives mana. That is literally the only reason why people buy it.\nRiftmaker - has the same problems as conqueror, where tanks don\u0027t care about 10% bonus damage. Chances are, if you aren\u0027t hurting a tank without the passive, you won\u0027t magically start hurting them with it.\nEverfrost - stats are average, but I don\u0027t understand which champion wants the active whatsoever it just kind of sucks\nLiandries - Does the same thing as before, but the ability haste is really annoying on cc mages",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "776961226823565322",
+            "name": "jae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/776961226823565322.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786736198499958804",
+      "type": "Default",
+      "timestamp": "2020-12-10T23:28:46.574+00:00",
+      "timestampEdited": "2020-12-11T21:01:19.221+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "36: Aatrox - Overall, I think Aatrox is one of the better designed champions. His kit has very clear weaknesses, and there\u0027s a lot of positioning skill involved in his kit which is really rare for modern champions. Only thing that I find annoying is that at early ranks the q cooldown is way too short, and it renders him completely nonpunishable. Additionally, the w is too large on the portion that faces aatrox - it just lets him escape engagements too easily. He should be forced to fight, which is the whole point of his character.\nA tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1eb.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ee.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD70\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f170.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2705",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2705.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "776961226823565322",
+            "name": "jae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/776961226823565322.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786738362189873212",
+      "type": "Default",
+      "timestamp": "2020-12-10T23:37:22.438+00:00",
+      "timestampEdited": "2020-12-11T21:01:11.526+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "37: Ahri - Ahri is one of those champions that you don\u0027t really see often, but is incredibly cancer. The problem is not that she has too much damage or mobility, (which she does) it\u0027s her charm. I suppose it\u0027s a symptom of all the cdr just rampant in the game, but assassins should in no circumstances have any cc whatsoever. I don\u0027t think riot realizes that skillshots are not difficult to land whatsoever when you have triple dashes, and you can even take glacial augment for extra cancer. Most of the time, she just spams charm into a crowd of enemies, and if she eventually hits someone (which she eventually will) they are dead. Ahri is unkillable unless you can one-shot her, which is also impossible with zhonyas. At a glance, her kit doesn\u0027t look overloaded, but then you realize that she has 3 flashes on such a short cooldown that you can\u0027t really punish her ever. Melee champions cannot touch her.\nD tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "775889234820857856",
+            "name": "3head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/775889234820857856.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786740967276544042",
+      "type": "Default",
+      "timestamp": "2020-12-10T23:47:43.539+00:00",
+      "timestampEdited": "2020-12-11T21:01:03.725+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "38: Akali - Probably one of the worst designed champions in the game. Shroud is by far the worst ability in the game, worse than like even polymorph. It literally discourages you from interacting with Akali, and if you don\u0027t have any massive aoe like katarina or whatever you basically have to just take half your health as you try to walk out of the shroud, since you absolutely cannot trade back with her inside of it. Other than that, her kit just has way too much fucking damage in it, you can pretty much all in most champs at level 6 and 100 - 0 them while invisible half the time. You can tell because akali players no longer have to take an actual damage rune, they just take fleet. Her kit is an excellent example of just having a bunch of random shit just tacked onto it, and even though her kit doesn\u0027t have anything egregious at first sight, there\u0027s just a bunch of shit like the extra range and movespeed on the passive, the slow for some reason on her q, and the stun and execute on her ult. Laning against her as a melee champion is super cancer, and it\u0027s basically just her taking pot shots at you with q \u002B passive, and if you try to engage on her she just shrouds.\nF tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786795292896788480",
+      "type": "Default",
+      "timestamp": "2020-12-11T03:23:35.776+00:00",
+      "timestampEdited": "2020-12-11T21:00:56.034+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "39: Alistar - I really actually like Alistar, even though his champ is supposed to cuck bruisers out of engages. His kit is really well designed for what he has to do, which is just to peel people off his AD. It always feels deserved when an alistar gets a good w q on a big group, because he actually has to time it, the q radius is small, and his entire kit is pretty much just those two abilities. Alistar also feels like the only support champion where it doesn\u0027t feel like cheating to build mobis and still be incredibly tanky, since his ult\u0027s duration is short, and he isn\u0027t a really big priority in teamfights like some other supports that can build mobis and full utility and still be incredibly tanky from aftershock and support item tank stats. Overall, a good champion design - it\u0027s a shame that he\u0027s pushed out of the meta because other champs can do everything he can do but better\nA tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f42e.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786804077073661952",
+      "type": "Default",
+      "timestamp": "2020-12-11T03:58:30.087+00:00",
+      "timestampEdited": "2020-12-11T21:03:59.635+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "40: Ammummu - Amummu has had his bouts of popularity, but his viability mostly comes from the fact that he\u0027s just a really generic tank. This time, he was just the worst abuser of sunfire aegis. In terms of design, he\u0027s just a really generic tank - nothing all that special. The majority of his kit is based on his insanely powerful ult, which is ok I guess, but when cdr is so easy to come by, and ultimate hunter is a thing, he starts to become really overbearing. Other than that, he\u0027s just one of those spike at 6 junglers like eve and nocturne, but a tank\nC tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD9B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f99b.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786806642813435954",
+      "type": "Default",
+      "timestamp": "2020-12-11T04:08:41.807+00:00",
+      "timestampEdited": "2020-12-11T21:00:38.704+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "41: Anivia - Anivia is the definition of an area denial mage. The only problem is that nobody needs to deny any areas when you can just one shot anybody within 2 meters of you, which is why people just play shit like orianna instead, where you can move your ball next to people and just one shot them instead of slowing them and dealing pretty mediocre damage. I think anivia\u0027s design is cool, and she is well designed, but she really just is a victim of the massive mobility creep and damage creep of the game, and desperately needs a rework.\nA tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786807722015719434",
+      "type": "Default",
+      "timestamp": "2020-12-11T04:12:59.109+00:00",
+      "timestampEdited": "2020-12-11T21:00:27.825+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "42: Annie - Annie is similar to anivia, where her niche is just been powercreeped away. Her whole thing was that she did a lot of damage, but now all mages can oneshot people at 6, so there really isnt a reason for annie to exist, when you can play syndra\nB tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787061211807219762",
+      "type": "Default",
+      "timestamp": "2020-12-11T21:00:15.785+00:00",
+      "timestampEdited": "2020-12-11T21:04:24.145+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "43: Aphelios - Aphelios is one of those champions where AD mains will insist that he\u0027s super hard to play and complex, but if you\u0027ve actually played against aphelios he just plays like the most generic adc ever. All of his guns do the exact same thing, but in just slightly different ways. His playstyle doesn\u0027t magically change depending on which gun he has - he\u0027s always just this kind of kitey chunky retard that sits in the back and autoes. Claiming that he\u0027s hard because he has 5 guns is kind of like claiming that playing level 1 is hard because you have the potential to level up and skill the other 3 abilities. At any given point he only has 2 abilities, and the \u0022Skill\u0022 of his kit just comes from having the right gun at the right time, which is both extremely hard and extremely easy because you have to CS, so the game pretty much just picks it for you. It\u0027s really ironic, actually, because despite being this champion who was hailed as being super complex, his playstyle is just super bland and uninteresting. I think the only reason why he was ever picked over a corki or ezreal or whatever was because of numbers, and the fact that for some reason riot decided that it would be genius if his ult one shot entire teams on blue gun, and didn\u0027t hotfix that shit. It\u0027s very clear that this is a champion that embodies riot\u0027s current design philosophy, where they just pick some random gimmick, and then design the rest of the champion around that. In this case, they said \u0022we want a champion with 5 rotating guns,\u0022 and then someone asked \u0022but what about the rest of the champion?\u0022 and then he was fired. \nD tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "547289631658475521",
+            "name": "pepega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547289631658475521.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787064219975548938",
+      "type": "Default",
+      "timestamp": "2020-12-11T21:12:12.988+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "44: Ashe - Ashe was one of the original releases, and back then it was really obvious what her niche was, but now with the rework riot seems a little confused as to what ashe\u0027s place is in the game. The way that ashe plays is supposed to be very utility based, but her dps is mediocre, which is suicide when bot lane is filled with champs that can one shot champions like jhin or samira, and tanks literally take 0 damage. I think riot needs to just stop pushing ashe into an ADC role. All of her abilities except for her q are utility based, (poke/slow, vision, long-range cc) so of course she can\u0027t compete with adcs like ezreal (damage, damage, mobility, damage) when fulfilling the AD\u0027s role, which is damage. She clearly would fit more in a mid lane or support role, and I like the idea of an AD utility mage, but right now she\u0027s just a really shitty adc, because riot\u0027s not sure where to put her.\nC tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787064646120374295",
+      "type": "Default",
+      "timestamp": "2020-12-11T21:13:54.589+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "45: Aurelion Sol - I don\u0027t really have thoughts on this champion, other than knowing that for some reason people one trick this guy, but from what I gather he plays just like a TF, where he just pushes out the wave and then goes spreading his aids over to other lanes, but this begs the question, why the fuck does he exist when TF does the exact same thing\nD tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44e.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787070669715406888",
+      "type": "Default",
+      "timestamp": "2020-12-11T21:37:50.726+00:00",
+      "timestampEdited": "2020-12-11T21:40:12.884+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "46: Azir - Azir is actually a really cool champion design. He plays like a bastion, where there is a defensive line that he can slowly move up, but when he tries to move his soldiers too far away, he makes himself vulnerable. This kind of playstyle is really cool to see, and just from that you can see who would counter him (siege mages) and who he should counter. (shorter range mages like rumble and vlad) What I think is really unfortunate is actually the shurima shuffle. It makes azir extremely hard to balance, because all of a sudden he has a huge playmaking tool, when his entire kit is supposed to be slow. The problem is is that using the shuffle is more effective then his actual kit, which makes his passive useless and his soldier just turn into \u0022put on top of champion after shuffle to do damage.\u0022 So now riot has to balance azir around the shuffle, which is why they removed the anti-dash mechanic on his ult, when it would have been perfectly fine if the shuffle was just not a thing. I think it would be much easier to balance azir if the shuffle was just removed, but then mid lane crybabies will whine that their champion doesn\u0027t have \u0022big cool flashy playmaking move,\u0022 even though if you wanted to do that you should have just played qiyana or lissandra or like any other mage\nA tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787074185952100354",
+      "type": "Default",
+      "timestamp": "2020-12-11T21:51:49.062+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "47: Bard - Bard is just like annie and anivia in that he had a really cool idea behind him, but then riot fucked him in the asshole when they decided that they wanted every support to be able to roam 24/7. So now he is just a shitty champ, when he could have been really cool, and to be honest I think it would have been healthier for the game if perma roam was unique to bard. You can really see the design intent in his kit - with the portal allowing him easy ways to help his jungler and roam, without being a really cancer escape tool so that he can\u0027t solo gank - with the q being good if you walk into a lane perpendicular to the wave as a ganker instead of parallel like a laner - with his heal having the delay, encouraging him to actually leave lane instead of just sitting in it spamming a really shitty heal on his ADC. Now bard just sucks.\nA tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE00",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f600.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787392969136144384",
+      "type": "Default",
+      "timestamp": "2020-12-12T18:58:32.896+00:00",
+      "timestampEdited": "2020-12-18T05:09:40.054+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "48: Blitzcrank - blitz is also one of those gimmick champs where the his entire design is based on a single thing, but this is one of the times that it\u0027s ok, since the gimmick actually effects his gameplay choices, and both him and the enemy can play around it. Without a doubt the most defining trait for blitz is his hook. The rest of his abilities are in there to either follow up on the hook or help him set it up. It never feels like bullshit when blitz hits a hook, because the way it\u0027s designed, his kit doesn\u0027t have much cc, and the hook\u0027s stun is really short, so the way to get value out of it is to land max range hooks. Only problem is, like Annie and anivia, his place in the meta has been taken, but not because of large sweeping changes but because of two (three?) champions that do everything blitz does but just much better. The shield breaking portion on his ult is pretty much negligible, because chances are that if you\u0027ve already hooked a squisher you\u0027re going to kill him no matter what, and blitz doesn\u0027t have the tools to get close enough to a backliner to actually pop the shield.\nB \u002B tier champion, for Blitzcrank",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787403358503698452",
+      "type": "Default",
+      "timestamp": "2020-12-12T19:39:49.914+00:00",
+      "timestampEdited": "2020-12-18T05:09:32.632+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "49: Brand - Brand is another one of those old champions where it was very clear what the designers had in mind for the champion. Shortly put, Brand\u0027s there for massive aoe damage, and there\u0027s not much else that he does. I liked his first \u0022rework\u0022 I guess if you could even call it a rework, where his passive got that aoe delayed explody thing - even though it just kind of compounded on what his kit is already good at - but it\u0027s fine, mainly because he needed to change to keep up with all the powercreep. I, however, really dislike his most recent change, with the ability to bounce off himself. Giving a champion who\u0027s shtick is that he\u0027s the best aoe teamfight damage, 1v1ing potential, is just trying to flatten out the curve in already saturated field of teamfight damage mages, and now he\u0027s either going to be pushed out of his niche more than he already has, or just become another dumb mage that riot has put too much shit in. Fusing the e with it\u0027s empowered version is also such a dumb idea, that just takes the last vestige of intelligent decision making out of his kit, now he just spams all his abilites without a thought. It\u0027s kind of a shame that the meta just doesn\u0027t want brand, since he doesn\u0027t have any bullshit CC or longrange capabilities, but I\u0027m not sure if i really want brand to be meta either.\nC \u002B tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787406825090842634",
+      "type": "Default",
+      "timestamp": "2020-12-12T19:53:36.413+00:00",
+      "timestampEdited": "2020-12-18T05:09:27.599+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "50: Braum - Braum\u0027s gimmick is in his e, that blocks projectiles and shit from his adc, but just like most supports there is no reason to play Braum, when you can play a certain other champion. Braum is just another one of those champs where they designed a single ability first, and then just forgot to put in the rest of the champion, so they just put a 4 hit passive in there, (wow, so unique, much more different than a 3 hit passive) random range damage, some mobility, and just a really generic teamfighting ultimate. I just don\u0027t understand how Braum is supposed to actually play out. I know how the riot devs envisioned him, where there are 5 ranged champions on the enemy team and he\u0027s just blocking everything, but in reality what happens is that your adc gets randomly pegged by some gay skillshot and then just dies instantly to a tank, since they cant make the shield actually powerful, or else ranged champions would cry about it, but even despite his shield being shitty the rest of his kit is also super lackluster.\nD \u002B tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44e.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787417890449391617",
+      "type": "Default",
+      "timestamp": "2020-12-12T20:37:34.6+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "51: Caitlyn - The design philosophy behind caitlyn originally was that she was more of a utility focused adc, but just like ashe riot has just turned caitlyn into a shittier jhin, because when adc\u0027s were starting to get powercreeped, instead of giving tools to caitlyn to try and deal with all the mobility, they decided instead to just fuck the control aspect of her kit and just tacked on a bunch of damage into her passive and cancer into her traps, which you now just spam into the enemy team hoping that some retard will just randomly walk into it, turning the game antifun, because she hasn\u0027t actually denied shit, it just makes you really annoyed that you have to now play a racing game where you have to turn corners around her traps. The fact that her range gets extended for her passive makes it incredibly retarded to deal with caitlyn, because she can punish you for trying to clear the traps, while never being actually punishable herself. People wonder why caitlyn is not in the meta, but fail to realize that when you try to force damage into a control oriented adc you just end up with an incredibly shitty champion with just a ton of gimmicks.\nF tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "375427227384283136",
+            "name": "OMEGALUL",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/375427227384283136.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787944312955469844",
+      "type": "Default",
+      "timestamp": "2020-12-14T07:29:23.506+00:00",
+      "timestampEdited": "2020-12-18T05:09:18.561+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "52: Camille - You can really tell that, unlike most new champions, camille was designed with a playstyle in mind, instead of a single gameplay gimmick or ability. Camille was designed to be a very mobile, skirmisher champion who weaves through teams to reach her target, and I think that philosophy was implemented well. It never really feels undeserved to lose to a Camille in lane, because she can\u0027t all in you randomly, or poke you down with spam, since the cd on w is long. She has to actually trade with you, in a manner that leaves herself vulnerable in the process, in order to get damage on the laner. In teamfights, Camille serves her purpose well as a sort of assassin type of champion, and what\u0027s great about her design is that she can\u0027t just hookshot randomly into a team and assassinate an adc, she has to proc her q1 on something first or else she won\u0027t have the damage. Her ult is also really well designed - it makes sure that even if you block her hookshot, she can still get in on a target, preventing these retard protect the adc comps where you just pile on top of some guy with a ton of tanks. Overall, I can understand a frustration playing against a Camille as a stupid backliner player that can\u0027t 1v1 a champion that is designed to 1v1 them, but Camille is a breath of fresh air from the new releases, that isn\u0027t build around retarded gimmicks and whose gameplay has clear strengths and weaknesses\nA \u002B tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787948368638640149",
+      "type": "Default",
+      "timestamp": "2020-12-14T07:45:30.456+00:00",
+      "timestampEdited": "2020-12-18T05:09:12.418+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "53: Cassiopeia - Cass is also one of those champions that riot has cucked through gameplay choices - mainly that there is no need for a dps mage in your team, when mages like orianna and zoe have their abilities on a 3 second cooldown, and can just spam their shit into a team randomly and still have utility, as compared to a cass where you have to actually play well and get fed in order to be effective. Cass is just never going to be viable again, unless riot just does what they will probably do and just jack up her numbers incredibly high, instead of addressing the core issue plaguing mages, being that mage abilities no longer have cooldowns because of all the cdr in the game, and mana is a joke now, given that a fucking 1300 gold item pretty much makes sure you never have mana problems ever again, and just make cass batshit broken until they realize that they fucked up and nerf her into nothingness again. Making her w a ground is also a questionable choice, where riot just randomly decided to give her a better matchup against bruisers, because why not, but since bruisers also suck, the w is just there as another thing in Cass\u0027s kit they have to balance around. In terms of actual design, I think her design is OK, except her cooldowns are just too low and her passive essentially makes her start 300 gold up on you at the start of the game, but the idea of a dps mage is OK i guess for the time, and it\u0027s implemented alright.\nB - tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787949620645855242",
+      "type": "Default",
+      "timestamp": "2020-12-14T07:50:28.958+00:00",
+      "timestampEdited": "2020-12-14T07:53:18.092+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "54: Chogath - just another really generic tank. His thing is that he grows big... but this really doesn\u0027t impact his gameplay whatsoever, since he still just builds full tank anyways. Even his scaling is really weird. His utility and kit scale like garbage, since his passive and literally all 3 of his basic abilities are completely useless in teamfights, where people have actual mobility, but his ult (now) can one shot you just randomly. Overall his kit just feels really confused. His q and w look like he\u0027s supposed to be a control mage, but the e and r look like he\u0027s supposed to be a tank. So what\u0027s left is just a really cheesy champion that\u0027s viable sometimes when mage or tank items are broken, but never has an actual role or slot in an actual team. I think riot needs to just put him into a category - because right now he is just half mage half tank, but you have to choose whether or not to be a mage or be a tank, and if you do you\u0027re just a shittier version of the archetype you\u0027ve chosen.\nD tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787951223973740584",
+      "type": "Default",
+      "timestamp": "2020-12-14T07:56:51.221+00:00",
+      "timestampEdited": "2020-12-18T05:09:05.92+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "55: Corki - for the longest time I didn\u0027t really get corki\u0027s design. Then the package rework came out and i was even more confused. Like chogath, corki\u0027s design is split into two archetypes, except where chogath is tank/mage, corki is mage/adc. I won\u0027t lie, corki\u0027s hybridization works better than chogath\u0027s but this is by a really slim margin. The way that his gameplay works out is that he just kind of sits there until lategame, where all of a sudden his damage goes off the charts because of manamune, (which is the only reason why he is viable, and now that it doesn\u0027t work on ap damage, he\u0027s going to be shit again) but for the longest time corki was just like a really shitty adc that was like a shittier Cassiopeia. In fact, I\u0027m pretty sure he still is a shittier Cassiopeia. I don\u0027t know why they gave him package. I honestly don\u0027t. The way his kit is designed is not roam friendly whatsoever, since he is slow, has no cc, and has to be in auto range to deal damage without cc to protect him. I could see the package being a teamfighting tool, but just ... why man, it doesn\u0027t fit his playstyle at all, they just fucking put it in there and it comes off as another one of riot\u0027s stupid gimmicks. Other than that, I don\u0027t know why corki was added to the game. The idea of an adc that does ap damage is like, ok I guess, but the problem is there doesn\u0027t exist a distinction between damage mages and adc\u0027s other than that they do different types of damage, so giving an adc magic damage basically turns him into a mage.\nD \u002B tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787958271910346772",
+      "type": "Default",
+      "timestamp": "2020-12-14T08:24:51.58+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "56: Darius - A lot of people hate Darius, but those people are retarded and need a brain scan. As a Darius player, I have played match ups from both sides, and I have to tell you that Darius is not as overbearing as people like to make his out to be. Darius is a really interesting champion. His gameplay isn\u0027t linear like most other bruisers, which is to just hop on top of you are start beating the shit out of you right on top of you. Darius actually wants to keep you at about the edge of his autoattack range. I really like his design, because the way that it interacts with itself. Yes, his passive is extremely powerful, and would be broken on any other champion. But Darius isn\u0027t any other champion. He\u0027s Darius, and his kit is designed intentionally so that it\u0027s difficult to stack it easily, no matter how you play, you have to set up your gameplay so that you can get the passive. His q, which is his only ability that has good base damage level scaling, (which means you pretty much have to max it) is slow, and requires you to move away from your target to hit the blade. His w is just a generic autoattack reset that slows you. Yes, that should be changed, to be more interesting. But I think where the game design comes into play is his e. A lot of people don\u0027t realize just how important his e is. It\u0027s his main engage tool, but you will notice that experienced Darius players also use it as a disengage, because after it pulls you in, it actually bounces them off you into the edge of your autoattack range. It\u0027s a repositioning tool in disguise, on a champion where positioning is actually really important. It\u0027s not something you notice when you\u0027re plalying some shitty adc who just tries to run away from darius at all times, but if you\u0027ve actually tried fighting back a Darius, then you start to notice that his kit needs a lot of setup to become effective.",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787958278327631882",
+      "type": "Default",
+      "timestamp": "2020-12-14T08:24:53.11+00:00",
+      "timestampEdited": "2020-12-18T05:08:59.368+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Darius is foremost countered, not by ranged champions, but by bruisers like wukong or sometimes jax, who can disrupt his delicate positioning by just jumping directly on top of him. You start to realize this if you play against him enough times. Darius is not tanky, whatsoever. Early levels, he is actually one of the most squishy champions in the game, not by virtue of stats or whatever, but by gameplay. He has to spend a long time charging up his abilities, and he attacks super slow. His kit doesn\u0027t actually have any tanky elements in it, he is forced to build tanky, even though he would like to build full AD. It\u0027s something that retard silver tank players can\u0027t realize, that \u0022BUH I CANT ALL IN DARIUS AND KILL HIM LIKE EVERY OTHER CHAMPION, AND THEN WHEN I TRY TO RUN AWAY HE KILL ME\u0022 and then cry about it on the league subreddit, I have beat darius on almost every champion, you just have to actually trade with him, and dodge his very easily avoidable q, since he can\u0027t just stand still and use it, he has to either move away or torwards you depending on where he thinks you\u0027re going to move. Ultimately his kit is based on careful setup. You have to set up a situation where the lane is close to you, so you can all in your lane opponent. In teamfights, you have to set up your passive so you can get massive chain dunks. That\u0027s what I like about his character design, he is a champion that rewards good setup and planning, unlike champions like tanks or mages, where you can play terribly and still deal shit tons of damage because riot has a massive hard on for your archetype.\nA - tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788598971060453417",
+      "type": "Default",
+      "timestamp": "2020-12-16T02:50:46.161+00:00",
+      "timestampEdited": "2020-12-18T05:08:52.931+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "57: Diana - Diana is riot\u0027s first attempt at a sort of ap bruiser kind of champion. It\u0027s pretty obvious when you look at her kit, which is more focused torwards trading and sustained damage then straight up assassination. However, at the time, the reason why an AP bruiser could not exist was because there were no actual items for an AP bruiser to build. (And to suggest that liandries and rylais are bruiser items is like saying that frozen mallet was a bruiser item) So what riot was left with was this awkward champion, who built full AP like a fizz, but had a slow sustained damage kit with no good tankiness. So riot, doing what riot does best, jacked up her numbers and pushed her into a role that her kit clearly didn\u0027t fit into. Now she\u0027s just an AP assassin with a shield for some reason, and before the rework, her early game sucked balls before 6, so she really was just an extremely shitty Akali. Then riot reworked Diana and Akali, and now she\u0027s still a shittier version of another champion, but this time it\u0027s neeko, who has better laning and a better ult. (who is also not viable, surprise, because mages outclass her in every way) The only reason why anybody would play her ever, over akali or even hell neeko, is the same reason why any adc is picked over another, being when riot randomly decides to make her numbers way too high, or have some retarded synergy with an item. The new AP bruiser items are OK I guess, but they just lack the huge powerspike and reliability that a triforce brings to a bruiser, and instead how a champ like mordekaiser works is that his kit already has everything they need in it, and they just build full AP.\nC \u002B tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788602171474182184",
+      "type": "Default",
+      "timestamp": "2020-12-16T03:03:29.199+00:00",
+      "timestampEdited": "2020-12-18T05:08:47.04+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "58: Dr. Mundo - You\u0027ll notice that there\u0027s a trend with most of the entries on this list, and it\u0027s that riot just fucked them over with either item changes, rune changes, or are just outclassed by other champions. Mundo falls into the first category, where riot has cucked him with item changes. Originally, his thing was that he was a safe pick, who could farm up with his cleavers, and then scale into late game being this unkillable monster. Then it was changed, because they fucked the damage in the game, so that he could be an anti mage pick, with his e passive. Now he is anti-nothing. He is a shittier version of every single tank, because for 800 gold you can cut his entire champion in half.  You don\u0027t even have to go out of your way to do it. Before, executioners didn\u0027t build into anything, so you have to eventually sell it in order to not be walking around with 5 items. Morellos was supposed to be the anti-mundo item, being that you could have an actual item late game. And the thing was that back then, it didn\u0027t have all this AP and magic pen on it, so you HAD to get value out of the grievous wounds passive, or else you should have just build ROA or rylais or something. Essentially, back then building grievous wounds was a real commitment that you had to make, that sometimes people were just unwilling to do. But now who cares, you spend 800 gold and then mundo just turns into any other tank, except he has no lockdown, no gapcloser, he\u0027s basically a fucking bruiser at that point. His design works well, the health costs make it really punishing for mundo in the early game, while not mattering much in the lategame, he has the cc reduction, and the healing, and he has good chase tools but not gapclosers so he suffers against mobile champion, but riot has just decided that he isn\u0027t allowed to be a champion, which is a shame.\nB \u002B tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60b.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788951956353581127",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:13:24.413+00:00",
+      "timestampEdited": "2020-12-18T05:08:41.295+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "59: Draven - Draven is riot\u0027s take on a kind of high risk high reward adc type of character. Originally, draven had a bleed passive similar to darius, and his whole thing was that he super scaled off AD, but damage was the only thing that he really did. The rework, changing his passive, was understandable given riot\u0027s shift of power from champions kits into items, and to be honest it\u0027s just an ok change, it didn\u0027t really change Draven or make him any more viable or anything, it\u0027s just kind of there. Draven represents another flaw in riot\u0027s design philosophy, where they just kind of force game elements into a champions kit in order to try to introduce balance into their kit. When you look at Draven\u0027s kit, and you just look at it without any of the extra fluff, (passive, catching axes) he just comes off as a really boring adc. There really isn\u0027t anything high risk about him, at least any more than any other ADC, because every adc does shit damage when behind, that\u0027s the whole point of the archetype. I suppose adding in the catching axes makes him a little more interesting, but the problem is that Draven isn\u0027t just standing in the wide open chucking and catching axes, any actual important skillshot in the botlane is blocked by minions, and the ones that don\u0027t (nami bubble) require you to run really close to an adc that does half your hp with a single auto. In teamfights, he\u0027s functionally the same as any other ADC. Overall, his design isn\u0027t like, cancerous or anything, it\u0027s fine, but he just isn\u0027t really all that different from any other adc.\nC \u002B tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788956066859843635",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:29:44.434+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "60: Ekko - Ekko is another example of a champion where the design just looks extremely confused, where they just decided that they were going to slap some random shit on a kit for no reason. If ekko is supposed to be an assassin, then why does he have a percentage based execute at 30%. Zed\u0027s execute is at 50% health, and it\u0027s a once per champion thing, whereas ekko\u0027s has a really low damage scaling, and can proc multiple times. It looks like it would fit more on a champion who isn\u0027t supposed to kill champions in 2 hits, like a tank or a bruiser. Why does an assassin have an area denial tool? or a speedup? or an ability that is BACKLOADED? It\u0027s just so fucking confusing. The problem is, when you have an assassin with all of these things, you can either A. leave him regular powered with all this utility and random shit in his kit, and have him unable to fulfill his job of assassinating people, or B. Have him be able to one shot people with 2 abilities, and then just leave him with all the utility, and have him be a better version of pure damage assassins. Riot is in a constant battle between these two, where sometimes, when he is allowed to one-shot people with two abilities, he is OP, (llke last season) and then other times, he just kind of sucks, where you would be better off playing just a mage. Riot just seems to not comprehend what a comprehensive design is, when you have all these conflicting elements in the kit, that don\u0027t work together, a champion is bound to be stuck in this cancer category of champion where if they are good, they are way too good, and all other times, they just kind of suck. His abilities don\u0027t work together whatsoever. It\u0027s like they picked 4 random abilities out of a hat and just decided to mash them all together into one champion. \nF tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788959658491510844",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:44:00.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "61: Elise - Regular champions have their strengths divided into certain aspects of their kit, which usually balance out into each other. For example, this pie chart would be an example of like a lee sin or something.",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "788959658333175868",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/788959658333175868/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 58408
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788960205223231559",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:46:11.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wheras Elise\u0027s pi chart looks something like this",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [
+        {
+          "id": "788960204963971102",
+          "url": "https://cdn.discordapp.com/attachments/769742813482582046/788960204963971102/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 55620
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "626191509103968268",
+            "name": "kekw",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/626191509103968268.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788961069636648960",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:49:37.189+00:00",
+      "timestampEdited": "2020-12-18T05:08:28.69+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don\u0027t have to even go over the rest of the fucking champion, because this shit is so retarded, being towerdived is probably the most cancerous thing that a jungler can do, and just gives her the ability to completely fuck you, it\u0027s not even as if it\u0027s that hard, all you do is start in human form, e, spam qw, spider form, qw, and then e again, and then just do that over and over until the enemy leaves the game, or they play some braindead tank and just one shot your entire team with 50 cs. A really large part of laning phase is that there are these two monoliths of vision and damage that protect you from random bullshit. Elise just completely removes the #1 element of the game that stops junglers from being able to completely control your lane. Absolute cancer champion design, they need to rework her.\nF - tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788965810466062346",
+      "type": "Default",
+      "timestamp": "2020-12-17T03:08:27.491+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#62: Evelynn - Evelynn is an example of a champion where riot puts fake counterplay in her kit to justify giving her bullshit. The charm is, by far the best example of riot putting in an ability without thinking whatsoever. It\u0027s basically a point and click stun, because there is literally nothing you can do to avoid it if you see that shit above your head. The fact that ANY ability or hell even an autoattack will activate that shit just seals the deal, even if she misses her q spikey thing, the subsequent casts LOCK ON to the nearest champion, which basically means that she is guaranteed to get it off. The invisibility just makes it even worse, because she can just position right behind you, and riot refuses to put any ability to counter that shit into the game. You can\u0027t even jump on her when she enters your lane, because as soon as she pops the charm your ass is getting oneshot while in the 2 second long cc duration. I don\u0027t know why the charm shreds your MR, the counter to assassin is supposed to be stacking resistances, but when you just slap on 35% shred it means that she does retarded amounts of damage to even tanks, it\u0027s not even a flat shred, its percentage based for some god awful reason. The \u0022not stealthing until 6\u0022 is moot. Junglers clear camps so fucking fast and so healthily that unless an entire half of your team comes to try and kill one person on their team, it\u0027s impossible to do anything. I don\u0027t know what is different about this evelynn compared to pre rework evelynn. If anything, this evelynn is more cancer, since with old evelynn you could just outduel her, since she had no escape or CC, but this version of evelynn has both. I struggle to find how this eve is an improvement over the old eve. At least the old eve didn\u0027t CC you and have an aoe execute escape move.\nF tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF5",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f5.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ee.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f3.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f0.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fc.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e9.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f8.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788972825410273320",
+      "type": "Default",
+      "timestamp": "2020-12-17T03:36:19.984+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#63: Ezreal - Ezreal is kind of the opposite of the annie and anivia sort of champion, where he has benefit a lot from riot\u0027s retarded item balancing. Ezreal was originally supposed to be a really safe pick, where you could kind of just sit back at long range, and since your q procced on hits you could still do decent damage with just your abilities, and save e for escapes and stuff. You spiked hard with manamune, so that you could do damage and stuff and not have mana problems. He was definitely a mid game adc. The problem is that since riot has fucked all the cdr and damage in the game, ezreal turns into this super annoying spam q champion who does good damage, who can just e wherever he wants since the cooldown doesn\u0027t actually matter. He still is definitely a mid game adc, and well designed, but the way that riot has pushed him into just makes him extremely obnoxious.\nB tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789332740729602049",
+      "type": "Default",
+      "timestamp": "2020-12-18T03:26:30.483+00:00",
+      "timestampEdited": "2020-12-18T05:08:10.337+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#64: Fiddlesticks - Fiddlesticks is one of those champions. And by one of those champions, I mean that he is one of those junglers who spikes at 6, and then just ganks with his ult off cooldown. But you know what, I actually think that this type of design is really good for fiddlesticks\u0027 style of play as a jungler, and the only time where it actually beneficial to his champion design, instead of a way to put random op bullshit in a kit with the excuse that they have to \u0022farm to 6.\u0022 (looking at you, karthus, evelynn) The theme behind fiddlesticks is that of horror and surprise. The whole deal with his kit, his everything, is that he is meant to show up in your lane at random times and then kill you 3-4 seconds. With that in mind, you can tell exactly what he is supposed to be counted by, and how to play against him. I actually really like the idea of fiddlesticks\u0027 spike at 6, since unlike other spike at 6 junglers, where they just farm for 5 minutes and then become jesus, fiddlesticks depends on his ult to actually have effective ganks. He cannot gank without it, meaning that you are rewarded for knowing the timings and cooldowns of fiddlesticks\u0027 ult, because you can tell when he is able to gank, and since his main ganking ability is on a long cooldown, you don\u0027t have to worry about fiddlesticks fucking showing up to your lane 6 times in a row. I like the ultimate hunter changes too, for the same reason. It encourages people to not just spam gank a single lane, they have to actually go visit the other side of the map. Only thing that I dislike about fiddlesticks is that zhonyas just kind of removes the teamfighting counterplay to his ult, even if he doesn\u0027t get the fear, he still gets to jump into your entire team building full damage, and just doesn\u0027t get punished for being just a complete retard. It\u0027s not as if this is a problem unique to fiddlesticks though, zhonyas is just disgustingly overpowered on all mages.\nA - tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789358248158691348",
+      "type": "Default",
+      "timestamp": "2020-12-18T05:07:51.928+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#65: Fiora - Fiora is the epitome of riot\u0027s shit modern design, and retarded gimmicks, minigames, bleh. The whole point of fiora, the whole theme, is that she is supposed to be a duelist. However, what being a duelist entails usually involves the other party fighting back, while fiora has none of that. Most of the time, what ends up happenning is that you get run down by a champion who has a dash on a 2 second cooldown, % health true damage, two slows, multiple movement speed bonuses, and a cc immunity move. You are actually discouraged from fighting back against fiora, since if you move close to her, she can run behind you and have full access to all your vitals, instead of having the slim chance that rng will favor you, like a fucking tryndamere, and she will get the bad vital. In lane, fiora does not play whatsoever like a duelist either. Since the range on her q is so long for some reason, what laning phase usually entails is her moving around the minion wave, using her q to potshot your vitals like a fucking fly, buzzing around you, until she gets unlucky and the vital appears behind you, where you then have 20 seconds where you get to actually play the game without this annoying piece of shit getting free damage off you.",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789358250671472650",
+      "type": "Default",
+      "timestamp": "2020-12-18T05:07:52.527+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She really just plays more like a ranged champion than a melee one. I think a lot of the problems with this could just be avoided if they reduced the q range to melee range, so you get to auto her back before she runs away with the speed boost they put on her passive for some reason. I like that she has to hit somebody to get the reduced cooldown on her q, so she can\u0027t run away, but the problem is that shit is on such a low cooldown, and the range is so forgiving that she can just get away with it most of the time anyways. Ignore the cc part of her w. That part is literally a gimmick, it\u0027s pretty much a matter of luck if you can actually get the reactive cc thing on it, since the game has latency that is often longer than the cast time of cc\u0027s. Fiora just launches that shit into you, and it\u0027s basically a stun to a bruiser since for some reason it cripples your attack speed, so it rewards you anyways with a super cancer cc even if you don\u0027t time it correctly. The e doesn\u0027t exist, it is so generic it is insane, quite frankly. The ult is just a stupid gimmick. That\u0027s it. Every single cancer mechanic in league is in fiora\u0027s kit. RNG, a bunch of shit on abilities for no reason, a billion dashes, % max health true damage, a skill that is latency dependent to use effectively, a stupid gimmick on an ult.\nF - tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789386944761167912",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:01:53.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#66: Fizz - Fizz is an assassin, so that means he sucks, pretty much. His roaming is too slow compared to like a galio or a talon, so there really isn\u0027t really a reason to play him right now, when you can just play galio or just any mage and oneshot people at 6 anyways. In terms of design, he\u0027s ok I guess, his design is pretty good, I like the idea that your e is hard to land the damage portion on unless you have the ult already ticking on them, and like the ult sets up the rest of your abilities without being a really cancer thing that you can shoot into the middle of teams for massive presence, his w is generic but that\u0027s ok when his q and e have a lot of power in them, he has a lot of mobility but he has to use them to get in unless he is super close. With cdr fizz becomes super annoying, but in terms of design he is ok. That\u0027s all I can really say.\nB - tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC1F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f41f.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789693192244559882",
+      "type": "Default",
+      "timestamp": "2020-12-19T03:18:48.821+00:00",
+      "timestampEdited": "2020-12-19T03:21:06.358+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#67: Galio - galio is one of those champions, where they have packed so much shit into his kit that he has singlehandedly pushed other champions out of playability. The champion just has too much shit in his kit. The only reason why I like him is out of just spite, because midlaners now have to also deal with a champion in their lane who does everything that they do but better, while being tanky, and also beating them in lane. You look at Galio\u0027s kit and there is literally nothing missing in his kit. If you were to look at that pi chart that I made in the elise fotd, his pi chart would just be completely filled in. He has range on his q, waveclear, damage, cc, tankiness, mobility, roaming power, there literally is nothing that galio does bad. I think the only thing that he does bad is that he can\u0027t duel bruisers, but even that\u0027s not enough to offset just the massive amount of shit that they piled into galio\u0027s kit. He\u0027s just an excellent example of a champion who is overloaded.\nD \u002B tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "776961226823565322",
+            "name": "jae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/776961226823565322.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789697689390546985",
+      "type": "Default",
+      "timestamp": "2020-12-19T03:36:41.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#68: Gangplank - the gangplank rework\u0027s intent was to create a good scaling top lane champion to have a champion that scaled as well as a mage or an adc, but was still able to survive harder matchups in top lane. The problem is, that they were A. too afraid to put any power into gangplank\u0027s kit, and B. Riot has a hard on for ranged champions, and they do everything that gangplank does but better. Let me elaborate. His E is supposed to be this big damage setup move, but the problem is, it\u0027s way too fucking easy to just completely screw him as a ranged champion, since your autoattacks are ranged and you can literally just hit the barrels. Tbh I think ranged auto\u0027s shouldn\u0027t even be able to damage the barrels, and melee hits should kill them instantly. And the incredible setup that you have to pull off to land that shit on even a single target, is not worth the effort when in the same time an ADC can just auto 3 times and do more damage than you, with 0 counterplay. In laning phase, I think what riot envisioned was that he would use his q to cs and build a gold lead, but what ends up happening when you give a champion a point and click poke move is they turn into a fucking pantheon who just constantly spams that shit and forces you out of lane. But even this is just completely overshadowed by ranged champions who can autoattack you with 0 cooldown. So he\u0027s worse than ranged champions in lane, and in teamfights. He really is just a worse ranged champion, who is slightly tankier I guess. The point being, that the design is inherently flawed, when you try to make a melee champion who is ranged, why not just be a fucking ranged champion.\nC - tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "775889234820857856",
+            "name": "3head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/775889234820857856.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790264566176153650",
+      "type": "Default",
+      "timestamp": "2020-12-20T17:09:14.982+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#69: Garen - Garen is an unfortunate case of another one of riot\u0027s blunders. Originally, garen was supposed to be the bruiser, like the definitive bruiser. He had ok tankiness, ok damage, ok cc, and for a while, that was ok. He was played as a counter to these cancer top laners like riven or pantheon or renekton, because his q shut down these champions\u0027 trading patterns of in-and-out, with the massive silence on his q. But whoo boy time has not been kind to garen. The massive amount of mobility creep in the game, on top of riot\u0027s questionable balancing, pretty much has just turned garen into just this really chunky, slow champion, because when they reworked garen, they actually just doubled down on his weaknesses, for some retarded reason. When I look at garen\u0027s old kit, I actually really like it. When I played garen pre-rework, he didn\u0027t feel so damn slow like the current garen does. His q was fast, and did really nice damage, his e didn\u0027t require you to build attack speed in order for it to deal good damage, and overall he just felt much better. Dear god why oh why did they fuck the silence duration on his q. Im pretty sure that it takes 1.5 seconds for garen to actually complete his q animation. But other than that I think Garen accomplishes his role quite well. He feels slow, but he does what he is supposed to do well. He still shuts down mobile top laners, and you know I think even though I would rather have old garen, this garen isn\u0027t too bad.\nB tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790268143670001684",
+      "type": "Default",
+      "timestamp": "2020-12-20T17:23:27.923+00:00",
+      "timestampEdited": "2020-12-20T17:24:51.15+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#70: Gnar - now gnar, gnar is the epitome of the worst champion design, that riot has put out, ever. I\u0027m not going to go over his kit, even, because they can pretty much just be split into 2 categories, kite and chain cc, which are, by far the most unfun things to play against in league of legends. How he works is that he essentially stonewalls the laning phase, and then goes on to try to be more useful in teamfights, essentially forcing you to not be able to carry, but also not being able to carry himself because his kit is completely useless against ranged champions. I think gnar is like, what I would firmly describe as an anti fun champion, at least in the top lane. You can tell, because his kit is expressly designed to fuck over bruisers and make them not be able to play the game. He can\u0027t be played in any other lane, because you realize that in any other lane, there are ranged champions, which gnar can absolutely not play against, because he is just meant to beat up on bruisers and then lock them down in teamfights, so that they can\u0027t carry. Gnar has no kill pressure, but he also cannot be killed, unless you have poke, where in that case the entire point of his champion is negated. I seriously wonder if riot was on crack when they designed this champion. Imagine, if as like a mage or something, there was a champion that like, had a 500 regenerating magic shield in lane, and then like the rest of his kit was just he silences you for like 5 seconds and he has incredible waveclear, and that\u0027s it.(actually that\u0027s just prerework galio but we don\u0027t talk about that) I actually think that would be a pretty funny champion design, and I would want mages to have to feel this retardation that bruisers have to feel in top lane, but I honestly would not even wish that on mages. Fuck this champion, I\u0027m glad that he\u0027s unplayable, a champion whose express purpose is to make sure the other laner doesn\u0027t have fun, should just be removed from the game entirely.\nF - tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2753",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790271532450316298",
+      "type": "Default",
+      "timestamp": "2020-12-20T17:36:55.871+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#71: Gragas - I\u0027m pretty sure I could reduce this review into just a single sentence, gragas is a control mage but he is melee so he is worse than every other control mage, but here is the rest of the review I guess. Gragas is an excellent example of how riot is afraid to have fun champions in the game. Pre-rework, I think gragas\u0027 kit was actually really well designed. He was a melee mage, who had incredible damage and cc with his double barrel, and sustainability with his w. His e was a escape / anti-diver tool, and how he played out was that he scaled incredibly well into lategame, AS HE SHOULD, SINCE HE IS MELEE, AND HAS BY DEFINITION A GLARING DISADVANTAGE OVER RANGED CHAMPIONS. But then he was reworked, and how riot put it was that they wanted gragas to be a bruiser who liked to get into the middle of fights, but like, his kit just doesn\u0027t work that way whatsoever. He has no sustained damage, and so if you tried to play him like a bruiser what would happen is that you go in and then you just sit there and fucking walk around like a moron, dealing 55 damage autoattacks, until your next rotation of pitiful cc and damage, since his ratios got fucked. Now, Gragas is played for a single reason, and that is because he is an early game ganker who has utility,(you can really tell that there is a trend in pro play junglers, lee sin, sej, j4, sometimes elise) but other than that his design is just so lackluster, he doesn\u0027t do anything well anymore.\nD - tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790275388642689044",
+      "type": "Default",
+      "timestamp": "2020-12-20T17:52:15.259+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#72: Graves - I\u0027m going to say something that you\u0027re all probably sick of, but I like pre-rework graves more than his current iteration. Currently, graves is just one of those really gimmicky champions, like jhin, except in this case it was expressly designed to force him out of botlane and into either top or jungle i can\u0027t tell, but regardless his current design just retreads so much already existing champion design. Old graves was just like old galio and urgot, he was actually really similar to old urgot, where he was just an adc who was tanky and had more dueling power and had his power shifted more early-mid game. But then adc mains cried about having a champion that beat them earlygame and then got really tanky, so riot just fucking plopped him into the jungle. His thing now is that he is a dueling/farming jungler, whose ganks suck, but idk why this is a thing... that\u0027s supposed to be like, hecarim\u0027s thing, or kayn\u0027s thing, or nocturne or olaf or whatever, the point is that this design does not have any unique elements to it to justify it existing, since he is basically a melee champion that just takes 0 damage in the jungle. The reason why he is viable currently (last season), is because his numbers were just way too high, and he was borderline unkillable like a fucking tank in teamfights when he should have been falling off at that point. I guess you could call that his \u0022unique element,\u0022 but being really tanky just by virtue of numbers is not good champion design.\nD - tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790369764186521600",
+      "type": "Default",
+      "timestamp": "2020-12-21T00:07:16.142+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#73: Hecarim - Big horse guy, not much to say about him. He runs into your team really fast, and his kit excellently reflects this philosophy. It\u0027s very simple, but the nature of movement in this game provides many ways for you to optimize things like the knockback on the e, the fear on the ult, etc. Always feels really nice to play hecarim, and he never feels like bullshit when he runs you down, since his dueling power isn\u0027t very good, and his entire kit revolves around running into you.\nB\u002B tier champion",
+      "author": {
+        "id": "246785658318749698",
+        "name": "Exdiark",
+        "discriminator": "9099",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/246785658318749698/4c4bf557bffaf6cffb416c35184775b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 120
+}

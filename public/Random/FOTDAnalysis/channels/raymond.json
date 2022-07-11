@@ -1,0 +1,2971 @@
+{
+  "guild": {
+    "id": "254698074323157013",
+    "name": "\uD83C\uDF93\uD83C\uDF93\uD83C\uDF93",
+    "iconUrl": "https://cdn.discordapp.com/icons/254698074323157013/840724d73280a5affd7ff3b5f8cf3d40.png"
+  },
+  "channel": {
+    "id": "767902254833336330",
+    "type": "GuildTextChat",
+    "category": "fact of the day",
+    "name": "raymond",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "767904526929625098",
+      "type": "Default",
+      "timestamp": "2020-10-20T00:18:26.196+00:00",
+      "timestampEdited": "2020-11-05T19:20:00.342+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 1: What is easily visible on the outside may not be what is important on the inside. Ex. Grades and actually understanding",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f8.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u24C2\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/24c2.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "768136290826321922",
+      "type": "Default",
+      "timestamp": "2020-10-20T15:39:23.015+00:00",
+      "timestampEdited": "2020-11-05T19:20:04.542+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 2: Much conflict in life stems from the problem that it is much harder to take another person\u0027s perspective than it is to see our own.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "768376986610434049",
+      "type": "Default",
+      "timestamp": "2020-10-21T07:35:49.362+00:00",
+      "timestampEdited": "2020-11-05T19:19:53.293+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 3: Religious ideas for me are more metaphorical than literal and are a guide to living not a strict dogma. There is a reason why some religions and survived, the humans who believed in them survived and passed it down.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD73",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f973.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "768865218109374464",
+      "type": "Default",
+      "timestamp": "2020-10-22T15:55:52.822+00:00",
+      "timestampEdited": "2020-11-05T19:19:48.87+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 4: Growth takes a days, months, or even years to achieve. The fall only a couple seconds.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a9.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769230558492098571",
+      "type": "Default",
+      "timestamp": "2020-10-23T16:07:36.757+00:00",
+      "timestampEdited": "2020-11-05T19:19:44.394+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 5: Competition is a zero sum game that is good for the collective but destroys most individuals within the system.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2665\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2665.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDD0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9d0.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769467393638400040",
+      "type": "Default",
+      "timestamp": "2020-10-24T07:48:42.656+00:00",
+      "timestampEdited": "2020-11-05T19:19:39.451+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 6: \u0022Avoiding stupidity is easier than seeking brilliance\u0022 - Shane Parrish inspired by Charlie Munger",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769948556479430666",
+      "type": "Default",
+      "timestamp": "2020-10-25T15:40:40.817+00:00",
+      "timestampEdited": "2020-11-05T19:19:35.484+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 7: This was was originally supposed to be about anti-fragility but I thought you needed this one today. **The best way to find a worthy mate is to be a worthy mate**",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770363210876321874",
+      "type": "Default",
+      "timestamp": "2020-10-26T19:08:22.129+00:00",
+      "timestampEdited": "2020-11-05T19:19:31.073+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 8: The opposite of fragile is not robust. It is antifragile. Antifragile things gain from disorder like stressors. Fragile things break with disorder like mugs. Robust things do not care about disorder.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDD0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9d0.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770693784514068540",
+      "type": "Default",
+      "timestamp": "2020-10-27T17:01:57.026+00:00",
+      "timestampEdited": "2020-11-05T19:19:26.661+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 9: Absense of evidence is not evidence of absense. A negative covid test does not mean you do not have any covid in your system, it means that they did not find evidence of covid in your system although you may still have it.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "670875578269958156",
+            "name": "klu1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/670875578269958156.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771022520358797332",
+      "type": "Default",
+      "timestamp": "2020-10-28T14:48:13.759+00:00",
+      "timestampEdited": "2020-11-05T19:19:21.42+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 10: When you know where to go, invest deeply. When you don\u0027t know much, explore broadly.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "670875578269958156",
+            "name": "klu1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/670875578269958156.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDE0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9e0.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771403623170441216",
+      "type": "Default",
+      "timestamp": "2020-10-29T16:02:35.75+00:00",
+      "timestampEdited": "2020-11-05T19:19:16.738+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 11: Omit needless words. - The Elements of Style",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fa.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "670875578269958156",
+            "name": "klu1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/670875578269958156.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771756620186255390",
+      "type": "Default",
+      "timestamp": "2020-10-30T15:25:16.797+00:00",
+      "timestampEdited": "2020-11-05T19:19:10.963+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 12: When decisions are reversible, take action fast. When decisions are irreversible, deliberate.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772217143135043604",
+      "type": "Default",
+      "timestamp": "2020-10-31T21:55:14.024+00:00",
+      "timestampEdited": "2020-11-05T19:19:05.245+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 13: It is easier to edit than to start writing.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772495539274907649",
+      "type": "Default",
+      "timestamp": "2020-11-01T16:21:28.836+00:00",
+      "timestampEdited": "2020-11-05T19:18:59.581+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 14: Touch is an important part of relationships between people. However, with long-distance and social distancing, touch is hard to come by.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "756240768884146206",
+            "name": "josephkim2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/756240768884146206.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "591885485245202442",
+            "name": "wewega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/591885485245202442.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772888301833158697",
+      "type": "Default",
+      "timestamp": "2020-11-02T18:22:10.727+00:00",
+      "timestampEdited": "2020-11-05T19:18:55.567+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 15: Your environment can affect your actions. If you leave candy out, you will be more likely to eat it. Change your environment to fit the habits that you want. No need for willpower.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "758049826582691921",
+            "name": "sappy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/758049826582691921.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773226562648408085",
+      "type": "Default",
+      "timestamp": "2020-11-03T16:46:18.39+00:00",
+      "timestampEdited": "2020-11-05T19:18:51.643+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 16: We tend to act emotionally in the present and rationalize after. When economists think people are rational. :klu1:",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "670875578269958156",
+            "name": "klu1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/670875578269958156.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773573198314733569",
+      "type": "Default",
+      "timestamp": "2020-11-04T15:43:42.773+00:00",
+      "timestampEdited": "2020-11-05T19:18:47.352+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 17: We often mistake the proximate cause for the ultimate cause. Marriages often break over the little things. The little things are proximate causes, and the ultimate cause is a difference of opinion stemming from different interests or an inability to communicate.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "670875578269958156",
+            "name": "klu1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/670875578269958156.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773989522316066837",
+      "type": "Default",
+      "timestamp": "2020-11-05T19:18:02.15+00:00",
+      "timestampEdited": "2020-11-05T19:18:42.749+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 18: Most things in life are not one direction and isolated; they are autocatalytic cycles (feedback loops). We can\u0027t understand factors of a system in isolation; we must understand the system as a whole. As a result of these cycles, a small difference in the initial factors can lead to drasticly different outcomes.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773989671939997758",
+      "type": "Default",
+      "timestamp": "2020-11-05T19:18:37.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "These are not really facts so i will be changing them to Thoughts of the Day",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE42",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f642.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774314791149764638",
+      "type": "Default",
+      "timestamp": "2020-11-06T16:50:32.283+00:00",
+      "timestampEdited": "2020-11-06T16:55:25.098+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 19: \u0022All happy families are alike; each unhappy family is unhappy in its own way\u0022 - Leo Tolstoy in Anna Karenina. Similarly, All good animes are alike; each bad anime is bad in its own way - inspired by Domitrips Hong",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "643724786828312576",
+            "name": "demega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/643724786828312576.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "483048710675234816",
+            "name": "nakadashi",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483048710675234816.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774678284122062898",
+      "type": "Default",
+      "timestamp": "2020-11-07T16:54:55.761+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 20: If you think you have power, go tell someone else\u0027s dog what to do.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775092341199208468",
+      "type": "Default",
+      "timestamp": "2020-11-08T20:20:14.661+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 21: Evolution is dependent on death. For the system to survive, some individuals must die off. Similarly, if you want to think better, you have to kill your best ideas when they are wrong.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "670875578269958156",
+            "name": "klu1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/670875578269958156.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775458930884870186",
+      "type": "Default",
+      "timestamp": "2020-11-09T20:36:56.453+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 22: The Founding Fathers did not have college degrees, you do not need one to think well either.\u0027",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "544047467289772042",
+            "name": "raymond",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/544047467289772042.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775815452940959755",
+      "type": "Default",
+      "timestamp": "2020-11-10T20:13:37.935+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 23: We remember unfinished things better than we do finished things. We crave closure.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776134548211105863",
+      "type": "Default",
+      "timestamp": "2020-11-11T17:21:36.176+00:00",
+      "timestampEdited": "2020-11-11T18:13:00.497+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 24: The medium of communication shapes how the communication is formed. Books meant for hard reading are not meant for audiobooks. For instance, on radio, complex words cannot be used so that the audience can understand. Radio can\u0027t be paused and rewound so they must be very articulate. On books, you can go back and reread a sentence",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776508838194577409",
+      "type": "Default",
+      "timestamp": "2020-11-12T18:08:53.862+00:00",
+      "timestampEdited": "2020-11-12T19:58:04.513+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 25: When people are involved in a decision, they are more likely to agree to the final decision (negotiation). Similarly, when students are involved in learning, they are more likely to understand the material.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2639\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2639.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776881564784787456",
+      "type": "Default",
+      "timestamp": "2020-11-13T18:49:58.806+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 25: Data that does not change your actions is not information. Stop collecting garbage data and noise.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777174533164761109",
+      "type": "Default",
+      "timestamp": "2020-11-14T14:14:07.911+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 26: The lindy effect is the effect that things that have survived will tend to continue to survive later on. Ancient books that have survived will probably be continued to be read even though millions of new books come out each year and never get read past a couple months.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777175139808313391",
+      "type": "Default",
+      "timestamp": "2020-11-14T14:16:32.546+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "From wikipedia: future life expectancy of a non-perishable is proportional to current age",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777175850042654720",
+      "type": "Default",
+      "timestamp": "2020-11-14T14:19:21.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 26.5: Bonus! \uD83E\uDD78 \u0022For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them.\u0022 - Matthew 25:29 NIV",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777555498387111947",
+      "type": "Default",
+      "timestamp": "2020-11-15T15:27:57.098+00:00",
+      "timestampEdited": "2020-11-15T20:43:28.903+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 27: Chess masters are able to memorize many of their games, but if the pieces could not happen in an actual chess match they are not any better than regular people at memorizing the board. Chess masters think on a higher level and chunk the information together. Novices are at the bottom level and see the individual pieces themselves. The chunking is what allows chess masters to play multiple people blindfolded.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD28",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f928.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777933297548263475",
+      "type": "Default",
+      "timestamp": "2020-11-16T16:29:11.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 28 Technology both extends and amputates our senses and abilities.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778326916758765568",
+      "type": "Default",
+      "timestamp": "2020-11-17T18:33:17.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 29: Know your circle of competence, where you actually know things. Find the line between known things and unknown things. Don\u0027t pose that you know things outside of your circle of competence",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749032485677170719",
+            "name": "ez",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749032485677170719.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "360233065626468362",
+            "name": "pepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/360233065626468362.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778683692347293767",
+      "type": "Default",
+      "timestamp": "2020-11-18T18:10:59.499+00:00",
+      "timestampEdited": "2020-11-18T18:11:51.809+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 30: The war on cancer by nixon was meant to be a 5 year plan. It has been almost 50 years and most cancer has still not been cured.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778684252430663721",
+      "type": "Default",
+      "timestamp": "2020-11-18T18:13:13.033+00:00",
+      "timestampEdited": "2020-11-18T18:49:46.598+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "one example does not mean anything, but the younger generation has a strong belief that science and technology will solve all our problems yet it has a long way to go before it can accomplish that goal",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779033535985614868",
+      "type": "Default",
+      "timestamp": "2020-11-19T17:21:08.722+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 31: Having an anti rolemodel is better than having a rolemodel. Anti rolemodel is someone you don\u0027t want to become. Removal of bad things often does more good than addition of good things. Subtractive knowledge is more robust or universal than additive knowledge. Adapted from Nassim Nicholas Taleb and honorable mention to tompson for inspiring this fact.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD23",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f923.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779367160631918662",
+      "type": "Default",
+      "timestamp": "2020-11-20T15:26:51.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 32: Technical civilization manipulates space through work but cannot change time. Inspired by the Sabbath by Abraham Joshua Heschel",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "755240054137421834",
+            "name": "pogU",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/755240054137421834.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779775868834021427",
+      "type": "Default",
+      "timestamp": "2020-11-21T18:30:54.665+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 33: Saying that you don\u0027t do something saves making the decision every time you are offerred it.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779776338260656149",
+      "type": "Default",
+      "timestamp": "2020-11-21T18:32:46.585+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you are offerred drugs, saying that you don\u0027t do drugs is part of your identity and really easy to do to refuse them, even with peer pressure. If you have to decide everytime you are offered drugs, you are more likely to give in one time when you are tired and not mentally aware.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780160676320510012",
+      "type": "Default",
+      "timestamp": "2020-11-22T19:59:59.919+00:00",
+      "timestampEdited": "2020-11-22T20:01:40.423+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 34: If harvard actually believed their education was a good for everyone, they would increase enrollment. But all the alumni would be outraged because the value of Harvard is the exclusivity. credit to Peter Thiel.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "755240054137421834",
+            "name": "pogU",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/755240054137421834.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780507271955611648",
+      "type": "Default",
+      "timestamp": "2020-11-23T18:57:14.758+00:00",
+      "timestampEdited": "2020-11-23T19:00:20.391+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 35: People don\u0027t know what to do with their money anymore.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD11",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f911.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780507743077007400",
+      "type": "Default",
+      "timestamp": "2020-11-23T18:59:07.082+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*anymore",
+      "author": {
+        "id": "157998279760674817",
+        "name": "TriusHalf",
+        "discriminator": "4022",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157998279760674817/e1a0b3c5ae3807f72c70e6c8f2bd9f07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780508061223747604",
+      "type": "Default",
+      "timestamp": "2020-11-23T19:00:22.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fixed",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780508075983110154",
+      "type": "Default",
+      "timestamp": "2020-11-23T19:00:26.453+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks @TriusHalf",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686316025498959875",
+            "name": "satisfied",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686316025498959875.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "157998279760674817",
+          "name": "TriusHalf",
+          "discriminator": 4022,
+          "nickname": "demit hong",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "780905267227394089",
+      "type": "Default",
+      "timestamp": "2020-11-24T21:18:44.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 36: The only person you should be competing against is your previous self.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749032485677170719",
+            "name": "ez",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749032485677170719.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781396242050580480",
+      "type": "Default",
+      "timestamp": "2020-11-26T05:49:41.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 37: You only get this moment once, make the most out of it.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781648395894652988",
+      "type": "Default",
+      "timestamp": "2020-11-26T22:31:39.906+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 38: \u0022People signal what they don\u0027t understand. \n\nThe person who signals they\u2019re wealthy, doesn\u2019t understand wealth. \n\nThe person who signals how busy they are, doesn\u2019t get anything done.\u0022 Shane Parrish",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "483046881417494529",
+            "name": "yongjae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483046881417494529.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782011163021148190",
+      "type": "Default",
+      "timestamp": "2020-11-27T22:33:10.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 39: Know Thyself",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782434684403056660",
+      "type": "Default",
+      "timestamp": "2020-11-29T02:36:05.695+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 40: Economics teaches static environments. Reality is variable.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782516245500788756",
+      "type": "Default",
+      "timestamp": "2020-11-29T08:00:11.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 41: Economics assumes that people know what they want. The large majority of people do not know what they want.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783028336016228394",
+      "type": "Default",
+      "timestamp": "2020-11-30T17:55:03.269+00:00",
+      "timestampEdited": "2020-11-30T17:55:26.006+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 42: \u0022Love without sacrifice is theft.\u0022 - Nassim Nicholas Taleb in The Bed of Procrustes",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783582864506748930",
+      "type": "Default",
+      "timestamp": "2020-12-02T06:38:33.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 43: Work is the transformation of a medium into a different medium. This changes the properties of the system.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE42",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f642.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f629.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783810027966169089",
+      "type": "Default",
+      "timestamp": "2020-12-02T21:41:13.153+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 44: Pleasure is a counter-irratant. Comfort is the removal of an irratant.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC41\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f441.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFF4\u200D\u2620\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f3f4-200d-2620.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ee.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f3.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF75",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f375.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784288727508844564",
+      "type": "Default",
+      "timestamp": "2020-12-04T05:23:24.018+00:00",
+      "timestampEdited": "2020-12-04T05:24:11.364+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 45: How many legs does a dog have if you call the tail a leg?",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784288750402011176",
+      "type": "Default",
+      "timestamp": "2020-12-04T05:23:29.476+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- from abraham lincoln",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784467420479225866",
+      "type": "Default",
+      "timestamp": "2020-12-04T17:13:27.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Four. Calling a tail a leg doesn\u0027t make it a leg.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "547288705728249873",
+            "name": "4head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547288705728249873.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "643724786828312576",
+            "name": "demega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/643724786828312576.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784503837989797920",
+      "type": "Default",
+      "timestamp": "2020-12-04T19:38:10.353+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 46: A good book is one which you learn something new each time you read it.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785012544959807511",
+      "type": "Default",
+      "timestamp": "2020-12-06T05:19:35.546+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 47: Crimes of the rich are not as contemptible than those of the poor.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "776961226823565322",
+            "name": "jae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/776961226823565322.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785363596208242709",
+      "type": "Default",
+      "timestamp": "2020-12-07T04:34:32.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 48: The well designed blueprint can never be as rewarding as a completed beautiful building.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751199244039356426",
+            "name": "yep",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751199244039356426.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785572927554191380",
+      "type": "Default",
+      "timestamp": "2020-12-07T18:26:21.168+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 49: We are more open to talking truthfully about ourselves to strangers than people we know or even friends.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785956194497593354",
+      "type": "Default",
+      "timestamp": "2020-12-08T19:49:19.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 50: \u0022The first principle is that you must not fool yourself\u2014and you are the easiest person to fool.\u0022 - Richard Feynman",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786840337518952465",
+      "type": "Default",
+      "timestamp": "2020-12-11T06:22:35.251+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 51: If you just listen to what everyone else is telling you, you are living someone else\u0027s life, not your own.\nTOTD 52: If you always fear failure, you won\u0027t ever take meaningful risks in your life.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787046128394829824",
+      "type": "Default",
+      "timestamp": "2020-12-11T20:00:19.619+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 53: The average outcome is not your outcome",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686316025498959875",
+            "name": "satisfied",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686316025498959875.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787511809748762657",
+      "type": "Default",
+      "timestamp": "2020-12-13T02:50:46.706+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 54: Some of the best days are not the big events but the generic days that pass by. Take more photos of these days.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787867157278621746",
+      "type": "Default",
+      "timestamp": "2020-12-14T02:22:48.159+00:00",
+      "timestampEdited": "2020-12-14T04:52:44.533+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 55: People with skin in the game should make the decisions. Skin in the game is when people have a personal investment in the thing they are pursuing, typically they have something to lose.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787902452821000192",
+      "type": "Default",
+      "timestamp": "2020-12-14T04:43:03.272+00:00",
+      "timestampEdited": "2020-12-14T06:05:47.999+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ex. Those commanding the war should at least have a son or daughter in the front lines.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787902702025310278",
+      "type": "Default",
+      "timestamp": "2020-12-14T04:44:02.687+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Roman arhcitects used to have to sleep under their bridges so that they would die if their architecture was bad.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788276572846948392",
+      "type": "Default",
+      "timestamp": "2020-12-15T05:29:40.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 56: We spend so much time online that we don\u0027t have enough time to spend with ourselves",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "755614707532038255",
+            "name": "sader",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/755614707532038255.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "465371181164265483",
+            "name": "kreygasm",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/465371181164265483.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788410799852617769",
+      "type": "Default",
+      "timestamp": "2020-12-15T14:23:02.649+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 57: It is really easy to copy someone else\u0027s idea and really hard get everyones ideas out of your head before you actually start thinking.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788787870172577822",
+      "type": "Default",
+      "timestamp": "2020-12-16T15:21:23.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 58: Writing is a good way to start thinking because you can start looking at your ideas.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788839980221988904",
+      "type": "Default",
+      "timestamp": "2020-12-16T18:48:27.223+00:00",
+      "timestampEdited": "2020-12-16T18:48:44.077+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 58 Bonus :) : \u0022Academia rewards researcher who knows more and more about less and less\u0022 - Charlie Munger",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789210253426163763",
+      "type": "Default",
+      "timestamp": "2020-12-17T19:19:47.234+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 59: \u0022Teachers should prepare the student for the student\u0027s future, not for the teacher\u0027s past.\u0022 - Richard Hamming h/t James Clear",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDE0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9e0.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789737598196252732",
+      "type": "Default",
+      "timestamp": "2020-12-19T06:15:16.025+00:00",
+      "timestampEdited": "2020-12-19T06:16:40.02+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 60: People study the content of the medium but not the medium itself. The content blinds us from the medium. Ex. People study the content of online news instead of online news itself, the real cause of division.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "617981961100722176",
+            "name": "gadzooks",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/617981961100722176.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790102890131619880",
+      "type": "Default",
+      "timestamp": "2020-12-20T06:26:48.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 61: Language rules come after the language has been established, yet people teach language as if the rules were created then the words.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790407745810464769",
+      "type": "Default",
+      "timestamp": "2020-12-21T02:38:11.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TOTD 62: We often lie to ourselves so we dont have to confront reality.",
+      "author": {
+        "id": "117458353839538181",
+        "name": "grayson",
+        "discriminator": "2702",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/117458353839538181/c3f3699ea45c2a5e700befc5c1503c81.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "778439492671373362",
+            "name": "feelswerman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/778439492671373362.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 75
+}

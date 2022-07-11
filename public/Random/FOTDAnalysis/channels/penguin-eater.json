@@ -1,0 +1,2446 @@
+{
+  "guild": {
+    "id": "254698074323157013",
+    "name": "\uD83C\uDF93\uD83C\uDF93\uD83C\uDF93",
+    "iconUrl": "https://cdn.discordapp.com/icons/254698074323157013/840724d73280a5affd7ff3b5f8cf3d40.png"
+  },
+  "channel": {
+    "id": "767904782505213982",
+    "type": "GuildTextChat",
+    "category": "fact of the day",
+    "name": "penguin-eater",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "767967048294727692",
+      "type": "Default",
+      "timestamp": "2020-10-20T04:26:52.451+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 39: There is no good way to tell if this is actually my 39th fact, or some other number (counting off my deleted channel).",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "768019510250307604",
+      "type": "Default",
+      "timestamp": "2020-10-20T07:55:20.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 40: I have a tendency to essentially afk Impostor in Among Us games because I\u0027m scared to mess up, but realize too late that my gameplay is ruining the game experience. My bad guys",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "768696410115145748",
+      "type": "Default",
+      "timestamp": "2020-10-22T04:45:05.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 41: Trevor and I are watching the Deltora Quest anime adaptation, which was a book series we read in Elementary School. It\u0027s actually like the best fantasy book series ever for the age demographic. Also the opening is actually a fukin banger https://www.youtube.com/watch?v=2wdfNKrgssc",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Deltora quest opening 1",
+          "url": "https://www.youtube.com/watch?v=2wdfNKrgssc",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "Joshua pe\u00F1a",
+            "url": "https://www.youtube.com/channel/UCbGPLDI1FnKME-Sgyfl-_Yg"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/2wdfNKrgssc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769085444544659466",
+      "type": "Default",
+      "timestamp": "2020-10-23T06:30:58.896+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 42: i like cgdct and i cannot lie",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769335736163237889",
+      "type": "Default",
+      "timestamp": "2020-10-23T23:05:33.068+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 43: i have used more brainpower on today\u0027s math homework than i have in the entirety of the first few weeks of school and all of summer",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769797583270182942",
+      "type": "Default",
+      "timestamp": "2020-10-25T05:40:45.999+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 44: i ate less than one meal today but I am not hungry :feelsweirdman:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "483051429922078721",
+            "name": "residemsleeper",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483051429922078721.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770087107762192386",
+      "type": "Default",
+      "timestamp": "2020-10-26T00:51:14.017+00:00",
+      "timestampEdited": "2020-11-12T04:46:56.134+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 45: watched the grand budapest hotel today. wes anderson movies always ooze a specific style and sexyness, and the scenes that \u0022looked funny\u0022 only added to the charm. the characters, acting, and sets were all top tier. but ultimately the movie didn\u0027t have much intellectual or emotional impact on me and thus i rate it at a 9/10.",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770468361779806209",
+      "type": "Default",
+      "timestamp": "2020-10-27T02:06:12.058+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 46: i have determined that sleeping at 5 am makes me eat less than one meal a day",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686322559850905601",
+            "name": "klu2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686322559850905601.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770884086821814282",
+      "type": "Default",
+      "timestamp": "2020-10-28T05:38:08.632+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 47: reading manga is a lot easier than watching anime from a schedule perspective",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771067853150617600",
+      "type": "Default",
+      "timestamp": "2020-10-28T17:48:21.939+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 48: youtube music on google chrome sucks and is laggy as fuck. it\u0027s so bad that I\u0027ve decided to use miCROSOFT EDGE for youtube music from now on",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "626191509103968268",
+            "name": "kekw",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/626191509103968268.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771274473491398666",
+      "type": "Default",
+      "timestamp": "2020-10-29T07:29:24.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aidenwoozy:",
+      "author": {
+        "id": "124745315902291968",
+        "name": "Airikan",
+        "discriminator": "7238",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124745315902291968/3402b19178756df321d5751fd7acbb1b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100703100993547",
+            "name": "monkaweird",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100703100993547.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771287818592583681",
+      "type": "Default",
+      "timestamp": "2020-10-29T08:22:25.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 49:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [
+        {
+          "id": "771287818424287232",
+          "url": "https://cdn.discordapp.com/attachments/767904782505213982/771287818424287232/WaifuTierList.png",
+          "fileName": "WaifuTierList.png",
+          "fileSizeBytes": 2496394
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "771598479000207371",
+      "type": "Default",
+      "timestamp": "2020-10-30T04:56:53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aidenwoozy:",
+      "author": {
+        "id": "124745315902291968",
+        "name": "Airikan",
+        "discriminator": "7238",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124745315902291968/3402b19178756df321d5751fd7acbb1b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100703100993547",
+            "name": "monkaweird",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100703100993547.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771950934413541446",
+      "type": "Default",
+      "timestamp": "2020-10-31T04:17:24.919+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 50: the mandalorian season 2 episode 1 finished at a 7.5/10. the show is at its best with the sets, costume design, and combat. but the characters and dialogue leave a lot to be desired.",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "772222930842550292",
+      "type": "Default",
+      "timestamp": "2020-10-31T22:18:13.921+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 51: my discrete math midterm was free as fuck and i am not sure why. guess cca was harder than college after all. also i think my teacher said he will only consider the highest grade from the two midterms we take so i guess i can slack off now :pepelaugh:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772709467853946910",
+      "type": "Default",
+      "timestamp": "2020-11-02T06:31:33.384+00:00",
+      "timestampEdited": "2020-11-12T02:50:04.747+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 52: when they cry finished with a 7.5/10. it was good, and the plot was engaging and interesting. i really enjoy shows like this with ||multiple routes / timelines||. after seeing some of the manga art though the show fails to capture the horror and mystery aspect through the art style, and even during the ||bloodiest scenes||, things aren\u0027t scary, in fact they don\u0027t even contribute to shock factor. the directing and general aesthetic is bland and does no favors. for me the show is purely carried through narrative",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC7B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f47b.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773012649721200660",
+      "type": "Default",
+      "timestamp": "2020-11-03T02:36:17.574+00:00",
+      "timestampEdited": "2020-11-03T02:36:23.206+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 53: for a brief moment of my life i was the ranked in the top 14 of all AMQ players this season",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773094801146511390",
+      "type": "Default",
+      "timestamp": "2020-11-03T08:02:44+00:00",
+      "timestampEdited": "2020-11-03T08:03:54.652+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 54: josh aint slick #jawsh fotd10",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773094823753678848",
+      "type": "Default",
+      "timestamp": "2020-11-03T08:02:49.39+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [
+        {
+          "id": "773094823473053726",
+          "url": "https://cdn.discordapp.com/attachments/767904782505213982/773094823473053726/jawshexposed.png",
+          "fileName": "jawshexposed.png",
+          "fileSizeBytes": 140540
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "547289631658475521",
+            "name": "pepega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547289631658475521.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "329689906546868225",
+            "name": "feelstastyman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/329689906546868225.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "626191509103968268",
+            "name": "kekw",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/626191509103968268.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773803927203741696",
+      "type": "Default",
+      "timestamp": "2020-11-05T07:00:32.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 55: had a big Linkin Park phase in middle school after being introduced in 7th grade. listened to the albums for bus rides and stuff, also when i had to travel any long distance (road trips and plane flights). i return to their music every once in a while whenever i feel like it, or when i have some long ass trip again. one thing i love about their albums is how some songs carry into the next with seamless transition\n\nhere are their studio albums ranked from best to worst in my opinion (worst still has some good ass tracks, just all relative)\n\nThe Hunting Party\nMeteora\nA Thousand Suns\nMinutes to Midnight\nLIVING THINGS\nOne More Light\nHybrid Theory\nReanimation",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "748043005507928094",
+            "name": "ayao",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/748043005507928094.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "651278391944806410",
+            "name": "pepeJAM",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/651278391944806410.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774155649936392222",
+      "type": "Default",
+      "timestamp": "2020-11-06T06:18:10.061+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 56: today I walked more than I have walked for the entirety of quarantine.\nalso i can\u0027t use self checkout machines",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "547289631658475521",
+            "name": "pepega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547289631658475521.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "476982861161824259",
+            "name": "HUH",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/476982861161824259.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774227396861362177",
+      "type": "Default",
+      "timestamp": "2020-11-06T11:03:15.861+00:00",
+      "timestampEdited": "2020-11-06T11:12:29.466+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 57: this morning I learned that my brain is dumb enough to let me close the door on my finger and cut it kinda bad \u2639\uFE0F it won\u0027t stop hurting man\n\nstg I\u0027m gonna wake up with a dead finger or some shit",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774796298569515019",
+      "type": "Default",
+      "timestamp": "2020-11-08T00:43:52.598+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 58: one time i accidentally put both my crt contacts in the same eye and thought i lost one of them when i tried to take my contacts out of the other eye but nothing was there",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775131385400393758",
+      "type": "Default",
+      "timestamp": "2020-11-08T22:55:23.524+00:00",
+      "timestampEdited": "2020-11-08T22:55:31.588+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 59: finally maxed my walls. time to wait 3 months for upgrades :residemsleeper:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775301682095456256",
+      "type": "Default",
+      "timestamp": "2020-11-09T10:12:05.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 60: tomorrow AC Valhalla releases and i am so ready to waste the next two weeks of my life trying to play while my laptop screams at me for trying to run a game this demanding",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "645097313231962113",
+            "name": "penguindance",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/645097313231962113.gif"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775713735196016670",
+      "type": "Default",
+      "timestamp": "2020-11-10T13:29:26.535+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 61: selecting the hardest difficulty was a mistake, i got stuck on the first mission for 2 hrs",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "547289631658475521",
+            "name": "pepega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547289631658475521.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776312248758960158",
+      "type": "Default",
+      "timestamp": "2020-11-12T05:07:43.288+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 62: isle of dogs 8.5/10 less fun and engaging than grand budapest hotel and fantastic mr. fox also i change my budapest rating to 9",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776696403904036874",
+      "type": "Default",
+      "timestamp": "2020-11-13T06:34:13.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 63: I\u0027ve been sleeping 1-2 hours less and to no surprise I\u0027ve been less productive",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777026145853243432",
+      "type": "Default",
+      "timestamp": "2020-11-14T04:24:29.619+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 64: the wireless mouse charger i got for free in a deal doesn\u0027t even work so i guess i just got a free piece of plastic with rgb",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE14",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f614.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777120583992213524",
+      "type": "Default",
+      "timestamp": "2020-11-14T10:39:45.426+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 65: fairy tail anime arcs ranked from best to worst in my opinion\nTenrou Island\nTartaros\nZero\nAlvarez Empire\nGrand Magic Games\nAvatar\nOracion Seis\nX791\nTower of Heaven\nPhantom Lord\nEclipse Celestial Spirits\nThe Battle of Fairy Tail\nLoke\nSun Village\nSub-Zero Emperor Lyon\nDaybreak\nKey of the Starry Sky\nEdolas\nDaphne\nMacao\nEisenwald",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777485701075042304",
+      "type": "Default",
+      "timestamp": "2020-11-15T10:50:36.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 66:\nthings ac valhalla does better than ac odyssey\n- sound design and general weight behind attacks\n- settlement and raiding system\n- main story / character development\n- actually being an assassins creed game\n- general gameplay loop for open world\nthings ac odyssey does better than ac valhalla\n- overall combat\n- world aesthetic\n- rpg system\n- stealth gameplay\n- difficulty\n- level design\n\nvalhalla adds a ton of meaningful new systems that enhance the world but also decided to remove all things good about combat, the rpg system (item collection and whatnot), and general objectives and motivations to play. quite a shame, if they just kept odyssey\u0027s core systems but just applied it to the more refined gameplay experience that\u0027s been crafted this game would be a 10/10",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777941630565089310",
+      "type": "Default",
+      "timestamp": "2020-11-16T17:02:18.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 67:\nthought i had mandatory class at 9 but i actually don\u0027t please give me my sleep back",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778214547734659072",
+      "type": "Default",
+      "timestamp": "2020-11-17T11:06:46.707+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 68:\nI got a FSN HF movie ad for tickets on Instagram just now :sadge: this is so bm",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778883764012187678",
+      "type": "Default",
+      "timestamp": "2020-11-19T07:26:00.301+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 69:\ni dedicate this *nice* fact to everybody. keep being cool :yep:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "483048710675234816",
+            "name": "nakadashi",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483048710675234816.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "749032485677170719",
+            "name": "ez",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749032485677170719.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779188050407718913",
+      "type": "Default",
+      "timestamp": "2020-11-20T03:35:07.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 70:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779188054417080372",
+      "type": "Default",
+      "timestamp": "2020-11-20T03:35:08.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [
+        {
+          "id": "779188054300426240",
+          "url": "https://cdn.discordapp.com/attachments/767904782505213982/779188054300426240/27b514f9c354eb69a0f667d35d2bf17f.png",
+          "fileName": "27b514f9c354eb69a0f667d35d2bf17f.png",
+          "fileSizeBytes": 6946
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779188063708250112",
+      "type": "Default",
+      "timestamp": "2020-11-20T03:35:11.002+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "get fucked demitrius",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779596898000306177",
+      "type": "Default",
+      "timestamp": "2020-11-21T06:39:44.693+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 71:\ntoday i ate starchy dry and mushy instant noodles that tasted disgusting because i couldnt be bothered to wait longer",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779915007886229524",
+      "type": "Default",
+      "timestamp": "2020-11-22T03:43:48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 72:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779915035195080725",
+      "type": "Default",
+      "timestamp": "2020-11-22T03:43:54.511+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "got a haircut for the first time in like 5 months :yep:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780181024571261008",
+      "type": "Default",
+      "timestamp": "2020-11-22T21:20:51.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 73:\nhaikyuu watchers are better at volleyball",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780615038297309235",
+      "type": "Default",
+      "timestamp": "2020-11-24T02:05:28.256+00:00",
+      "timestampEdited": "2020-11-24T02:06:00.814+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 74:\ni cap my cpu clock speed to its base clock of 2.6 ghz while gaming because otherwise i will actually get worse performance. when it boosts to faster (3\u002B ghz) it ends up overheating past like 92 degrees Celsius and subsequently thermal throttles which ends up giving me worse performance than if i was to just cap my clock speed. laptops smh",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDE0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9e0.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781042706192531456",
+      "type": "Default",
+      "timestamp": "2020-11-25T06:24:52.228+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 75:\nmy ethernet connection travels down the stairs to my dads office while taped to the wall with masking tape",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDDA5\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f5a5.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781324738038857791",
+      "type": "Default",
+      "timestamp": "2020-11-26T01:05:33.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 76:\nwatching haikyuu has made me worse at volleyball",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781719811918921779",
+      "type": "Default",
+      "timestamp": "2020-11-27T03:15:26.813+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 77:\nthanks giving guys",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD83",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f983.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782061014379397131",
+      "type": "Default",
+      "timestamp": "2020-11-28T01:51:15.819+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 78:\nmusic makes things fun",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782203280180641792",
+      "type": "Default",
+      "timestamp": "2020-11-28T11:16:34.629+00:00",
+      "timestampEdited": "2020-11-28T11:22:50.48+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 79:\nMy delicious and filling midnight snack: bbq sauce naan bread",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782203300736139275",
+      "type": "Default",
+      "timestamp": "2020-11-28T11:16:39.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [
+        {
+          "id": "782203299851796480",
+          "url": "https://cdn.discordapp.com/attachments/767904782505213982/782203299851796480/IMG_20201128_031554.jpg",
+          "fileName": "IMG_20201128_031554.jpg",
+          "fileSizeBytes": 3879500
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782834117096112148",
+      "type": "Default",
+      "timestamp": "2020-11-30T05:03:17.87+00:00",
+      "timestampEdited": "2020-11-30T06:08:46.082+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 80:\nI don\u0027t know how GraphQL works\n\nupdate:\nI still don\u0027t but at least i got it working :5head:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783174201146212382",
+      "type": "Default",
+      "timestamp": "2020-12-01T03:34:40.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "81. I am now TH 10",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783569637535121438",
+      "type": "Default",
+      "timestamp": "2020-12-02T05:45:59.608+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 82:\nim feeling some depth differential rn",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2753",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783892429036060702",
+      "type": "Default",
+      "timestamp": "2020-12-03T03:08:39.099+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 83:\nim feeling some depth equivalence rn",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784298337632518154",
+      "type": "Default",
+      "timestamp": "2020-12-04T06:01:35.25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 84:\nplaying music on the bot spams my console with error messages and im pretty sure there is nothing i can do about it\n\nguess my console is gonna be forever cursed",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784643809979531284",
+      "type": "Default",
+      "timestamp": "2020-12-05T04:54:22.276+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 85:\nnew mando episode was pretty insane :yep: 9.5/10",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE24",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f624.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "748043005507928094",
+            "name": "ayao",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/748043005507928094.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785022497296351243",
+      "type": "Default",
+      "timestamp": "2020-12-06T05:59:08.368+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 86:\nhoney nut cheerios is the one and only snack :aidenwoozy:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785359446402007040",
+      "type": "Default",
+      "timestamp": "2020-12-07T04:18:03.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 87:\ntwisted fate is hot garbage into kat",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785724307715260457",
+      "type": "Default",
+      "timestamp": "2020-12-08T04:27:53.011+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 88: my gold storages fill up significantly faster because army costs so i end up losing like 3-4 mil gold every day cuz i never have builders up to spend the gold :sadge:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786100883951321119",
+      "type": "Default",
+      "timestamp": "2020-12-09T05:24:15.782+00:00",
+      "timestampEdited": "2020-12-09T05:24:24.908+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 89:\ncant wait to spend 3 hours watching gnuradio compile from source only for it to throw an error at 97% or something",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCC9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4c9.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786487356671787109",
+      "type": "Default",
+      "timestamp": "2020-12-10T06:59:58.059+00:00",
+      "timestampEdited": "2020-12-10T07:00:34.729+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 90:\nKonomi Suzuki was just 16 when she released \u0022DAYS of DASH\u0022, the absolute banger ED 1 for Sakurasou no Pet na Kanojo which was a super charming coming-of-age story with a great art style that I\u0027m giving a 9.5/10",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786790359241850890",
+      "type": "Default",
+      "timestamp": "2020-12-11T03:03:59.501+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 91:\nmappa may be ruling this anime season but disney rules the fuckin world :YEP:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "765767195531542580",
+            "name": "pleasestop",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/765767195531542580.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787186029882376253",
+      "type": "Default",
+      "timestamp": "2020-12-12T05:16:14.733+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 92:\nfinished Bakemonogatari at a 7/10. it was stylish and unique as fuck but ultimately felt a little **dull**",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "547289631658475521",
+            "name": "pepega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547289631658475521.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787540275715244052",
+      "type": "Default",
+      "timestamp": "2020-12-13T04:43:53.521+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 93:\nmy dedicated serv is hosted in canada so i cant actually play 90% of the music playlist on it for ElainaBot :sadge:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE06",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f606.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787844044688326718",
+      "type": "Default",
+      "timestamp": "2020-12-14T00:50:57.688+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 94:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787844048400023582",
+      "type": "Default",
+      "timestamp": "2020-12-14T00:50:58.573+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [
+        {
+          "id": "787844048269737984",
+          "url": "https://cdn.discordapp.com/attachments/767904782505213982/787844048269737984/f18c43be75c6c81c763460836f543d0d.png",
+          "fileName": "f18c43be75c6c81c763460836f543d0d.png",
+          "fileSizeBytes": 17626
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788314170721697802",
+      "type": "Default",
+      "timestamp": "2020-12-15T07:59:04.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 95:\ntime to take my 3 hour long final.",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788333272454397984",
+      "type": "Default",
+      "timestamp": "2020-12-15T09:14:58.677+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 96:\ni think i did aight",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788987903602589706",
+      "type": "Default",
+      "timestamp": "2020-12-17T04:36:14.905+00:00",
+      "timestampEdited": "2020-12-17T04:36:27.392+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 97:\n:sadge:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788987908366925824",
+      "type": "Default",
+      "timestamp": "2020-12-17T04:36:16.041+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [
+        {
+          "id": "788987908199415808",
+          "url": "https://cdn.discordapp.com/attachments/767904782505213982/788987908199415808/7c0c56051fa0c4f424898b9e4c9684c4.png",
+          "fileName": "7c0c56051fa0c4f424898b9e4c9684c4.png",
+          "fileSizeBytes": 27556
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789345124933042246",
+      "type": "Default",
+      "timestamp": "2020-12-18T04:15:43.107+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 98:\napparently a true story",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789345129042673676",
+      "type": "Default",
+      "timestamp": "2020-12-18T04:15:44.087+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [
+        {
+          "id": "789345128891809802",
+          "url": "https://cdn.discordapp.com/attachments/767904782505213982/789345128891809802/ca3de1b05cd5e904b3c0ecc8b81580cd.png",
+          "fileName": "ca3de1b05cd5e904b3c0ecc8b81580cd.png",
+          "fileSizeBytes": 65963
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789629092781752321",
+      "type": "Default",
+      "timestamp": "2020-12-18T23:04:06.318+00:00",
+      "timestampEdited": "2020-12-20T11:35:03.652+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 99:\nCompleted two seasonals today \n\nTonikaku Kawaii had a really fun and cute premise and the first half of the show has got to be some of the best cutesy fluffiest content I\u0027ve ever watched. The rest of the show was a little more average, but it gets an 7/10 from me for such a superb start\n\nMajo no Tabitabi is home to one of my favorite protagonists, the traveling Ashen Witch Elaina who I like because she does not give a fuck about anyone and anything. The show is a collection of really fun stories and memorable moments and really succeeds as an episodic adventure. Overall it was a super fun watch, quality show: another 8/10 from me \uD83D\uDE42",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790121853271146498",
+      "type": "Default",
+      "timestamp": "2020-12-20T07:42:09.574+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 100:\nRecently completed My Teen Romantic Comedy SNAFU and My Teen Romantic Comedy SNAFU TOO!\n\nThe first season gets a 7/10 (great) from me, it had some great comedic moments but in terms of character depth it mostly detailed the MC\u0027s cynical and abrasive personality. Overall a great slice of life comedy with a bit of romance and a humorous MC.\n\nHowever the second season gets a 9/10 (incredible) from me. The first season set up a cast of very interesting but flawed characters and the second season dived into the problems they faced in a very deep and compelling manner. Combined with some great character interactions/slice of life content, it\u0027s a show I really enjoyed and thought a lot about \uD83D\uDE03 , MC is definitely one of my favorite characters of all time.\n\nLooking forward to the final season :yep:",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790403685045108736",
+      "type": "Default",
+      "timestamp": "2020-12-21T02:22:03.505+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fact number 101:\nI am without a doubt mentally ill and unfit for society as well as incredibly cringe",
+      "author": {
+        "id": "183347863017881601",
+        "name": "Muffin",
+        "discriminator": "0007",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183347863017881601/0d1f6f850398c0c4b8d1fce9584f8a4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44e.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 73
+}

@@ -1,0 +1,1996 @@
+{
+  "guild": {
+    "id": "254698074323157013",
+    "name": "\uD83C\uDF93\uD83C\uDF93\uD83C\uDF93",
+    "iconUrl": "https://cdn.discordapp.com/icons/254698074323157013/840724d73280a5affd7ff3b5f8cf3d40.png"
+  },
+  "channel": {
+    "id": "769732807952957471",
+    "type": "GuildTextChat",
+    "category": "fact of the day",
+    "name": "shreyank",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "769733694088019968",
+      "type": "Default",
+      "timestamp": "2020-10-25T01:26:53.631+00:00",
+      "timestampEdited": "2020-10-25T01:27:35.262+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 1: one of the most famous ritual suicides in history happened right in our backyard by the heaven\u0027s gate in rancho santa fe. their leaders were thought to be literally superhuman until one of them fucking died. so they twisted the narrative and all of killed themselves. talk about conformity huh",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770005772989235220",
+      "type": "Default",
+      "timestamp": "2020-10-25T19:28:02.296+00:00",
+      "timestampEdited": "2020-10-25T19:28:33.642+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 2: the french philosopher/author/critic denis diderot is best known for writing the encyclop\u00E9die, a general encyclopedia encompassing enlightenment thoughts. something more interesting is that he wrote the novel \u0022the indiscreet jewels\u0022 where a sultan owns a magic ring that makes women\u0027s genitals talk. how useful huh",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "500100703100993547",
+            "name": "monkaweird",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100703100993547.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770312766485037087",
+      "type": "Default",
+      "timestamp": "2020-10-26T15:47:55.249+00:00",
+      "timestampEdited": "2020-10-26T16:01:17.665+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 3: there are many historical inaccuracies surrounding napoleon and his rule. one of the most famous inaccuracies was that he was really fucking short. this fallacy was due to a 5-unit difference between english and french systems of measurement and was perpetuated in political cartoons such as \u0022little boney in a strong fit.\u0022 imagine being one of the most successful and imposing leaders in the history of mankind but becoming the laughingstock of the world since some idiot couldnt do math and thought you were a midget. kinda feelsbad huh",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u24C2\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/24c2.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD70\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f170.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDED",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ed.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770866565503123496",
+      "type": "Default",
+      "timestamp": "2020-10-28T04:28:31.224+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 4: one of the most famous series of paintings in the latter half of the 20th century was the helga pictures by american painter andrew wyeth. though he was married, wyeth painted over 240 portraits of german model helga testorf over the course of fourteen years. many of these paintings were explicit and nude, and helga was even the guest of honor at wyeth\u0027s 90th birthday. although wyeth denied an intimate relationship with helga, it was so fucking obvious smth was up (names of paintings include \u0022lovers\u0022 and \u0022ON HER KNEES\u0022). kinda sus huh",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "755240054137421834",
+            "name": "pogU",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/755240054137421834.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771197431610081321",
+      "type": "Default",
+      "timestamp": "2020-10-29T02:23:15.851+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 5: one of the most depressing pieces of literature i have read is the short story \u0022tits-up in a ditch\u0022 by annie proulx. the protagonist dakota was abandoned by her mother as a baby. after getting older, dakota goes on to find herself pregnant, married, and abandoned by her husband sash (who went to fight in the iraq war). she then leaves her baby and joins the army to also fight in the iraq war. upon losing an arm while fighting, she comes home to a dead baby and a comatose sash with both legs blown off and half his head gone. god really said \u0022fuck dakota\u0022 huh",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCDA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4da.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771625940295090186",
+      "type": "Default",
+      "timestamp": "2020-10-30T06:46:00.283+00:00",
+      "timestampEdited": "2020-10-30T06:54:04.847+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 6: for two months from march 18th, 1871 to may 28, 1871, france was a communist nation under the paris commune. occuring right after napoleon iii\u0027s capture and france\u0027s defeat in the franco-prussian war, angry mobs of workers stormed the streets of paris and took control of the government. my favorite part of the paris commune is the p\u00E9troleuses, women that went fucking king kong and burned down basically all of paris. girl power huh",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771783377883103232",
+      "type": "Default",
+      "timestamp": "2020-10-30T17:11:36.329+00:00",
+      "timestampEdited": "2020-10-30T17:12:38.775+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 7: a poem i really like is \u0022richard cory\u0022 by edwin arlington robinson. it speaks of a man named richard cory who is the envy of everyone in town: \u0022he was a gentleman from sole to crown/Clean favored, and imperially slim.\u0022 he was rich, composed, and the man that everyone wanted to be, but \u0022one calm summer night,/[he] went home and put a bullet through his head.\u0022 though perfect on the outside, who knows all the horrible things richard was going through? we should take this as a lesson -- go check up on someone and make sure they\u0027re doing okay before something bad does happen. love y\u0027all \u2764\uFE0F",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772171079908982786",
+      "type": "Default",
+      "timestamp": "2020-10-31T18:52:11.695+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 8: one of the most famous rulers in the history of india was ashoka the great of the mauryan empire. in history classes we learn of how he became a benevolent ruler and a pacifist after his conquest of kalinga, but many buddhist texts say otherwise, calling him \u0022candashoka\u0022 (ashoka the cruel). a prime example of this was ashoka\u0027s hell, a torture chamber ashoka had constructed in his capital pataliputra. on the outside it looked like a palace with all the external accoutrements of decadence and pleasure, but entry into the palace revealed only pain. the torture devices within the palace were so horrible that many were sure that ashoka had taken a voyage into hell to perfectly recreate it. how scary huh (on that note, happy halloween y\u0027all!)",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772623768228462592",
+      "type": "Default",
+      "timestamp": "2020-11-02T00:51:01.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 9: just like many other asian countries, korea has a mythological explanation for how its state was founded. it all began when the son of the lord of heaven, hwanung, founded the sinsi (city of god) on baekdu mountain to communicate with the humans and teach them how to be good. one day, a tiger and a bear came to hwanung asking to become human. hwanung gave both of them twenty cloves of garlic and a bundle of mugwort, ordering them to only sustain themselves on this food and remain out of sunlight for 100 days. the tiger gave up very soon, but the bear persevered through the 100 days and became a woman; however, she lacked a husband or a child and became sad. upon praying under a tree for a long time, hwanung became pleased and took her as his wife. soon they gave birth to emperor dangun, the founder of the gojoseon dynasty, who began his rule in 2333 BCE (according to the dongguk tonggam).",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773002703311208478",
+      "type": "Default",
+      "timestamp": "2020-11-03T01:56:46.165+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 10: \n\u0022For beauty is nothing but the beginning of terror\nwhich we are barely able to endure, and it amazes us so,\nbecause it serenely disdains to destroy us.\nEvery angel is terrible.\u0022\n-Duino Elegies, Rilke",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773420674534473728",
+      "type": "Default",
+      "timestamp": "2020-11-04T05:37:38.27+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 11:\n\u0022What, like St. Augustine, can we say after Rome has been sacked? Except Augustine\u2019s answer, the City of God, is a comfort designed for the aftermath of a tragedy. Rodriguez, that lance corporal, Charlie Company, the whole battalion, they were a different matter. How do you spiritually minister to men who are still being assaulted?\u0022\n-Redeployment, Phil Klay",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773585027362848788",
+      "type": "Default",
+      "timestamp": "2020-11-04T16:30:43.038+00:00",
+      "timestampEdited": "2020-11-04T16:30:57.992+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 12:\n\u0022There are only two tragedies in life: one is not getting what one wants, and the other is getting it.\u0022\n-Lady Windermere\u0027s Fan, Oscar Wilde",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773973865277554739",
+      "type": "Default",
+      "timestamp": "2020-11-05T18:15:49.221+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 13:\n\u0022even a thatched hut\nmay change with a new owner\ninto a doll\u0027s house\u0022\n-Oku no Hosomichi, Matsuo Basho",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774341958234669149",
+      "type": "Default",
+      "timestamp": "2020-11-06T18:38:29.421+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 14:\n\u0022After two thousand years of mass\nWe\u0027ve got as far as poison-gas\u0022\n-\u0022Christmas, 1924\u0022, Thomas Hardy",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "483048710675234816",
+            "name": "nakadashi",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483048710675234816.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774823209090285578",
+      "type": "Default",
+      "timestamp": "2020-11-08T02:30:48.566+00:00",
+      "timestampEdited": "2020-11-08T02:31:02.469+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 15:\n\u0022Love seeketh not itself to please,\nNot for itself hath any care,\nBut for another gives its ease,\nAnd builds a Heaven in Hell\u0027s Despair\u0022\n-The Clod and the Pebble, William Blake",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "775055602573508698",
+      "type": "Default",
+      "timestamp": "2020-11-08T17:54:15.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 16:\n\u0022the world\u0027s delight is a brief dream\u0022\n-The Canzoniere, Francesco Petrarch",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775423969322205204",
+      "type": "Default",
+      "timestamp": "2020-11-09T18:18:00.967+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 17:\n\u0022Love seeketh only self to please,\nTo bind another to its delight,\nJoys in another\u0027s loss of ease,\nAnd builds a Hell in Heaven\u0027s despite\u0022\n-The Clod and the Pebble, William Blake",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775783430620839957",
+      "type": "Default",
+      "timestamp": "2020-11-10T18:06:23.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 18:\n\u0022Love, Hope, and Self-esteem, like clouds depart\nAnd come, for some uncertain moments lent.\u0022\n-Hymn to Intellectual Beauty, Percy Shelley",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "775805386712023050",
+      "type": "Default",
+      "timestamp": "2020-11-10T19:33:37.959+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 18 part 2:\n\u0022life is squishy\u0022\n-my genetics professor",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776242919148355615",
+      "type": "Default",
+      "timestamp": "2020-11-12T00:32:13.821+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 19:\n\u0022Why should of all things man unrul\u2019d\nSuch unproportion\u2019d dwellings build?\nThe beasts are by their dens exprest,\nAnd birds contrive an equal nest;\nThe low roof\u2019d tortoises do dwell\nIn cases fit of tortoise-shell;\nNo creature loves an empty space;\nTheir bodies measure out their place.\u0022\n-\u0022Upon Appleton House\u0022, Andrew Marvell",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776642512034463784",
+      "type": "Default",
+      "timestamp": "2020-11-13T03:00:04.189+00:00",
+      "timestampEdited": "2020-11-13T03:01:29.016+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 20:\n\u0022all art is quite useless\u0022\nThe Picture of Dorian Gray, Oscar Wilde",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777013745544724480",
+      "type": "Default",
+      "timestamp": "2020-11-14T03:35:13.155+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 21:\n\u0022honour the past \nbut welcome the future\n(and dance your death\naway at this wedding)\u0022\n-\u0022all nearness pauses, while a star can grow\u0022, e.e. cummings",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777426272157827123",
+      "type": "Default",
+      "timestamp": "2020-11-15T06:54:27.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 22:\n\u0022If you can fill the unforgiving minute\nWith sixty seconds\u2019 worth of distance run,\u00A0\u00A0\u00A0\nYours is the Earth and everything that\u2019s in it,\u00A0\u00A0\u00A0\nAnd\u2014which is more\u2014you\u2019ll be a Man, my son!\u0022\n-\u0022If\u0022, Rudyard Kipling",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777426303871614987",
+      "type": "Default",
+      "timestamp": "2020-11-15T06:54:34.725+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ily ray \u003C3",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777613401744211968",
+      "type": "Default",
+      "timestamp": "2020-11-15T19:18:02.334+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 23:\n\u0022The subject of drama is The Lie\u0022\n-Three Uses of the Knife, David Mamet",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778035854395310090",
+      "type": "Default",
+      "timestamp": "2020-11-16T23:16:42.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 24:\n\u0022There is a change--and I am poor\u0022\n-\u0022A Complaint\u0022, William Wordsworth",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "438569263041609728",
+            "name": "hmm",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/438569263041609728.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778497104808509480",
+      "type": "Default",
+      "timestamp": "2020-11-18T05:49:33.563+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 25:\n\u0022Youth has, as chief assurance,\nHonest Mirth with Virtue\u0027s pastance.\u0022\n-\u0022Lusty Youth Should Us Ensue\u0022, Henry VIII",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778839510720577576",
+      "type": "Default",
+      "timestamp": "2020-11-19T04:30:09.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 26:\n\u0022that\u0027s the happiest moment. when it\u0027s all done. when we stop. when we can stop.\u0022\n-\u0022three tall women\u0022, edward albee",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779398800392847360",
+      "type": "Default",
+      "timestamp": "2020-11-20T17:32:34.543+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 27:\n\u0022que sera, sera\u0022\n-Doctor Faustus, Christopher Marlowe",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779399254887235596",
+      "type": "Default",
+      "timestamp": "2020-11-20T17:34:22.903+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 28:\n\u0022But we by a love so much refined,\n\u00A0\u00A0That our selves know not what it is\u0022\n\u0022A Valediction: Forbidding Mourning\u0022, John Donne",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779696070955499530",
+      "type": "Default",
+      "timestamp": "2020-11-21T13:13:49.368+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 29:\n\u0022Stone Walls do not a Prison make,\nNor Iron bars a Cage;\nMinds innocent and quiet take\nThat for an Hermitage.\nIf I have freedom in my Love,\nAnd in my soul am free,\nAngels alone that soar above,\nEnjoy such Liberty.\u0022\n-\u0022To Althea, From Prison\u0022, Richard Lovelace",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780120186681950268",
+      "type": "Default",
+      "timestamp": "2020-11-22T17:19:06.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 30:\n\u0022He prayeth best, who loveth best\u0022\n-\u0022Rime of the Ancient Mariner\u0022, Samuel Taylor Coleridge",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2753",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780249615735586856",
+      "type": "Default",
+      "timestamp": "2020-11-23T01:53:24.728+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 30 part 2:\nqb is kinda fucking free",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780564556954468362",
+      "type": "Default",
+      "timestamp": "2020-11-23T22:44:52.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 31:\n\u0022My hands are full\u2014my head so busy\u0022\n-\u0022Dear Doctor, I have Read your Play\u0022, Lord Byron",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780866600491286550",
+      "type": "Default",
+      "timestamp": "2020-11-24T18:45:05.357+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 32:\n\u0022How sad and bad and mad it was\u2014 \nBut then, how it was sweet! \u0022\n-\u0022Confessions\u0022, Robert Browning",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e7.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781231949611401236",
+      "type": "Default",
+      "timestamp": "2020-11-25T18:56:51.375+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 33:\n\u0022A jealous God has hidden precious stones\u0022\n-\u0022The Litanies of Satan\u0022, Charles Baudelaire",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e7.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781686421047869460",
+      "type": "Default",
+      "timestamp": "2020-11-27T01:02:45.809+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 34:\n\u0022lit on the table\u2014the dried twigs\u2014\nthe autumn leaves in the blue Chinese vase\u2014\nthanks\u2014for the faces\u2014our faces\u2014in this low light.\u0022\n-\u0022Thanksgiving\u0022, Tim Nolan",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781686657878458428",
+      "type": "Default",
+      "timestamp": "2020-11-27T01:03:42.274+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Happy Thanksgiving to you all! Grateful for each and every one of you :))",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD83",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f983.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC22",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f422.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782034469900910593",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:05:47.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 35:\n\u0022under capitalism, man exploits man. under communism, it\u0027s just the opposite\u0022\n-john kenneth galbraith",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782391165848649738",
+      "type": "Default",
+      "timestamp": "2020-11-28T23:43:10.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 36:\n\u0022Like the sun and moon in the sky\nAlthough we can\u0027t meet, like them\nYou and I you and I you and I\nDon\u0027t forget that we\u0027ll be together\u0022\n-\u0022After Moon\u0022, TWICE",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e7.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782764791634067497",
+      "type": "Default",
+      "timestamp": "2020-11-30T00:27:49.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 37:\n\u0022Whoever said money can\u0027t solve your problems\nMust not have had enough money to solve em\u0022\n-\u00227 rings\u0022, Ariana Grande",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCB0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4b0.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783034308523720704",
+      "type": "Default",
+      "timestamp": "2020-11-30T18:18:47.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 38:\n\u0022We\u0027ve got to live, no matter how many skies have fallen.\u0022\n-\u0022Lady Chatterley\u0027s Lover\u0022, D.H. Lawrence",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783521400601313290",
+      "type": "Default",
+      "timestamp": "2020-12-02T02:34:19.027+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 39:\n\u0022The end of man is knowledge, but there is one thing he can\u0027t know. He can\u0027t know whether knowledge will save him or kill him.\u0022\n-All The King\u0027s Men, Robert Penn Warren",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783914847657263144",
+      "type": "Default",
+      "timestamp": "2020-12-03T04:37:44.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 40:\n\u0022A forced smile is uglier than a frown.\u0022\n-The Marble Faun, Nathaniel Hawthorne",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784622866724552707",
+      "type": "Default",
+      "timestamp": "2020-12-05T03:31:09.015+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 41:\n\u0022Beauty is truth, truth beauty\u0022\n-\u0022Ode on a Grecian Urn\u0022, Keats",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784623317206040586",
+      "type": "Default",
+      "timestamp": "2020-12-05T03:32:56.418+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 42:\n\u0022If you want to look at my feet, say so. But don\u2019t be a God-damned sneak about it.\u201D \n-Seymour Glass, A Perfect Day for Bananafish, J.D. Salinger",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784919213801734174",
+      "type": "Default",
+      "timestamp": "2020-12-05T23:08:43.664+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 43:\n\u0022The dream is the truth.\u0022\n-Their Eyes Were Watching God, Zora Neale Hurston",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785574593922465823",
+      "type": "Default",
+      "timestamp": "2020-12-07T18:32:58.461+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 44:\n\u0022It is not down on any map; true places never are.\u0022\n-Moby Dick, Herman Melville",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785574661214699590",
+      "type": "Default",
+      "timestamp": "2020-12-07T18:33:14.505+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 45:\n\u0022kinda cringe\u0022\n-sean chen",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f929.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786034918987399198",
+      "type": "Default",
+      "timestamp": "2020-12-09T01:02:08.509+00:00",
+      "timestampEdited": "2020-12-09T02:06:37.888+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 46:\n\u0022True ease in writing comes from art, not chance, \nAs those move easiest who have learned to dance.\u0022\n-\u0022An Essay on Criticism\u0022, Alexander Pope",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786051263849824312",
+      "type": "Default",
+      "timestamp": "2020-12-09T02:07:05.428+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "raymond \u2764\uFE0F",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2665\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2665.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786321840041230399",
+      "type": "Default",
+      "timestamp": "2020-12-09T20:02:15.819+00:00",
+      "timestampEdited": "2020-12-09T20:02:27.064+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 47:\n\u0022There is a weird power in a spoken word.\u0022\n-Lord Jim, Joseph Conrad",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786769688989794325",
+      "type": "Default",
+      "timestamp": "2020-12-11T01:41:51.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 48:\n\u0022God\u0027s temple is finished. Now, God kills CIA until it spreads\u0022\n-Terry A. Davis",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "483048710675234816",
+            "name": "nakadashi",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483048710675234816.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786992008278442004",
+      "type": "Default",
+      "timestamp": "2020-12-11T16:25:16.378+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 49:\n\u0022Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win\u0022\n-The Art of War, Sun Tzu",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749032485677170719",
+            "name": "ez",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749032485677170719.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788088565477277746",
+      "type": "Default",
+      "timestamp": "2020-12-14T17:02:35.987+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 50:\n\u0022There\u0027s always one who loves and one who lets himself be loved.\u0022\n-Of Human Bondage, W. Somerset Maugham",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788089355201544271",
+      "type": "Default",
+      "timestamp": "2020-12-14T17:05:44.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Since I no longer have any motivation to keep posting lit quotes, I will be posting a \u0022painting of the day\u0022 from now on.",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788089584696164382",
+      "type": "Default",
+      "timestamp": "2020-12-14T17:06:38.988+00:00",
+      "timestampEdited": "2020-12-14T17:07:25.702+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "potd 51:\nThe Consommation of Empire by Thomas Cole",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [
+        {
+          "id": "788089584508600329",
+          "url": "https://cdn.discordapp.com/attachments/769732807952957471/788089584508600329/Thomas-Cole-The-Course-of-Empire-The-Consummation-of-Empire-1835-6-Courtesy-of-the-New-York.jpg",
+          "fileName": "Thomas-Cole-The-Course-of-Empire-The-Consummation-of-Empire-1835-6-Courtesy-of-the-New-York.jpg",
+          "fileSizeBytes": 178348
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788447386355761152",
+      "type": "Default",
+      "timestamp": "2020-12-15T16:48:25.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "potd 52:\nThe Snake Charmer by Henri Rousseau",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [
+        {
+          "id": "788447386052722698",
+          "url": "https://cdn.discordapp.com/attachments/769732807952957471/788447386052722698/Henri_Rousseau_011.jpg",
+          "fileName": "Henri_Rousseau_011.jpg",
+          "fileSizeBytes": 515020
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "356113763499245568",
+            "name": "PogChamp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/356113763499245568.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788908034495610902",
+      "type": "Default",
+      "timestamp": "2020-12-16T23:18:52.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "potd 53:\nSlave Ship by J.M.W. Turner",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [
+        {
+          "id": "788908034403467264",
+          "url": "https://cdn.discordapp.com/attachments/769732807952957471/788908034403467264/Turner-Slave-Ship-e1304457227658.jpg",
+          "fileName": "Turner-Slave-Ship-e1304457227658.jpg",
+          "fileSizeBytes": 62561
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789241347034579014",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:23:20.528+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "potd 54:\nVienna State Opera House by Adolf Hitler",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [
+        {
+          "id": "789241346699165786",
+          "url": "https://cdn.discordapp.com/attachments/769732807952957471/789241346699165786/640px-Adolf_Hitler_-_Wien_Oper.jpg",
+          "fileName": "640px-Adolf_Hitler_-_Wien_Oper.jpg",
+          "fileSizeBytes": 96963
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789756553996795925",
+      "type": "Default",
+      "timestamp": "2020-12-19T07:30:35.44+00:00",
+      "timestampEdited": "2020-12-19T07:30:51.592+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "potd 55:\nGreece on the Ruins of Missolonghi by Eugene Delacroix",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [
+        {
+          "id": "789756554031136768",
+          "url": "https://cdn.discordapp.com/attachments/769732807952957471/789756554031136768/Eugene_Ferdinand_Victor_Delacroix_017.jpg",
+          "fileName": "Eugene_Ferdinand_Victor_Delacroix_017.jpg",
+          "fileSizeBytes": 688976
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790091196533571644",
+      "type": "Default",
+      "timestamp": "2020-12-20T05:40:20.438+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "potd 56:\nThe Blind Girl by John Everett Millais",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [
+        {
+          "id": "790091196037857290",
+          "url": "https://cdn.discordapp.com/attachments/769732807952957471/790091196037857290/Millais-Blind_Girl.jpg",
+          "fileName": "Millais-Blind_Girl.jpg",
+          "fileSizeBytes": 4675813
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790394127652225054",
+      "type": "Default",
+      "timestamp": "2020-12-21T01:44:04.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "potd 57:\nPrincess X by Constantin Brancusi",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [
+        {
+          "id": "790394127434907678",
+          "url": "https://cdn.discordapp.com/attachments/769732807952957471/790394127434907678/princess-x-brancusi.jpg",
+          "fileName": "princess-x-brancusi.jpg",
+          "fileSizeBytes": 245383
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "786704444326674483",
+            "name": "feelswerman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/786704444326674483.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 63
+}

@@ -1,0 +1,506 @@
+{
+  "guild": {
+    "id": "254698074323157013",
+    "name": "\uD83C\uDF93\uD83C\uDF93\uD83C\uDF93",
+    "iconUrl": "https://cdn.discordapp.com/icons/254698074323157013/840724d73280a5affd7ff3b5f8cf3d40.png"
+  },
+  "channel": {
+    "id": "787921057041743923",
+    "type": "GuildTextChat",
+    "category": "fact of the day",
+    "name": "justin",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "787921729933934642",
+      "type": "Default",
+      "timestamp": "2020-12-14T05:59:39.294+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 1: my fotd channel is at the top, i literally shit on the other channels",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787922014320984074",
+      "type": "Default",
+      "timestamp": "2020-12-14T06:00:47.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 2: i am facing structural discrimination",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "626191509103968268",
+            "name": "kekw",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/626191509103968268.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787950142791483422",
+      "type": "Default",
+      "timestamp": "2020-12-14T07:52:33.447+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 3: i love r/shittymoviedetails and i feel like more people should check it out",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "643724786828312576",
+            "name": "demega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/643724786828312576.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787952346436599818",
+      "type": "Default",
+      "timestamp": "2020-12-14T08:01:18.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 4: yongjae is mad that r/shittymoviedetails is funny because he is a deranged cinephile",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "776961226823565322",
+            "name": "jae",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/776961226823565322.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787982071238361089",
+      "type": "Default",
+      "timestamp": "2020-12-14T09:59:25.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 5: arguing in tiktok comments sections is the most difficult thing you can do, because you need to devote ~5% of your character count to just marking your place in a thread with \u0022(3)\u0022 or \u00223/5\u0022 or some shit, and then it doesnt even display in order to anybody looking inwards from the outside",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788269224547450901",
+      "type": "Default",
+      "timestamp": "2020-12-15T05:00:28.466+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 6:",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [
+        {
+          "id": "788269224476540960",
+          "url": "https://cdn.discordapp.com/attachments/787921057041743923/788269224476540960/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 256750
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788284934804078642",
+      "type": "Default",
+      "timestamp": "2020-12-15T06:02:54.083+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 7: bill barr fucking resigned lmaoooo",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788610119570292766",
+      "type": "Default",
+      "timestamp": "2020-12-16T03:35:04.173+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 8: exceptions to language rules shouldn\u0027t exist and i don\u0027t see why any would",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788624325811896341",
+      "type": "Default",
+      "timestamp": "2020-12-16T04:31:31.205+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 9: you could swim a few feet away from the fuel rods in a spent nuclear fuel pool at a nuclear power plant and actually receive less radiation than from walking on a regular street",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "778439492671373362",
+            "name": "feelswerman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/778439492671373362.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788625033282453525",
+      "type": "Default",
+      "timestamp": "2020-12-16T04:34:19.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 10: before satellites, american naval intelligence would produce recognition drawings of suspected enemy vessels in order to assess their strategic and tactical threat. they were evidently pretty fucking good at it, as this image isn\u0027t even a photograph. it\u0027s a drawing",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [
+        {
+          "id": "788625032767209522",
+          "url": "https://cdn.discordapp.com/attachments/787921057041743923/788625032767209522/O9HjI4wBdwr38Dja1DuBAJDvJ1U35l7GveCNqnXF2Pk.png",
+          "fileName": "O9HjI4wBdwr38Dja1DuBAJDvJ1U35l7GveCNqnXF2Pk.png",
+          "fileSizeBytes": 2609932
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "670150655821742080",
+            "name": "dwen",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/670150655821742080.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788931534476017724",
+      "type": "Default",
+      "timestamp": "2020-12-17T00:52:15.458+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 11: i was really looking forward to cyberpunk 2077 being a fleshed-out rpg because i was curious, but it turns out i\u0027m kinda scared of making \u0022wrong\u0022 decisions in rpg games so i\u0027m happy with the majority of the game as it is right now",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789250574176354327",
+      "type": "Default",
+      "timestamp": "2020-12-17T22:00:00.45+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 12: https://www.youtube.com/watch?v=r_Dk6yoI57E",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Shitpost status",
+          "url": "https://www.youtube.com/watch?v=r_Dk6yoI57E",
+          "timestamp": null,
+          "description": "#Dankmemes #Meme #MINECRAFT #Roblox #TikTok #GTA6  #Amongusmeme #minecraftFUNNY #robloxmeme #Shitpoststatus #minecraftmeme #santameme #FunnyTikTok\n\nI do not own the original video, nor do i claim to, all clips are takin from a meme i find funny enough to trim into a shit post.\n\nIf you are the original owner of one of my clips, please tag me in t...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Mayderio",
+            "url": "https://www.youtube.com/channel/UCvtyodhAEK0Q0IrsYwrulxA"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/r_Dk6yoI57E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789339270228738048",
+      "type": "Default",
+      "timestamp": "2020-12-18T03:52:27.237+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 13: i enjoy cyberpunk\u0027s photo mode, i just wish there were more poses",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [
+        {
+          "id": "789339269977735198",
+          "url": "https://cdn.discordapp.com/attachments/787921057041743923/789339269977735198/photomode_17122020_194856.png",
+          "fileName": "photomode_17122020_194856.png",
+          "fileSizeBytes": 881351
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4f7.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790136751279702017",
+      "type": "Default",
+      "timestamp": "2020-12-20T08:41:21.536+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 14: cyberpunk 2077 race transitions confirmed",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [
+        {
+          "id": "790136751334096897",
+          "url": "https://cdn.discordapp.com/attachments/787921057041743923/790136751334096897/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 167608
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790490167436640297",
+      "type": "Default",
+      "timestamp": "2020-12-21T08:05:42.514+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "justin fact 15: saw tenet for the third time, still a 9/10",
+      "author": {
+        "id": "224000191278219266",
+        "name": "In-N-Out Burger",
+        "discriminator": "9688",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/224000191278219266/ec00e61dcf4d355bce41af65ab9cbe72.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751199244039356426",
+            "name": "yep",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751199244039356426.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 15
+}

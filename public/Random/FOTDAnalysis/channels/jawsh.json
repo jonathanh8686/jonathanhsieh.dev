@@ -1,0 +1,2819 @@
+{
+  "guild": {
+    "id": "254698074323157013",
+    "name": "\uD83C\uDF93\uD83C\uDF93\uD83C\uDF93",
+    "iconUrl": "https://cdn.discordapp.com/icons/254698074323157013/840724d73280a5affd7ff3b5f8cf3d40.png"
+  },
+  "channel": {
+    "id": "769736684966248498",
+    "type": "GuildTextChat",
+    "category": "fact of the day",
+    "name": "jawsh",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "769739165012852738",
+      "type": "Default",
+      "timestamp": "2020-10-25T01:48:38.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1) The time I felt the biggest sense of relief was also the worst and most depressing moment in my life.  Why?  Because, if it\u0027s the worst moment of my life, that means things could only get better, right?",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770102720546734111",
+      "type": "Default",
+      "timestamp": "2020-10-26T01:53:16.395+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2) Contrary to what everyone thinks, there do exist pictures with me smiling in them.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f8.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f3.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e9.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD96",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f196.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fa.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u25B6\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/25b6.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4e7.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "5\uFE0F\u20E3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/35-20e3.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770484220534456360",
+      "type": "Default",
+      "timestamp": "2020-10-27T03:09:13.08+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "3) My old username, \u0022Nobody557\u0022, came from 8th grade, when I was making a new username and I thought it would be funny if people would refer to me as \u0022Nobody\u0022 (the numbers were added in at the end cuz I thought adding numbers to a username was necessary).  My new username \u0022Profound\u0022 came to be because I was trying to make a unique, one-word username in osu! and for some reason I remembered it as some random vocabulary word from Mr. Sandknop\u0027s 8th grade English class.  Kind of coincidental how both these usernames seemed to stem from 8th grade.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770848483312926741",
+      "type": "Default",
+      "timestamp": "2020-10-28T03:16:40.094+00:00",
+      "timestampEdited": "2020-10-28T21:55:07.587+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "4) I used to love Lego: Ninjago as a kid, and I have several of the series\u0027 Lego sets.  My first set was \u0022Cole\u0027s Tread Assault\u0022 and my final set was the \u0022Temple of Airjitzu\u0022.  I probably spent over $500 getting all these sets.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "770848483078176798",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/770848483078176798/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 515981
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771204717932969985",
+      "type": "Default",
+      "timestamp": "2020-10-29T02:52:13.046+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5) From the age of 3-13, I tried writing my own series about a group of five people with elemental powers who ventured the universe and hunted down demons from alternate universes.  5 months ago, I dug up these notebooks, cringed at how bad they were, and paper-shredded 1000\u002B pages worth of stories.  This concept art is the only thing I have left of it.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "771204717694550046",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/771204717694550046/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 304973
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "490412686870577154",
+            "name": "PepeHands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/490412686870577154.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771600568597610507",
+      "type": "Default",
+      "timestamp": "2020-10-30T05:05:11.199+00:00",
+      "timestampEdited": "2020-10-30T05:09:09.977+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "6) Every day is an opportunity for you to become a relatively less or more shitty person.  Don\u0027t fucking become a relatively shittier person, you stupid dumbfuck, because then you\u0027ll have to put even more work to becoming a less shitty person.  Who seriously wants to pile more work on themselves?  What a fucking dumbass.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "677708007282573322",
+            "name": "walter",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/677708007282573322.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "547288705728249873",
+            "name": "4headcustommadebydwen",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547288705728249873.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771997359520874506",
+      "type": "Default",
+      "timestamp": "2020-10-31T07:21:53.527+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "7)",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "771997359240249345",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/771997359240249345/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 308469
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772002663080525846",
+      "type": "Default",
+      "timestamp": "2020-10-31T07:42:57.994+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "772002663012630528",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/772002663012630528/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 344638
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "772005251153788948",
+      "type": "Default",
+      "timestamp": "2020-10-31T07:53:15.039+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "772005250936602645",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/772005250936602645/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 256538
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772008224735363122",
+      "type": "Default",
+      "timestamp": "2020-10-31T08:05:03.996+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "772008224555270154",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/772008224555270154/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 442428
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772008874332651560",
+      "type": "Default",
+      "timestamp": "2020-10-31T08:07:38.872+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "772008874130538506",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/772008874130538506/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 211144
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "695055070156292137",
+            "name": "TheRift",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/695055070156292137.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772271941553094676",
+      "type": "Default",
+      "timestamp": "2020-11-01T01:32:58.985+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "8) I\u0027m gonna make the same joke I make every Halloween: I don\u0027t need to dress up as anything, because being myself is already enough to scare people away.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDEAB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f6ab.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772654735178072115",
+      "type": "Default",
+      "timestamp": "2020-11-02T02:54:04.097+00:00",
+      "timestampEdited": "2020-11-02T02:56:39.787+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "9) I would be the best Chinese zodiac animal if I was born one year later.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772991372122128385",
+      "type": "Default",
+      "timestamp": "2020-11-03T01:11:44.599+00:00",
+      "timestampEdited": "2020-11-03T01:11:49.774+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "10) Fuck you, Google.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "772991371921195058",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/772991371921195058/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 392913
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDED",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ed.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f3.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ee.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773096583893221376",
+      "type": "Default",
+      "timestamp": "2020-11-03T08:09:49.04+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "11) I\u0027ve successfully baited someone into searching hentai.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "773096583713259520",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/773096583713259520/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 129798
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "626191509103968268",
+            "name": "kekw",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/626191509103968268.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "547289631658475521",
+            "name": "pepega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547289631658475521.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "677708007282573322",
+            "name": "walter",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/677708007282573322.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "756694433851900005",
+            "name": "gahaha",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/756694433851900005.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "755614707532038255",
+            "name": "sader",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/755614707532038255.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "755243243700224191",
+            "name": "sagiri",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/755243243700224191.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749032285608869988",
+            "name": "Poggus",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749032285608869988.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773798243644997632",
+      "type": "Default",
+      "timestamp": "2020-11-05T06:37:57.761+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "12) Making music is hard.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "773798243481813012",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/773798243481813012/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 56665
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774130097455497247",
+      "type": "Default",
+      "timestamp": "2020-11-06T04:36:37.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "13) Today I found out that I\u0027m too mentally disabled to figure out how the self-checkout machine works.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "424087446645637121",
+            "name": "peepocry",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087446645637121.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774548024802279454",
+      "type": "Default",
+      "timestamp": "2020-11-07T08:17:19.519+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "14)",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "774548024608292864",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/774548024608292864/ram2.png",
+          "fileName": "ram2.png",
+          "fileSizeBytes": 322619
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686316025498959875",
+            "name": "satisfied",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686316025498959875.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "758049826582691921",
+            "name": "sappy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/758049826582691921.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774791812804116520",
+      "type": "Default",
+      "timestamp": "2020-11-08T00:26:03.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "15) Why do I fucking waste hours on a stupid retarded game where I just click circles what the fuck is wrong with me",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686316025498959875",
+            "name": "satisfied",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686316025498959875.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775280966449102909",
+      "type": "Default",
+      "timestamp": "2020-11-09T08:49:46.425+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "16) I like rain.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100703100993547",
+            "name": "monkaweird",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100703100993547.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775494683299676220",
+      "type": "Default",
+      "timestamp": "2020-11-09T22:59:00.493+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "17) Why do some of my family members complain about me not voting for in this election because I\u0027m not exercising my \u0022privilege\u0022 at the same time as pridefully expressing about how they chose not to vote in this election either?",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776002736817700865",
+      "type": "Default",
+      "timestamp": "2020-11-11T08:37:49.891+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "18) Started playing my first vn and some of these images/scenes are...",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "465371181164265483",
+            "name": "kreygasm",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/465371181164265483.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "756694433851900005",
+            "name": "gahaha",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/756694433851900005.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776365129754345482",
+      "type": "Default",
+      "timestamp": "2020-11-12T08:37:51.1+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "19) The class that is worth the least units in my schedule takes up the most time.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776657105191960597",
+      "type": "Default",
+      "timestamp": "2020-11-13T03:58:03.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "20) Nice.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "776657105180164096",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/776657105180164096/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 73578
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776958779580481557",
+      "type": "Default",
+      "timestamp": "2020-11-13T23:56:48.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "21) Came across some old notebooks that contain stories/comics I wrote/drew in elementary school.  I\u0027m debating whether to paper shred them or to entertain a group of people by reading them out loud without trying to cringe every two seconds.  This is some VN level type of decision making where I must consult the best irl harem protagonist out there (you know who are you are, buddy).",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "591885485245202442",
+            "name": "wewega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/591885485245202442.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "749036860906405948",
+            "name": "weirdchamp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749036860906405948.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777364581835079690",
+      "type": "Default",
+      "timestamp": "2020-11-15T02:49:19.045+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "22) I WAS INSANE",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "777364581453791273",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/777364581453791273/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 934673
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777707210884120626",
+      "type": "Default",
+      "timestamp": "2020-11-16T01:30:48.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "23) It\u0027s my mom\u0027s birthday today.  I wished her \u0022Happy Birthday\u0022 already, but I don\u0027t know what age she\u0027s turning.  Apparently it\u0027s rude to ask her about that too, so...I guess I\u0027m just never gonna know her age from here on out.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778153964410896405",
+      "type": "Default",
+      "timestamp": "2020-11-17T07:06:02.517+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "24) My EE grade finally jumped up...to 5%.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778520679645577226",
+      "type": "Default",
+      "timestamp": "2020-11-18T07:23:14.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "25) Not getting AP credit for AP Chem is one of the most retarded things I\u0027ve experienced this year.  The only thing that\u0027s more fucking retarded is this stupid fucking dumb ass Chem class where I get fucking marked off half credit because I \u0022wrote too much in the conclusion\u0022 when the directions literally say to write 100-150 words, which IS LITERALLY WHAT I FUCKING DID GOD THIS CLASS IS SO FUCKING RETARDED WHY DO I HAVE TO FUCKING WASTE MY TIME ON THIS SHIT",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778821255797145613",
+      "type": "Default",
+      "timestamp": "2020-11-19T03:17:37.181+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "26) I played soccer and baseball every single year I was in elementary school, and I was always so happy to receive my trophy at the end of every season.  Now I have 10\u002B of these trophies hogging up space on one of my shelves, and I have no idea what to do with them.  I also got a ton of baseball equipment lying around, and I have no fucking clue what to do with all this shit.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751199244039356426",
+            "name": "yep",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751199244039356426.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779250769316544543",
+      "type": "Default",
+      "timestamp": "2020-11-20T07:44:21.184+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "27) I hate coursework.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779617760681394216",
+      "type": "Default",
+      "timestamp": "2020-11-21T08:02:38.744+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "28)",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "779617760245973012",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/779617760245973012/tumblr_p7llqoaxp81x2q4f4o7_250.png",
+          "fileName": "tumblr_p7llqoaxp81x2q4f4o7_250.png",
+          "fileSizeBytes": 84343
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779888273106403348",
+      "type": "Default",
+      "timestamp": "2020-11-22T01:57:33.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "29) Give me headpats",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "779888272872046643",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/779888272872046643/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 83053
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780197606877036564",
+      "type": "Default",
+      "timestamp": "2020-11-22T22:26:44.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "30) https://www.youtube.com/watch?v=rnxbk3u7h9A\u0026ab_channel=TomCoben",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Thomas Son of Shelob 2.0",
+          "url": "https://www.youtube.com/watch?v=rnxbk3u7h9A",
+          "timestamp": null,
+          "description": "I\u0027ve spent a non-trivial amount of my quarantine modeling and rigging a new, more expressive face rig in Cinema 4D for Thomas in future videos.  Here it is added to one of my previous animations.\n\nhttps://www.instagram.com/tomcoben/",
+          "color": "#FF0000",
+          "author": {
+            "name": "Tom Coben",
+            "url": "https://www.youtube.com/channel/UC-x5oIQoWliBskedYbOnomw"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/rnxbk3u7h9A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780711611882799114",
+      "type": "Default",
+      "timestamp": "2020-11-24T08:29:13.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "31)",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "780711611513045022",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/780711611513045022/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 453693
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "778439492671373362",
+            "name": "feelswerman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/778439492671373362.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "723040767131779123",
+            "name": "monkaHmm",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/723040767131779123.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780939091859996732",
+      "type": "Default",
+      "timestamp": "2020-11-24T23:33:08.646+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "32) bleach kekw",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "780939091188645888",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/780939091188645888/20201124_153148.jpg",
+          "fileName": "20201124_153148.jpg",
+          "fileSizeBytes": 2381744
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780939105986150400",
+      "type": "Default",
+      "timestamp": "2020-11-24T23:33:12.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "780939105751007232",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/780939105751007232/20201124_153205.jpg",
+          "fileName": "20201124_153205.jpg",
+          "fileSizeBytes": 747559
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781299945994715166",
+      "type": "Default",
+      "timestamp": "2020-11-25T23:27:02.976+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "33) coming soon...",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "781299945319301170",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/781299945319301170/WIP.wav",
+          "fileName": "WIP.wav",
+          "fileSizeBytes": 6553338
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "651278391944806410",
+            "name": "pepeJAM",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/651278391944806410.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781627946288676904",
+      "type": "Default",
+      "timestamp": "2020-11-26T21:10:24.34+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "34) I\u0027m thankful that all of you are in my life \u2665\uFE0F",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781671558728253470",
+      "type": "Default",
+      "timestamp": "2020-11-27T00:03:42.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "made my first cover, edited by dwen: https://www.youtube.com/watch?v=cW4FLGWasF4\u0026feature=youtu.be\u0026ab_channel=DerekWen",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Josh Infernal Cover",
+          "url": "https://www.youtube.com/watch?v=cW4FLGWasF4",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "Derek Wen",
+            "url": "https://www.youtube.com/channel/UCYqjsK0DhPxqQc0rxHB_pYw"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/cW4FLGWasF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFB8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f3b8.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782066655018614784",
+      "type": "Default",
+      "timestamp": "2020-11-28T02:13:40.652+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "35) I look across this music track and feel the slowly sinking of my heart, these guitars are gonna be a pain to transcribe...",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782484160114851880",
+      "type": "Default",
+      "timestamp": "2020-11-29T05:52:41.624+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "36) New FOTD cuz the other one wasn\u0027t rly a fact: Jasper got his first ace in Valorant today :POGGERS:",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782868379190558742",
+      "type": "Default",
+      "timestamp": "2020-11-30T07:19:26.59+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "37)",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "782868378967736330",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/782868378967736330/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 802725
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "490412686870577154",
+            "name": "PepeHands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/490412686870577154.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783178485560246273",
+      "type": "Default",
+      "timestamp": "2020-12-01T03:51:41.71+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "38) I don\u0027t even remember what th lvl my random pisslow account was",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783585103854043227",
+      "type": "Default",
+      "timestamp": "2020-12-02T06:47:27.066+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "39) Sho is objectively the best harem protagonist here.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783900548059496459",
+      "type": "Default",
+      "timestamp": "2020-12-03T03:40:54.825+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "40) My Spotify wrapped is a mix of so much shit that the only consistent factor in all the songs is electric guitar.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFB8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f3b8.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784151085455114271",
+      "type": "Default",
+      "timestamp": "2020-12-03T20:16:27.595+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "41) The grades I have in each of my classes right now is almost perfectly aligned with how much I actually care about each class.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784630616359567360",
+      "type": "Default",
+      "timestamp": "2020-12-05T04:01:56.672+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "42) Imagine leaving before the Juju stroll",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fa.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "670150655821742080",
+            "name": "dwen",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/670150655821742080.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784999402447306802",
+      "type": "Default",
+      "timestamp": "2020-12-06T04:27:22.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "43) Hard gapped a diamond support egrill today :pepega:",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686316025498959875",
+            "name": "satisfied",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686316025498959875.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785329411825336321",
+      "type": "Default",
+      "timestamp": "2020-12-07T02:18:42.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "44) Got hard gapped by a gold support today :pepega:",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785625513905225769",
+      "type": "Default",
+      "timestamp": "2020-12-07T21:55:18.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "45) 10 weeks into college and I feel like I haven\u0027t really learned anything :kekw:",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786030335061131275",
+      "type": "Default",
+      "timestamp": "2020-12-09T00:43:55.616+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "46) gay",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "786030334906728458",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/786030334906728458/20201208_164323.jpg",
+          "fileName": "20201208_164323.jpg",
+          "fileSizeBytes": 2379476
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "591885485245202442",
+            "name": "wewega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/591885485245202442.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786408598879207445",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:47:00.738+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "47) Sometimes there are some moments in life where you just want to momentarily stop existing and skip forward to a time where things are guaranteed to be better...",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "773927601050877952",
+            "name": "nodders",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/773927601050877952.gif"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF2",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f2.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD7E\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f17e.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e9.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786866098586386443",
+      "type": "Default",
+      "timestamp": "2020-12-11T08:04:57.168+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "48) :sadge:",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787181131271110658",
+      "type": "Default",
+      "timestamp": "2020-12-12T04:56:46.813+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "49)",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "787181130524262420",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/787181130524262420/retard_malphite.webm",
+          "fileName": "retard_malphite.webm",
+          "fileSizeBytes": 1347509
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787455916483805224",
+      "type": "Default",
+      "timestamp": "2020-12-12T23:08:40.713+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "50) I used to rate anime on a like/ok/dislike scale, but I\u0027ve decided to start giving ratings 1-10 to everything, 1 being something I dislike, 5 being something I find average, and 10 being something I find a flawless masterpiece (currently, I\u0027ve rated 0 shows 10/10). Apparently I have around a 5 average rating of all the shows I\u0027ve watched, which could mean that I\u0027ve watched too much anime. ~~It also might mean that I\u0027m a fucking idiot who forces myself to complete a ton of shows I just fucking hate, which neutralizes my mean score~~",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749032285608869988",
+            "name": "Poggus",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749032285608869988.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787847206546833438",
+      "type": "Default",
+      "timestamp": "2020-12-14T01:03:31.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "51) Love how the assignment is out of 29 points yet they put it in the gradebook like this :pepega:",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "787847206366871552",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/787847206366871552/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 12373
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "591885485245202442",
+            "name": "wewega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/591885485245202442.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788272483086106625",
+      "type": "Default",
+      "timestamp": "2020-12-15T05:13:25.362+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "52) One final down :POGGERS:",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788590332140847125",
+      "type": "Default",
+      "timestamp": "2020-12-16T02:16:26.482+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "53) Can my English grade stop being so volatile I literally get a heart attack every single time I see it",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "677708007282573322",
+            "name": "walter",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/677708007282573322.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788686824331149352",
+      "type": "Default",
+      "timestamp": "2020-12-16T08:39:52.013+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "54) preview (this part took so many tries holy shit)",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [
+        {
+          "id": "788686824137949224",
+          "url": "https://cdn.discordapp.com/attachments/769736684966248498/788686824137949224/AHHHHHHHHHHHHHH.mp3",
+          "fileName": "AHHHHHHHHHHHHHH.mp3",
+          "fileSizeBytes": 212494
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751199244039356426",
+            "name": "yep",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751199244039356426.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788892092788375562",
+      "type": "Default",
+      "timestamp": "2020-12-16T22:15:31.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Update: One final to go :YEP:",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789255383453270026",
+      "type": "Default",
+      "timestamp": "2020-12-17T22:19:07.071+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "55) I suck at signal processing",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789630742636003348",
+      "type": "Default",
+      "timestamp": "2020-12-18T23:10:39.674+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "56) Do fetuses have souls",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "643724786828312576",
+            "name": "demega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/643724786828312576.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790113932890341387",
+      "type": "Default",
+      "timestamp": "2020-12-20T07:10:41.208+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "57) Decided to cover a MHA opening, stupid videos kept getting off sync though: https://youtu.be/mY5ZeOceUlI",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BLUE ENCOUNT - Polaris (Guitar Cover)",
+          "url": "https://www.youtube.com/watch?v=mY5ZeOceUlI",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "Mysterious Person",
+            "url": "https://www.youtube.com/channel/UC1Ej4tam-TsSKBCCkTFetjg"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/mY5ZeOceUlI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790494067640631317",
+      "type": "Default",
+      "timestamp": "2020-12-21T08:21:12.395+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "58) Jasper is insane at Nidalee.",
+      "author": {
+        "id": "276072319280087040",
+        "name": "Profound",
+        "discriminator": "7092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276072319280087040/883bfcc616ee52f26406028d50de4a2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 65
+}

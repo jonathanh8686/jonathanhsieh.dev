@@ -1,0 +1,2218 @@
+{
+  "guild": {
+    "id": "254698074323157013",
+    "name": "\uD83C\uDF93\uD83C\uDF93\uD83C\uDF93",
+    "iconUrl": "https://cdn.discordapp.com/icons/254698074323157013/840724d73280a5affd7ff3b5f8cf3d40.png"
+  },
+  "channel": {
+    "id": "769723425358086155",
+    "type": "GuildTextChat",
+    "category": "fact of the day",
+    "name": "jonathan",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "769723465795239937",
+      "type": "Default",
+      "timestamp": "2020-10-25T00:46:15.016+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1. I will be joining the FOTD bandwagon",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769830870067970058",
+      "type": "Default",
+      "timestamp": "2020-10-25T07:53:02.19+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2. For 50 years, Christofides\u0027 algorithm was the best known algorithm for approximating solutions to TSP (guaranteeing an answer within 3/2 of the optimum) but this year, Anna R. Karlin, Nathan Klein, Shayan Oveis Gharan found and proved that a new algorithm is able to approximate it only off by a factor of 3/2 \u2212 \u03F5 for some \u03F5 \u003E 10^(\u221236)!",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770285074716426262",
+      "type": "Default",
+      "timestamp": "2020-10-26T13:57:53.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "3. my EYES are WIDE OPEN\n\nhttps://www.youtube.com/playlist?list=OLAK5uy_lOSSulPhlDoz7l0kUBB83z8As79NS6GkA",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Eyes wide open",
+          "url": "https://www.youtube.com/playlist?list=OLAK5uy_lOSSulPhlDoz7l0kUBB83z8As79NS6GkA",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_lOSSulPhlDoz7l0kUBB83z8As79NS6GkA/mqdefault.jpg?sqp=CNie2_wFir7X7AMGCNzPwPwF\u0026rs=AOn4CLDvRMcsgMaRy0dwbZevtSyc57EQFw\u0026v=1603282908\u0026days_since_epoch=18561",
+            "width": 180,
+            "height": 180
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "591885485245202442",
+            "name": "wewega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/591885485245202442.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770564781983399966",
+      "type": "Default",
+      "timestamp": "2020-10-27T08:29:20.426+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "4. Nim is a game where there are piles of items (usually played with stones) and two players take turns selecting a single pile and removing a non-zero number of stones from that pile. The first player who is unable to make a legal move loses the game.\n\nFor a nim game with pile sizes \u0060\u0060x_1, x_2 x_3... x_n\u0060\u0060, the game is winning for player 1 iff \u0060\u0060x_1 xor x_2 xor x_3... != 0\u0060\u0060",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770909330249089026",
+      "type": "Default",
+      "timestamp": "2020-10-28T07:18:27.134+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5. My facts from now on will be posted exactly at 12:00 AM PST",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD16",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f916.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771267095777640469",
+      "type": "Default",
+      "timestamp": "2020-10-29T07:00:05.083+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "6. There is a variant of Nim known as \u0022Staircase Nim\u0022. The difference being that in staircase nim, the piles are arranged in a line \u0060\u0060x_1, x_2, x_3...\u0060\u0060 and a move takes an arbitrary number of stones from one pile and moves it to the pile directly to it\u0027s left. The game ends when all stones are in the left-most pile and the winner is the last person to have made a legal move.\n\nThis version of Nim has an equally easy win condition -- a game is won for player 1 iff \u0060\u0060x_2 xor x_4 xor x_6 ... != 0\u0060\u0060 (even-indexed piles)",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f3.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ee.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u24C2\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/24c2.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ec.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771629483571675147",
+      "type": "Default",
+      "timestamp": "2020-10-30T07:00:05.066+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "7. Budderball passed away one month ago from congestive heart failure after 13 years of being a good boy",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2639\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2639.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "756240768884146206",
+            "name": "josephkim2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/756240768884146206.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "424087446645637121",
+            "name": "peepocry",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087446645637121.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "362431466346512384",
+            "name": "feelssadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/362431466346512384.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "405753091527409664",
+            "name": "GWgoaSadness",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/405753091527409664.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE22",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f622.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771991871873482773",
+      "type": "Default",
+      "timestamp": "2020-10-31T07:00:05.17+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "8. There is a HackerRank problem called move the coins, in which you are given a tree with some number of coins in each node. 2 players take turns selecting a node and moving a non-zero number of coins up to its parent. You are asked to determine if player 1 has a winning strategy.\n\nThere is an easy solution in O(V\u002BE) if you know fact 6. Just find the distance between every node and the root, then xor all the ones that have odd distance and check if it is 0 or not.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772354259475890182",
+      "type": "Default",
+      "timestamp": "2020-11-01T07:00:05.107+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "9. Trees always have at least 1 leaf.\n\nFollow any path, by the definition of a tree it cannot end up on itself, so therefore it must end up dangling somewhere else, since this is the end of the path there are no more edges to go through so there must only be one edge which, by definition, makes it a leaf.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF84",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f384.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772731746755149834",
+      "type": "Default",
+      "timestamp": "2020-11-02T08:00:05.088+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "10. Did daylight savings mess up the bot?",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44e.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773094135061413889",
+      "type": "Default",
+      "timestamp": "2020-11-03T08:00:05.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "11. I watched The Grudge on Halloween, terrible movie -- scary how bad it is. My night would have been ruined if not for watching Frozen 2 afterwards.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "311670079181946890",
+            "name": "LUL",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/311670079181946890.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "375427227384283136",
+            "name": "OMEGALUL",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/375427227384283136.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773456522297606176",
+      "type": "Default",
+      "timestamp": "2020-11-04T08:00:05.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "12. I come back on 11/25 -- Prepare yourselves.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773818910310793226",
+      "type": "Default",
+      "timestamp": "2020-11-05T08:00:05.078+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "13. My flight back to San Diego for winter break got cancelled, now I either have to take a flight with a 4 hour layover in Seattle, or do my Calc 3 final on a plane.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2708\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2708.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD14",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f914.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFEB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f3eb.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774181298175475713",
+      "type": "Default",
+      "timestamp": "2020-11-06T08:00:05.078+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "14.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "375427227384283136",
+            "name": "OMEGALUL",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/375427227384283136.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774543686087606282",
+      "type": "Default",
+      "timestamp": "2020-11-07T08:00:05.089+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "15. I\u0027m playing ACF Winter today with Daniel Jung on WV. My goal for today will be to win a single game.\n\nI\u0027m in the same bracket as MIT A which might have Katherine Lei on it so I am preparing to get rammed.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "591885485245202442",
+            "name": "wewega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/591885485245202442.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774906074485882890",
+      "type": "Default",
+      "timestamp": "2020-11-08T08:00:05.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "16. I got rammed",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "547289631658475521",
+            "name": "pepega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547289631658475521.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775631325293183007",
+      "type": "Default",
+      "timestamp": "2020-11-10T08:01:58.483+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "17. what happened",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "375427227384283136",
+            "name": "OMEGALUL",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/375427227384283136.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775996568729157682",
+      "type": "Default",
+      "timestamp": "2020-11-11T08:13:19.304+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "18. the bot broke but i think it\u0027s good now today\u0027s fact is that\n\nI\u0027ve decided to stay in San Diego after Thanksgiving break and do the rest of the semester online! So I will be home from 11/25 to 1/16 :POGGERS:",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776355625587572767",
+      "type": "Default",
+      "timestamp": "2020-11-12T08:00:05.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "19. I had a calc 3 quiz yesterday, but I forgot about it. fuck",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776718013516087296",
+      "type": "Default",
+      "timestamp": "2020-11-13T08:00:05.145+00:00",
+      "timestampEdited": "2020-11-13T08:24:53.493+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "20. Some problems are easy. We call all the easy problems P. Specifically, P is the set of problems that have algorithms to solve them that run in polynomial time which means if I multiply the input by some constant, the time it takes to solve increases by some constant. Maybe it\u0027s more natural to say that a problem is in P if the solution scales quickly. Very few problems are in P but some examples are:\n\n- Shortest path between two points in a graph -\u003E O(NlogN)\n- Finding out if a number if prime. (This was actually a relatively recent result from 2002) -\u003E O((logN)^6) i think\n- Greatest Common Factor (This is actually the one of the oldest results ever in algorithm analysis) -\u003E O(logN)",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777080401210245133",
+      "type": "Default",
+      "timestamp": "2020-11-14T08:00:05.104+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "21. Some problems are hard. We call some of the hard problem NP. Specifically, NP is the set of the problems that can be solved in polynomial time if you are mega-lucky. NP stands for \u0022non-deterministic polynomial\u0022 which means that it can be solved in polynomial time if you allow for random guessing that also happens to always be the optimal guess. This way of thinking is a bit weird so people usually instead say that NP is the set of problems that, given a solution can be checked in P time. Very few problems are in NP but some examples are:\n\n- Given a set of houses, visit all of them with the shortest possible total distance and end up where you started\n- Sudoku\n- Chess\n\nObviously, all P problems are in NP because we can \u0022check\u0022 a solution just by solving it and comparing answers.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777442789365383188",
+      "type": "Default",
+      "timestamp": "2020-11-15T08:00:05.173+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "22. Some problems are impossible. We call these problems undecidable -- they do not get a cool abbreviation because they make us sad. Almost all problems are undecidable, here are some examples:\n\n- Given a some code for a program, determine whether or not it will terminate\n- Given a finite set of \u0060\u0060NxN\u0060\u0060 matrices, can they be multiplied together in some order (with repetition) to yield the zero matrix?\n\nThere is provably no algorithm to solve these problems in finite time.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777805177004228609",
+      "type": "Default",
+      "timestamp": "2020-11-16T08:00:05.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "23. The Halting Problem is undecidable.\n\nThe Halting Problem asks: \u0060\u0060Is it possible to create an algorithm that takes in a string P (code for a program) and a string I (an input for that program) and determine whether or not running the program on the input will terminate or not.\u0060\u0060\n\nThis proof and the paper it\u0027s in are probably Alan Turing\u0027s most important contribution to computer science.\n\nProof:\n\nLet\u0027s assume there exists an algorithm call it \u0060\u0060halts?\u0060\u0060, where \u0060\u0060halts?(p, i)\u0060\u0060 returns \u0060\u0060true\u0060\u0060 iff P halts on I, otherwise return \u0060\u0060false\u0060\u0060\nThen consider a second algorithm \u0060\u0060Z\u0060\u0060 that does the following: if \u0060\u0060halts? (p,p)\u0060\u0060 is \u0060\u0060true\u0060\u0060 then loop forever otherwise, halt.\n\nNow, we run \u0060\u0060Z\u0060\u0060 on the input Z (the program code for Z)\nif \u0060\u0060halts?(Z, Z)\u0060\u0060 was \u0060\u0060true\u0060\u0060, then we run into an infinite loop because \u0060\u0060Z\u0060\u0060 doesn\u0027t halt if \u0060\u0060halts? (p,p)\u0060\u0060 is \u0060\u0060true\u0060\u0060. But that\u0027s a contradiction! So therefore, \u0060\u0060halts?(Z, Z)\u0060\u0060 must be \u0060\u0060false\u0060\u0060. But that means that \u0060\u0060Z\u0060\u0060 didn\u0027t halt! But it must halt because we halt whenever \u0060\u0060halts?(Z, Z)\u0060\u0060 is \u0060\u0060false\u0060\u0060 which is another contradiction! So there is no possible consistent output for \u0060\u0060halts?\u0060\u0060 and so there is no possible algorithm.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778167565108641792",
+      "type": "Default",
+      "timestamp": "2020-11-17T08:00:05.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "24. That\u0027s enough computer science for a little bit so we will return to fun facts!\n\nI\u0027m almost done with my first rewatch of Silicon Valley!",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778529952503955457",
+      "type": "Default",
+      "timestamp": "2020-11-18T08:00:05.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "25. The way the bot determines where a fact begins and ends in my big fact file is by looking for three equal signs and a newline, so I can never have that in one of my facts",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2757",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2757.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778892340210565131",
+      "type": "Default",
+      "timestamp": "2020-11-19T08:00:05.026+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "26. My hair is starting to become annoying, I had a friend here trim it with scissors and she cut basically nothing off. But I think I will be able to make it to Thanksgiving break.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779254728605302784",
+      "type": "Default",
+      "timestamp": "2020-11-20T08:00:05.152+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "27. My dorm building just turned on the heater in the bathroom. It used to be extremely cold in there but now it is extremely (almost unbearably) hot. However, there are certain parts of the bathroom that are close enough to the window that they are not too hot, and far enough that they are not too cold. More research is needed.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779617116700672014",
+      "type": "Default",
+      "timestamp": "2020-11-21T08:00:05.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "28. It blows my mind that people came to the Boston area and decided, yeah we\u0027ll settle here. Yesterday had a low of almost 10 degrees below freezing. Humans really are not intended for this environment. Definitely outside operating conditions and warranty voided.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779979504348561408",
+      "type": "Default",
+      "timestamp": "2020-11-22T08:00:05.155+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "29. I don\u0027t think I will be bringing my computer back to San Diego, so I will be computer-less for almost 2 months. A terrifying thought.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "297144327719747584",
+            "name": "monkas",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/297144327719747584.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781429055538593812",
+      "type": "Default",
+      "timestamp": "2020-11-26T08:00:05.09+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "30. I forgot to add new facts, but when this comes out I will probably still be awake since I have planned to stay awake until my flight.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686316025498959875",
+            "name": "satisfied",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686316025498959875.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781694240034914314",
+      "type": "Default",
+      "timestamp": "2020-11-27T01:33:50.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Happy thanksgiving everyone!!! I am thankful for all my friends and how happy I am to have them in my life \u2764\uFE0F \uD83E\uDD70",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE42",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f642.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64f.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781791443324370956",
+      "type": "Default",
+      "timestamp": "2020-11-27T08:00:05.071+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "31. So the bot did not send that last message when it was supposed to because the bot tried to send an empty message which caused it to die.\n\n(pt 2.) I really hope im in San Diego when this fact comes out",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783240995055075349",
+      "type": "Default",
+      "timestamp": "2020-12-01T08:00:05.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "32. I bought the Razor Blackwidow Elite with Orange Switches and it\u0027s coming on Wednesday!",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783603383083991080",
+      "type": "Default",
+      "timestamp": "2020-12-02T08:00:05.174+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "33. Here is the current situation with my setup.\n\nI am using my old computer which does not have a WiFi adaptor built-in so I have to use a USB adaptor to connect to WiFi which makes it a bit unstable at times.\n\nThe distance between the audio plug on my computer and head is too large for my headphones to bridge, so normally I have an audio extension cable but it\u0027s still in Boston. So to listen to things on my computer, I have to connect using my Airpods. However, my computer also does not have a built-in bluetooth adapter and my only one is still in Boston so I\u0027m using a device my dad has which can only recieve or transmit bluetooth audio but not both at the same time. So instead what I\u0027m doing is using an external microphone that has a very long cable to speak into. But the microphone is kind of terrible so I have to be right next to it for it to pick up my voice.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "686322559850905601",
+            "name": "klu2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686322559850905601.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784690546445910016",
+      "type": "Default",
+      "timestamp": "2020-12-05T08:00:05.118+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "34. is the magic constant for\n\n16  3   2   13\n5   10  11  8\n9   6   7   12\n4   15  14  1",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2753",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "333714265091473408",
+            "name": "jonathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/333714265091473408.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF2",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f2.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ec.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ee.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e8.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f8.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f6.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fa.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD70\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f170.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785052934442450974",
+      "type": "Default",
+      "timestamp": "2020-12-06T08:00:05.149+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "35. beep boop",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "753883277693026325",
+            "name": "momonkaS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/753883277693026325.png"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785415322584743936",
+      "type": "Default",
+      "timestamp": "2020-12-07T08:00:05.215+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "36. It\u0027s 7 days late but all CSers who are feeling the festive mood should look at: https://adventofcode.com/2020\n\nand join my private leaderboard: \u0060\u00601181868-5dc1cf6b\u0060\u0060",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785777710072201226",
+      "type": "Default",
+      "timestamp": "2020-12-08T08:00:05.125+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "37. Some of the Advent of Code problems are kind of boring and just take a lot of work but day 7 was the first one I felt like took some knowledge\n\nGiven lines of input that look like\n\n\u0060\u0060\u0060\nlight red bags contain 1 bright white bag, 2 muted yellow bags.\ndark orange bags contain 3 bright white bags, 4 muted yellow bags.\nbright white bags contain 1 shiny gold bag.\nmuted yellow bags contain 2 shiny gold bags, 9 faded blue bags.\nshiny gold bags contain 1 dark olive bag, 2 vibrant plum bags.\ndark olive bags contain 3 faded blue bags, 4 dotted black bags.\nvibrant plum bags contain 5 faded blue bags, 6 dotted black bags.\nfaded blue bags contain no other bags.\ndotted black bags contain no other bags.\n...\n\u0060\u0060\u0060\n\nPart 1 asks how many bags can contain a \u0060\u0060shiny gold\u0060\u0060 bag.\n\nTo do this in \u0060\u0060O(n)\u0060\u0060 time, construct a directed acyclic graph that connects the \u0022smaller\u0022 bags to the \u0022bigger\u0022 bags. (There exists an edge from A and B if B contains A)\nthen, a DFS or BFS sourced from \u0060\u0060shiny gold\u0060\u0060 and counting the bags you reach gives the answer.\n\nPart 2 asks how many smaller bags are nested inside a \u0060\u0060shiny gold\u0060\u0060 bag.\n\nTo do this again in \u0060\u0060O(n)\u0060\u0060 time, take the same graph but with the edges reversed! Then the same algorithm (but adding the number of bags instead of just 1) gives the answer",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "333714265091473408",
+            "name": "jonathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/333714265091473408.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786140097787461632",
+      "type": "Default",
+      "timestamp": "2020-12-09T08:00:05.089+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "38. it\u0027s volleyball day!",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686316025498959875",
+            "name": "satisfied",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686316025498959875.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786502485489483777",
+      "type": "Default",
+      "timestamp": "2020-12-10T08:00:05.05+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "39. I started watching How to Get Away with Murder.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD2A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f52a.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "297144327719747584",
+            "name": "monkas",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/297144327719747584.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "333714265091473408",
+            "name": "jonathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/333714265091473408.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786864874109534238",
+      "type": "Default",
+      "timestamp": "2020-12-11T08:00:05.23+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "41. I stopped attending my CS lectures after I got back to SD because they started doing \u0022enrichment material\u0022 in the accelerated class since we finished all the dumb stuff. What I didn\u0027t know was that the homework would be on these topics. Wtf is Type Theory and why does it make no sense.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786992366418395227",
+      "type": "Default",
+      "timestamp": "2020-12-11T16:26:41.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "rip fact 40",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "333714265091473408",
+            "name": "jonathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/333714265091473408.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787227261715349550",
+      "type": "Default",
+      "timestamp": "2020-12-12T08:00:05.168+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "40. Today I learned that law sucks and lawyers are sadists.\n\nAlso there is so much gay in this show",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "591885485245202442",
+            "name": "wewega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/591885485245202442.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "465371181164265483",
+            "name": "kreygasm",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/465371181164265483.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787589649434542101",
+      "type": "Default",
+      "timestamp": "2020-12-13T08:00:05.133+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "42. I\u0027m behind on the Advent of Code problems but day 11 was somewhat interesting\n\nThe input looks like\n\n\n\u0060\u0060\u0060\n#.##.L#.##\n#L###LL.L#\nL.#.#..#..\n#L##.##.L#\n#.##.LL.LL\n#.###L#.##\n..#.#.....\n#L######L#\n#.LL###L.L\n#.#L###.##\n\u0060\u0060\u0060\n\nWhere the \u0060\u0060#\u0060\u0060 represents filled chairs, \u0060\u0060L\u0060\u0060 represents empty chairs, and \u0060\u0060.\u0060\u0060 represents floor (no chair)\n\nWe consider the neighbors of a specific chair to be the 8 adjacent chairs (west, northwest, north, northeast...)\nWe go through rounds where each chair looks at it\u0027s neighbors (simultaneously) and if a filled chair has more than 4 filled neighbors it becomes unfilled, and if an unfilled chair has no filled neighbors, then it will become filled.\n\nThis problem is probably inspired by John Conway\u0027s Game of Life who died this year in Princeton from COVID (RIP)\n\nWhat is interesting about Conway\u0027s Game of Life is that we can prove that it is \u0022Turing-Complete\u0022 which means that it can compute anything computable by a computer. In other words, you can take any algorithm that is runnable on a a general computer and run it in Conway\u0027s Game of Life (you can find calculators and such built in GOL). Now from this fact, we can prove that it\u0027s impossible create an algorithm that takes in a state (an arrangement of chairs) to the GOL, and finds out whether or not it will reach some end state or some set of end states that it cycles between. This follows from the Halting Problem proved in fact 23!!\n\nAssume that you have some algorithm that takes in a GOL state and tells you if it reaches some deadend. Since we can translate any algorithm that can be run on a general computer to a GOL state, if we had such an algorithm we could take some problem, translate it to GOL, and then run our GOL algorithm which would solve the halting problem! But since we know that the halting problem is unsolvable, such an algorithm cannot exist. POG.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "333714265091473408",
+            "name": "jonathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/333714265091473408.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787952037089902594",
+      "type": "Default",
+      "timestamp": "2020-12-14T08:00:05.083+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "43. The Chinese Remainder Theorem is not called just the Remainder Theorem in China. It is still called the Chinese Remainder Theorem.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE06",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f606.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788314425055641610",
+      "type": "Default",
+      "timestamp": "2020-12-15T08:00:05.107+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "44. Advent day 13 is so pog it deserves multiple fotds\n\n\nYou\u0027re stuck waiting for buses that all have different length routes and as such take different amounts of time to reach the stop you\u0027re at.\nAt the beginning of the day (time 0) all the buses leave to go on their paths and return every \u0060\u0060B_i\u0060\u0060 minutes.\n\nThe input to the problem looks like this\n\n\u0060\u0060\u0060\n939\n7,13,x,x,59,x,31,19\n\u0060\u0060\u0060\n\nPart 1 is kind of boring and just requires some mods. Part 2 is far more difficult and requires maThEMatiCs\n\nIt asks, what is the earliest time that we get all the buses arriving in order 1 minute apart. What this means is that we find some time X such that bus 7 arrives at time X, bus 13 arrives at time X\u002B1, bus 59 arrives at time X\u002B4 (4 because in the input, there are two x\u0027s which represents buses, while they are not active we still consider them in the time spacing.) and so forth.\n\n\u0060\u0060\u0060\ntime     bus 7   bus 13  bus 59  bus 31  bus 19\n1068781    D       .       .       .       .\n1068782    .       D       .       .       .\n1068783    .       .       .       .       .\n1068784    .       .       .       .       .\n1068785    .       .       D       .       .\n1068786    .       .       .       .       .\n1068787    .       .       .       D       .\n1068788    D       .       .       .       D\n\u0060\u0060\u0060\n\nAs shown in the table, 1068781 works because all the buses arrive spaced according to their position in the input list which is what we want. However, in the test input the answer can be massive (\u003E 10^14). We can\u0027t try every timebecause that will take too long. So we have to use some maTheMAtiCS!\n\nThe first thing to notice is that if we have some time \u0060\u0060X\u0060\u0060 that is the solution it means that \u0060\u0060X\u0060\u0060 satisfies the congruence \u0060\u0060X = 0 (mod 7)\u0060\u0060 and \u0060\u0060X = 12 (mod 13)\u0060\u0060 and \u0060\u0060X = 55 (mod 59)\u0060\u0060 and so on. If you\u0027re a mega-nerd, you know that this is a system of congruences which we can solve using the Chinese Remainder Theorem (see fotd 43)!!!!\n\nHow genius is that",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "333714265091473408",
+            "name": "jonathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/333714265091473408.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789763976408858625",
+      "type": "Default",
+      "timestamp": "2020-12-19T08:00:05.081+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "45. Last night I found a game that I played when I was really small called ISpy: Fantasy. There were so many parts of the game that I just barely remembered and it felt so nostaglic. Also I bet I hold the world record for fastest ISpy: Fantasy speedrun any% glitchless.",
+      "author": {
+        "id": "141642956753862656",
+        "name": "jonathanh8686",
+        "discriminator": "2816",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141642956753862656/f02631b8b9450ad1c4fef1e0770bbb54.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 47
+}

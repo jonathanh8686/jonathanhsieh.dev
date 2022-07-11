@@ -1,0 +1,3069 @@
+{
+  "guild": {
+    "id": "254698074323157013",
+    "name": "\uD83C\uDF93\uD83C\uDF93\uD83C\uDF93",
+    "iconUrl": "https://cdn.discordapp.com/icons/254698074323157013/840724d73280a5affd7ff3b5f8cf3d40.png"
+  },
+  "channel": {
+    "id": "765366562307178527",
+    "type": "GuildTextChat",
+    "category": "fact of the day",
+    "name": "jaspa",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "765368134633914369",
+      "type": "Default",
+      "timestamp": "2020-10-13T00:19:43.149+00:00",
+      "timestampEdited": "2020-10-13T00:21:55.114+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#1: As a solution to the Optimal Stopping Problem, the Odds Algorithm advises those of us who are lazy and/or weird to reject the first 100/e percent of rice bags when we are trying to buy the best bag of rice on the shelf.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f629.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD28",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f928.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "765602393542492180",
+      "type": "Default",
+      "timestamp": "2020-10-13T15:50:34.825+00:00",
+      "timestampEdited": "2020-10-14T19:04:42.544+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#2: The Chinese characters for \u0022onion\u0022 contain phonemes associated with water and heart, possibly relating to onion\u0027s ability to induce tears.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "765956736308871229",
+      "type": "Default",
+      "timestamp": "2020-10-14T15:18:36.724+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#3: There has been a change of plans and I will be doing a double major in physics and comp sci. also i hate school and want to move to the mountains and be a hermit or monk or something.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "766354103034183723",
+      "type": "Default",
+      "timestamp": "2020-10-15T17:37:36.334+00:00",
+      "timestampEdited": "2020-10-15T17:37:44.832+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#4: Monday Morning 5:19 by Rialto is a bop \uD83D\uDE04 \uD83D\uDC4D",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "766700720178069554",
+      "type": "Default",
+      "timestamp": "2020-10-16T16:34:56.301+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#5: Some people live in 2 Dimensions and it really shows.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "483048710675234816",
+            "name": "nakadashi",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483048710675234816.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "767073441131003906",
+      "type": "Default",
+      "timestamp": "2020-10-17T17:15:59.901+00:00",
+      "timestampEdited": "2020-10-17T19:24:50.479+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#6: After 7 months of ferocious tutoring in quarantine, I have earned enough money to pay for the first 1.5 months of my cringe ass education. woo",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "356113763499245568",
+            "name": "PogChamp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/356113763499245568.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "767443727257567243",
+      "type": "Default",
+      "timestamp": "2020-10-18T17:47:22.993+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#7: I like yo cut g @Tree \uD83D\uDE1B",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "127611267388014592",
+          "name": "Tree",
+          "discriminator": 7503,
+          "nickname": "Tree",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "767807903733252176",
+      "type": "Default",
+      "timestamp": "2020-10-19T17:54:29.431+00:00",
+      "timestampEdited": "2020-10-19T23:55:30.223+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#8: I have broken a total of 8 piano strings since the start of quarantine. I have broken a total of 9 strings in my life.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "756240768884146206",
+            "name": "josephkim2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/756240768884146206.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "767945073265737759",
+      "type": "Default",
+      "timestamp": "2020-10-20T02:59:33.196+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#8.5: I also forgot to mention that I legally turn 18 today even though my actual birthday was two months ago. Woo adult.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "379406524625190912",
+            "name": "feelsbirthdayman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/379406524625190912.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "768169558640951377",
+      "type": "Default",
+      "timestamp": "2020-10-20T17:51:34.68+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#9: AOC is going to stream Among Us on Twitch tonight(?) \uD83D\uDE2E",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "768567780684333106",
+      "type": "Default",
+      "timestamp": "2020-10-21T20:13:58.214+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#10: If you drove a quantum mechanical car down a cliff you might get reflected back instead of falling down cus it is weird down there.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "626191509103968268",
+            "name": "kekw",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/626191509103968268.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "768979538901336115",
+      "type": "Default",
+      "timestamp": "2020-10-22T23:30:09.023+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#11: Bitch im a cow",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2753",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f42e.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769305220164354080",
+      "type": "Default",
+      "timestamp": "2020-10-23T21:04:17.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#12: screaming really helps relieve stress and anxiety. try it out if you dont believe",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD2C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f92c.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f480.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769633243498283041",
+      "type": "Default",
+      "timestamp": "2020-10-24T18:47:44.344+00:00",
+      "timestampEdited": "2020-10-24T19:02:12.472+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#13:  attended a talk by one of the poggest physicists alive (Jim Gates)  \u0022at\u0022 school. he is very wholesome, intelligent and funny, but at the same time he also warned us that the US is probably going to shit in 50 years or so. i took his words since he served as advisor of science and tech to obama. woo US go burr.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769959191032758272",
+      "type": "Default",
+      "timestamp": "2020-10-25T16:22:56.292+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#14: we suffer most in imagination",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2639\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2639.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2757",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2757.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770181060906319874",
+      "type": "Default",
+      "timestamp": "2020-10-26T07:04:34.192+00:00",
+      "timestampEdited": "2020-10-26T07:07:46.071+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#15: always abandon the ship before the sunk cost becomes so great that you yourself becomes part of the sunk cost",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "490412686870577154",
+            "name": "PepeHands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/490412686870577154.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "756240768884146206",
+            "name": "josephkim2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/756240768884146206.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770552048453287937",
+      "type": "Default",
+      "timestamp": "2020-10-27T07:38:44.516+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#16: had to implement the bellman-ford algorithm for cs lab today in this wack ass functional language called pyret, and the fact that i cannot mutate data made me want to smash my keyboard. it went fine still, i finished it an hour before the intended time. rip other kids tho.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654917748551450634",
+            "name": "5Head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654917748551450634.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDE0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9e0.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771054486528458752",
+      "type": "Default",
+      "timestamp": "2020-10-28T16:55:15.088+00:00",
+      "timestampEdited": "2020-10-28T16:55:25.342+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#17: Some people live 10,000 days; some people live 1 day but repeated 10,000 times.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDD0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9d0.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771420962951659591",
+      "type": "Default",
+      "timestamp": "2020-10-29T17:11:29.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#18: nothing is disturbing you; you are just disturbing yourself",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "700550398674600016",
+            "name": "sayitaintso",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/700550398674600016.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "465371181164265483",
+            "name": "kreygasm",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/465371181164265483.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771807831849697370",
+      "type": "Default",
+      "timestamp": "2020-10-30T18:48:46.609+00:00",
+      "timestampEdited": "2020-10-30T18:56:59.097+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#19: One year ago today, we went to get kbbq after miterms and it was pogger yummy  \uD83E\uDD70 and joe is so good at taking care of our food \uD83E\uDD70",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772265691084357672",
+      "type": "Default",
+      "timestamp": "2020-11-01T01:08:08.757+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#20: Last year halloween I dressed up as a cat bc i really had no other options available :kekw:  and this nice old lady called me cute and i monkaS\u0027d very hard :kekw:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE3A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f63a.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60b.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772267876182130689",
+      "type": "Default",
+      "timestamp": "2020-11-01T01:16:49.725+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i only have a selfie xd",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [
+        {
+          "id": "772267876282662922",
+          "url": "https://cdn.discordapp.com/attachments/765366562307178527/772267876282662922/cat.jpg",
+          "fileName": "cat.jpg",
+          "fileSizeBytes": 101148
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686316025498959875",
+            "name": "satisfied",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686316025498959875.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF46",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f346.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "645840853956558851",
+            "name": "Tompson",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/645840853956558851.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE3B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f63b.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772269403672412162",
+      "type": "Default",
+      "timestamp": "2020-11-01T01:22:53.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh and thanks @stellarevolution for the cat ears lmfao",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "344290106271858690",
+          "name": "stellarevolution",
+          "discriminator": 1665,
+          "nickname": "stellarevolution",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "772524945754423319",
+      "type": "Default",
+      "timestamp": "2020-11-01T18:18:19.887+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#21: It is ... November",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "729859515658272777",
+            "name": "aphelios",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/729859515658272777.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "670875578269958156",
+            "name": "klu1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/670875578269958156.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772732662393602088",
+      "type": "Default",
+      "timestamp": "2020-11-02T08:03:43.393+00:00",
+      "timestampEdited": "2020-11-02T22:26:24.852+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#22: Dirac jumbled a bunch of wrong crap together and figured out hydrogen\u0027s quantum mechanical model years before Schrodinger came up with his poggus equation which you would actually use to correctly determine the model. :thonk: :thonk:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "359960978760269827",
+            "name": "thoenking",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/359960978760269827.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "749032285608869988",
+            "name": "Poggus",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749032285608869988.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773096158029283328",
+      "type": "Default",
+      "timestamp": "2020-11-03T08:08:07.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#23: Schrodinger correctly deduced the structure of DNA in his book What is Life (highly recommended) purely by quantum physics logic almost a decade before James Watson and Francis Crick actually discovered the structure of DNA and proved him right. :thonk: :thonk:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "329689350809976834",
+            "name": "thonk",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/329689350809976834.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773610065071571024",
+      "type": "Default",
+      "timestamp": "2020-11-04T18:10:12.493+00:00",
+      "timestampEdited": "2020-11-04T18:10:48.504+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#24: Some people need to go to horny jail. like @Tree",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "362431466346512384",
+            "name": "feelssadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/362431466346512384.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF32",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f332.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "127611267388014592",
+          "name": "Tree",
+          "discriminator": 7503,
+          "nickname": "Tree",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "773824293557239808",
+      "type": "Default",
+      "timestamp": "2020-11-05T08:21:28.544+00:00",
+      "timestampEdited": "2020-11-05T08:25:47.934+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#25: A romantic relationship can be modeled as a mutual teacher-student exchange to an excellent approximation. It is a chance for growth and discovery. Demonstration of love, in particular, is a highly complicated subject under the influence of many local, global, as well as hidden factors. In this model, if one has learned or internalized nothing new after a relationship, one might as well just not have dated at all.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "758049826582691921",
+            "name": "sappy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/758049826582691921.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "755614707532038255",
+            "name": "sader",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/755614707532038255.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "329689350809976834",
+            "name": "thonk",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/329689350809976834.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774343153624285264",
+      "type": "Default",
+      "timestamp": "2020-11-06T18:43:14.424+00:00",
+      "timestampEdited": "2020-11-06T18:45:13.123+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#26:  I want to make an announcement but I also dont want to announce it so therefore I have RSA encrypted it: \u0060\u0060\u0060CQFsCvJ5D58LkF4Smade0u0E5vu5bylzLxL94eGvGGFF2e2ZwQ1CxFwY00Iuj7apvBiqr2lKPcGT0h9WpLQ5ZgzVYYxDKkPxLF789\u002BvFP1Fa0psfFUN7wGwukfYg4GAjA6NmAsR4V7tuMoH1\u002BxoxkMrNPMYTe8GuR8KOCLLd91Y=\u0060\u0060\u0060 with the following public key \u0060\u0060\u0060MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDlFXFhpxLbF9biWQMGR55p1IHBhN8GxPIJAD8lSmcs5RGeN359rYa0aKJRxL2\u002BO/8RcnL88n3nluAqg1xwnjKqaHJFwbj7vi0wWo7lquAhA5w1iTcc9qm9PA/ki\u002B\u002BlyhkY0N9CIeLe02Qkg40Nmsgobxwa\u002BdC08EAd\u002BD/4cVqIFwIDAQAB\u0060\u0060\u0060 :kekw:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "686311511278354443",
+            "name": "smiley",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686311511278354443.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "483048710675234816",
+            "name": "nakadashi",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483048710675234816.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774544604330196992",
+      "type": "Default",
+      "timestamp": "2020-11-07T08:03:44.015+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#27: I am in PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPain",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE26",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f626.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775050678933520404",
+      "type": "Default",
+      "timestamp": "2020-11-08T17:34:41.603+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#28: I am still in pain",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64f.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775278417481826335",
+      "type": "Default",
+      "timestamp": "2020-11-09T08:39:38.704+00:00",
+      "timestampEdited": "2020-11-09T08:42:53.403+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#29: Prayer reacts only to this one please C: I am about to talk about skipping 3 years of physics with my advisor. and this is not why am in pain btw",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64f.png"
+          },
+          "count": 10
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775813412294230026",
+      "type": "Default",
+      "timestamp": "2020-11-10T20:05:31.407+00:00",
+      "timestampEdited": "2020-11-10T20:07:16.588+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#30: Skipped 3 years of physics. Quantum Physics B go burr.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749032485677170719",
+            "name": "ez",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749032485677170719.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776127113354018888",
+      "type": "Default",
+      "timestamp": "2020-11-11T16:52:03.568+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#31: The piano cover of unravel by Animenz has much Rachmaninoff-like left hand arppegio and jumps, which gives it a majestic sound when needed. In addition, the entire piece is arranged like what Liszt would have written to show off his virtuosity; Liszt also likes to use grand arpeggios and jumps. It is nonetheless imperfect when considering the skill-aesthetic trade off. It can sound about the same even if the difficulty is cut substantially by taking out some of those jumps in the left hand. However, it must be acknowledged that it is an extremely sophisticated piece and the only sophisticated anime music cover I\u0027ve ever heard so kudos to him. \uD83D\uDE04",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776543786348052511",
+      "type": "Default",
+      "timestamp": "2020-11-12T20:27:46.151+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#32: Pray reacts to this one only please, I\u0027ve got something very big tmrw \uD83E\uDD7A",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64f.png"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777037470196826134",
+      "type": "Default",
+      "timestamp": "2020-11-14T05:09:29.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#33: Have the serenity to accept the things you cannot change, courage to change the things you can, and wisdom to know the difference.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64f.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777393223777255444",
+      "type": "Default",
+      "timestamp": "2020-11-15T04:43:07.816+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#34: Show yourself some love cos you deserve some c:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777635686924550148",
+      "type": "Default",
+      "timestamp": "2020-11-15T20:46:35.535+00:00",
+      "timestampEdited": "2020-11-15T20:46:42.856+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#35:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [
+        {
+          "id": "777635686072582214",
+          "url": "https://cdn.discordapp.com/attachments/765366562307178527/777635686072582214/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 12781
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62a.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777808593960828938",
+      "type": "Default",
+      "timestamp": "2020-11-16T08:13:39.785+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#36: All I want for Christmas is you!",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778185643246616576",
+      "type": "Default",
+      "timestamp": "2020-11-17T09:11:55.34+00:00",
+      "timestampEdited": "2020-11-17T09:20:54.59+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#37: The best known classical integer factorization algorithm, the General Number Field Sieve, factors an integer N roughly in exp(N^1/3) time. Shor\u0027s Algorithm can factor a given integer N roughly in (logN)^3 time (in other words, roughly polynomial time!!!!), but it requires a quantum computer to run. The largest integer factored using Shor\u0027s Algorithm to date is 21. :kekw:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "488944925078192139",
+            "name": "jacked",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/488944925078192139.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778770939587854358",
+      "type": "Default",
+      "timestamp": "2020-11-18T23:57:40.862+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#38: I aced my cs midterm after referencing a bunch of kpop songs in my test suite for it :pausechamp:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "483050154040229889",
+            "name": "feelskeebman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/483050154040229889.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779048494995341352",
+      "type": "Default",
+      "timestamp": "2020-11-19T18:20:35.228+00:00",
+      "timestampEdited": "2020-11-21T08:01:34.115+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#39: There is way too little time in your life to worry about what other people think of you. Therefore, when you are doing something only for its visible side effects, you are wasting time.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779617804185239554",
+      "type": "Default",
+      "timestamp": "2020-11-21T08:02:49.116+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#40: Pythagoras\u0027 academic \u0022brotherhood\u0022 in Croton consisted of 571 wise men and 28 wise women.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779631941526749204",
+      "type": "Default",
+      "timestamp": "2020-11-21T08:58:59.721+00:00",
+      "timestampEdited": "2020-11-21T08:59:26.122+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#41: Double posting cos I forgot to post yesterday xd -- It is expected that the most precious moments in life often come unexpectedly. Given a collection of events E of which a small subset is the collection of precious events P (being a small subset that you would value is what makes it precious), it is simply statistically harder to foresee an event e in E that is also in P than to foresee an event e\u0027 in E but not in P. C:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780248121048694784",
+      "type": "Default",
+      "timestamp": "2020-11-23T01:47:28.367+00:00",
+      "timestampEdited": "2020-11-23T01:48:47.465+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#42: All I want for Christmas is Ice Bear C:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [
+        {
+          "id": "780248120915001344",
+          "url": "https://cdn.discordapp.com/attachments/765366562307178527/780248120915001344/8MKfdkWcgcBczlLan7UDuaBLXj3lijgLQe9KD9EYEBs6AS9IDZNVjwtBOw6OkUvQyJJ1NWuiHTOIsdSOKcXgAAAABJRU5ErkJggg.png",
+          "fileName": "8MKfdkWcgcBczlLan7UDuaBLXj3lijgLQe9KD9EYEBs6AS9IDZNVjwtBOw6OkUvQyJJ1NWuiHTOIsdSOKcXgAAAABJRU5ErkJggg.png",
+          "fileSizeBytes": 14360
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780533339164901416",
+      "type": "Default",
+      "timestamp": "2020-11-23T20:40:49.665+00:00",
+      "timestampEdited": "2020-11-23T20:41:03.999+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#43: It is about time that I give the definition for ***bo*** as part of the Boboga Language. bo will from now on be a morphemic component of the Language that serves as a marker for affirmation(\u0027yes\u0027 or \u0027ok\u0027) when uttered with a flat inflection and serves as a marker for confusion/question when uttered with an upwards inflection (\u0027huh?\u0027). It will carry the meaning of what is equivalent to \u0022I am not really paying attention to what you are talking about right now but I will respond anyways\u0022 in English. More definitions to come later C:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e7.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780710877942120478",
+      "type": "Default",
+      "timestamp": "2020-11-24T08:26:18.208+00:00",
+      "timestampEdited": "2020-11-24T08:27:24.56+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#44: Now we codify the definition for ***ga***. ga will be a morphemic component of the language that will not carry any meaning by itself but will only serve as a suffix to another semantic element. Let ga succeed some semantic element E with meaning M, then the string \u0022E\u0022\u002B \u0022ga\u0022 will be used to convey that the situation which E describes has some interesting and (at least) mildly funny quality Q, which will be left to the interpreter as a mental exercise. For instance, if Trevor fails a water landing in minecraft and dies, and I say [some string] \u002B \u0022ga\u0022, a reasonable interpretation by Trevor of \u0022ga\u0022 would be a playful mockery of some sort such as \u0022holy shit u suck ass\u0022.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE42",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f642.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ec.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD70\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f170.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "495706319358001153",
+            "name": "waterfall",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/495706319358001153.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781366845445111858",
+      "type": "Default",
+      "timestamp": "2020-11-26T03:52:53.048+00:00",
+      "timestampEdited": "2020-11-26T03:53:16.902+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#45: Today we introduce a central feature of the Boboga Language -- let\u0027s call it stackability. Let \u0060e\u0060 be a morphemic element of the language, then the ***n-stack*** of n repeatedly concatenated strings \u0060ee...e\u0060 will convey the meaning of whatever \u0060e\u0060 conveys, but with a magnified amplitude of expression as well as randomness and chaos, with the growth rate of such amplitudes with respect to \u0060n\u0060 being an exponential decay such that the amplitudes quickly stagnate after a few strings being added to a stack. In addition, when \u0060n\u0060 is an even number, arbitrary parts of the meaning of the \u0060n-stack\u0060 gets reversed, which will again be left as a mental exercise for the interpreter. For an example, given the context of a casual conversation, \u0022bobobo\u0022  will carry roughly the meaning \u0022Im not paying attention at all and I do not know what to say right now so I will say something random right now and hopefully we can come up with something else to say\u0022, but \u0022 bobobobo(!)\u0022 will carry roughly the meaning \u0022this stuff is really interesting so let\u0027s talk more about this!! \u2764\uFE0F \u0022. C:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "749099669392457878",
+            "name": "5head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749099669392457878.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD71\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f171.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e7.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "0\uFE0F\u20E3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/30-20e3.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781630355706740746",
+      "type": "Default",
+      "timestamp": "2020-11-26T21:19:58.79+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#46: Thanks guys \u2764\uFE0F can\u0027t be more grateful for yall C:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC97",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f497.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781962871805575180",
+      "type": "Default",
+      "timestamp": "2020-11-27T19:21:16.806+00:00",
+      "timestampEdited": "2020-11-27T19:21:26.419+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#47: Since self-similar references are essential features of many human languages, Boboga will have one as well. ***ja*** will be the marker for infinite recursion in Boboga. It will take whatever morpheme M is before it, and transform into [M] \u002B \u0022ja\u0022.  For example, \u0022bobo(ja)\u0022 is equivalent to \u0022bobo(boja)\u0022 is equivalent to \u0022bobo(boboja)\u0022 and so on.  Stackability was introduced to pave the way for this recursive feature of the language.  Since there is an infinite number of morphemes in a recursive phrase, the initializer of \u0022ja\u0022 will determine whether the expressions is \u0022even\u0022 or \u0022odd\u0022. \u0022boboja\u0022 will count as an even-number expression, while \u0022boja\u0022 will count as an odd-number expression.  Right now, \u0022ja\u0022 only serve as ***the*** superlative expression in Boboga, but more is to come!! C:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e7.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782501084873752596",
+      "type": "Default",
+      "timestamp": "2020-11-29T06:59:56.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#48: ValOrant is very hard to play when everything on your screen is just teleporting around :kekw:  same thing with every other online game I play wtf is wrong with my internet",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "490412686870577154",
+            "name": "PepeHands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/490412686870577154.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783241990783107082",
+      "type": "Default",
+      "timestamp": "2020-12-01T08:04:02.535+00:00",
+      "timestampEdited": "2020-12-01T08:04:15.037+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#49: A beginning is an end and an end is a beginning. Just like how the end of November is the start of December. Happy December everyone. C:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783603501489586176",
+      "type": "Default",
+      "timestamp": "2020-12-02T08:00:33.404+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [
+        {
+          "id": "783603501049577512",
+          "url": "https://cdn.discordapp.com/attachments/765366562307178527/783603501049577512/Screenshot_20201201-204143_Chrome.jpg",
+          "fileName": "Screenshot_20201201-204143_Chrome.jpg",
+          "fileSizeBytes": 235572
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783603557004738570",
+      "type": "Default",
+      "timestamp": "2020-12-02T08:00:46.64+00:00",
+      "timestampEdited": "2020-12-02T08:07:57.665+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#50: 5G is nuts. This is faster than my WiFi by a factor of like 2",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784357075908165659",
+      "type": "Default",
+      "timestamp": "2020-12-04T09:54:59.546+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#51: TIME IS INSANE",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD58",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f558.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785058925099614229",
+      "type": "Default",
+      "timestamp": "2020-12-06T08:23:53.433+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#52: Starting Re:Zero with a friend please be good \uD83E\uDD70",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64f.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785421143652958248",
+      "type": "Default",
+      "timestamp": "2020-12-07T08:23:13.066+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#53: BASNBDIWHWIEBDKSGWIEGEKEIFP4U2O2URIRHRK8RORKFHLEHWODHDKSHDJDJDJDJEUDJJDUEHDIDOQKEMD",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785421200209346580",
+      "type": "Default",
+      "timestamp": "2020-12-07T08:23:26.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "FUCK",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785421278072930305",
+      "type": "Default",
+      "timestamp": "2020-12-07T08:23:45.114+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AJSJEJEIEHDKDJKWSJJDJDJDJDJSJDJJDJSJSJSKSKSJSJJDJS",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786020652762529813",
+      "type": "Default",
+      "timestamp": "2020-12-09T00:05:27.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#54: eren yaeger has gotta be the embodiment of cringe",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "778439492671373362",
+            "name": "feelswerman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/778439492671373362.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786022421756903485",
+      "type": "Default",
+      "timestamp": "2020-12-09T00:12:28.937+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HES ACTUALLY A PIECE OF SHIT",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786024374586834944",
+      "type": "Default",
+      "timestamp": "2020-12-09T00:20:14.528+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WE STAN LEVI THO",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786370419984433213",
+      "type": "Default",
+      "timestamp": "2020-12-09T23:15:18.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#55: freedom more like freedoesntexist :sadge:",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786684520069464064",
+      "type": "Default",
+      "timestamp": "2020-12-10T20:03:25.476+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#56: A wise woman once said that Aiden could use some eyebrow transplant from me.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787011258985349140",
+      "type": "Default",
+      "timestamp": "2020-12-11T17:41:46.104+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#57: genshin impact",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a9.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787231060202750012",
+      "type": "Default",
+      "timestamp": "2020-12-12T08:15:10.798+00:00",
+      "timestampEdited": "2020-12-12T08:15:25.119+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#58: In a lot of situations, having good grades merely shows that you are good at following a set of rules others came up with. Nothing more, nothing less.",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ef.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f0.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787955272320548934",
+      "type": "Default",
+      "timestamp": "2020-12-14T08:12:56.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#59: Nothing else to say so math fact today. Wilson\u0027s Theorem states that given a prime number \u0060p\u0060, it holds that \u0060(p-1)! is congruent to -1 modulo p\u0060. This can be proven from properties of the abstract field of congruence classes modulo \u0060p\u0060, specifically that the non-zero congruence classes form an abelian group under multiplication. :\u003E",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u23F2\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/23f2.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788888647180615730",
+      "type": "Default",
+      "timestamp": "2020-12-16T22:01:50.33+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#60: become a better person by pulling yourself up, not dragging others down",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC99",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f499.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD70",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f970.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789571739943174176",
+      "type": "Default",
+      "timestamp": "2020-12-18T19:16:12.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#61: I will be meming in the Putnam Competition this year",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789571750840500224",
+      "type": "Default",
+      "timestamp": "2020-12-18T19:16:14.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [
+        {
+          "id": "789571750584778792",
+          "url": "https://cdn.discordapp.com/attachments/765366562307178527/789571750584778792/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 39960
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789572032144736317",
+      "type": "Default",
+      "timestamp": "2020-12-18T19:17:22.002+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nvm wtf is this shit im out",
+      "author": {
+        "id": "282258500845961256",
+        "name": "jaspy",
+        "discriminator": "6671",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282258500845961256/3fae3d4650e1646c0373fb80f4e01bb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "311670079181946890",
+            "name": "LUL",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/311670079181946890.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 71
+}

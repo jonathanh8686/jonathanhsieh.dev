@@ -1,0 +1,575 @@
+{
+  "guild": {
+    "id": "254698074323157013",
+    "name": "\uD83C\uDF93\uD83C\uDF93\uD83C\uDF93",
+    "iconUrl": "https://cdn.discordapp.com/icons/254698074323157013/840724d73280a5affd7ff3b5f8cf3d40.png"
+  },
+  "channel": {
+    "id": "784318722881224724",
+    "type": "GuildTextChat",
+    "category": "fact of the day",
+    "name": "andrew",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "784319111991132180",
+      "type": "Default",
+      "timestamp": "2020-12-04T07:24:08.243+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Entry 1: \n\u0060\u0060\u0060Why do they call it oven when you of in the cold food of out hot eat the food.\n\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e7.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD70\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f170.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f8.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "748043005507928094",
+            "name": "ayao",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/748043005507928094.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "686322559850905601",
+            "name": "klu2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/686322559850905601.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "749032485677170719",
+            "name": "ez",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/749032485677170719.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "684915135764365323",
+            "name": "aidenwoozy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/684915135764365323.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e9.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "670875578269958156",
+            "name": "klu1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/670875578269958156.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "333714265091473408",
+            "name": "jonathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/333714265091473408.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784453850206568469",
+      "type": "Default",
+      "timestamp": "2020-12-04T16:19:32.337+00:00",
+      "timestampEdited": "2020-12-04T16:20:13.157+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Entry 2:\n\u0060\u0060\u0060\nPotassium Permanganate stains your skin brown. Silver Nitrate stains it grey. Nitric acid stains it yellow. I\u0027ve experienced all 3.\n\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654487502144536586",
+            "name": "josephkim",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654487502144536586.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "343083370798120960",
+            "name": "monkaOMEGA",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/343083370798120960.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784655855525691428",
+      "type": "Default",
+      "timestamp": "2020-12-05T05:42:14.158+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Entry 3:",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [
+        {
+          "id": "784655855525298196",
+          "url": "https://cdn.discordapp.com/attachments/784318722881224724/784655855525298196/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 1188554
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "356113763499245568",
+            "name": "PogChamp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/356113763499245568.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784655961184796694",
+      "type": "Default",
+      "timestamp": "2020-12-05T05:42:39.349+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0060\u0060\u0060Why tf is art hard (character is Charles Snippy from Romantically Apocalyptic)\n\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785226221083426816",
+      "type": "Default",
+      "timestamp": "2020-12-06T19:28:39.904+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Entry 4:\n\u0060\u0060\u0060\nfinished this yesterday\n\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [
+        {
+          "id": "785226220681166868",
+          "url": "https://cdn.discordapp.com/attachments/784318722881224724/785226220681166868/EogYqluVgAA4SRs.png",
+          "fileName": "EogYqluVgAA4SRs.png",
+          "fileSizeBytes": 470333
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786009432189829120",
+      "type": "Default",
+      "timestamp": "2020-12-08T23:20:51.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Entry 5:\n\u0060\u0060\u0060\nbad images only in chat\n\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [
+        {
+          "id": "786009431870930995",
+          "url": "https://cdn.discordapp.com/attachments/784318722881224724/786009431870930995/ea464b29-871e-4813-b0a4-02188beb948d.png",
+          "fileName": "ea464b29-871e-4813-b0a4-02188beb948d.png",
+          "fileSizeBytes": 932879
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE26",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f626.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786014622716788758",
+      "type": "Default",
+      "timestamp": "2020-12-08T23:41:29.501+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Entry 6:\n\u0060\u0060\u0060\nDrew another thing for a friend tho\n\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [
+        {
+          "id": "786014622616518696",
+          "url": "https://cdn.discordapp.com/attachments/784318722881224724/786014622616518696/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 212111
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2665\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2665.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787132431240003605",
+      "type": "Default",
+      "timestamp": "2020-12-12T01:43:15.821+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Entry 7:\n\u0060\u0060\u0060\naw fuck i haven\u0027t done these in a while i guess i should say something vaguely philosphical. that always seems to work.\n\nYou are not responsible for the happiness of others. You can be compassionate, kind, or generous, but for your own sake, you don\u0027t have to feel obligated to help someone if they\u0027re taking a toll on you\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "748043005507928094",
+            "name": "ayao",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/748043005507928094.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787848053406826506",
+      "type": "Default",
+      "timestamp": "2020-12-14T01:06:53.441+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "entry 8:\n\u0060\u0060\u0060\nI caved and bought r6s. im probably gonna regret this\n\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "677708007282573322",
+            "name": "walter",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/677708007282573322.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u23F2\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/23f2.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1eb.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788986405530370078",
+      "type": "Default",
+      "timestamp": "2020-12-17T04:30:17.737+00:00",
+      "timestampEdited": "2020-12-17T05:18:03.709+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Entry 9:\n\u0060\u0060\u0060\nThey\u2019re pretty fun to draw\n\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [
+        {
+          "id": "788986405081710592",
+          "url": "https://cdn.discordapp.com/attachments/784318722881224724/788986405081710592/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 1640819
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788998551946395669",
+      "type": "Default",
+      "timestamp": "2020-12-17T05:18:33.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Entry 10:\n\u0060\u0060\u0060\ni have another r6s piece planned but like, if yall wanna request something im game\n\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789759282861572126",
+      "type": "Default",
+      "timestamp": "2020-12-19T07:41:26.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Entry 11:\n\u0060\u0060\u0060\nwork in progress\n\u0060\u0060\u0060",
+      "author": {
+        "id": "470486222247297059",
+        "name": "Amphoterism",
+        "discriminator": "4364",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470486222247297059/1bbeb92a9af762c7536d14c2a5cacf43.png"
+      },
+      "attachments": [
+        {
+          "id": "789759282559713280",
+          "url": "https://cdn.discordapp.com/attachments/784318722881224724/789759282559713280/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 930015
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

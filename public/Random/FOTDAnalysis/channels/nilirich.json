@@ -1,0 +1,2110 @@
+{
+  "guild": {
+    "id": "254698074323157013",
+    "name": "\uD83C\uDF93\uD83C\uDF93\uD83C\uDF93",
+    "iconUrl": "https://cdn.discordapp.com/icons/254698074323157013/840724d73280a5affd7ff3b5f8cf3d40.png"
+  },
+  "channel": {
+    "id": "769738312814428180",
+    "type": "GuildTextChat",
+    "category": "fact of the day",
+    "name": "nilirich",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "769740465527455755",
+      "type": "Default",
+      "timestamp": "2020-10-25T01:53:48.068+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 1: one of the most famous ritual suicides in history happened right in our backyard by the heaven\u0027s gate in rancho santa fe. They thought Comet Hale-Bopp was a UFO and would carry their souls to heaven so they drank poison and tied bags around their head to kill themselves. Sounds fun",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "591885485245202442",
+            "name": "wewega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/591885485245202442.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f8.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDED",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ed.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fe.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f3.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f0.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "769763897745735731",
+      "type": "Default",
+      "timestamp": "2020-10-25T03:26:54.744+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hm",
+      "author": {
+        "id": "260995164191850497",
+        "name": "Shredank",
+        "discriminator": "0078",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260995164191850497/c6a268e412f470a7a545cd2e8e3bf332.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "770010083131129856",
+      "type": "Default",
+      "timestamp": "2020-10-25T19:45:09.914+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 2: Mathematician GH Hardy invited Srinivasa Ramanujan to Cambridge after he sent a letter filled with equations that Hardy could not prove, to which Hardy responded \u201CThey must be true because if not, no one would have the imagination to invent them.\u201D At Cambridge, Ramanujan would write amazing theorems he claimed to receive from divine inspiration and Hardy and others would spend months trying to prove them.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEE\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ee-1f1f3.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770408181754101820",
+      "type": "Default",
+      "timestamp": "2020-10-26T22:07:04.022+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 3: After getting my flu shot, the Yale medical school student nurse said \u201CI can\u2019t find where I put the needle in so I\u2019m going to put the bandaid on somewhere randomly\u201D and then completely missed.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "500100703100993547",
+            "name": "monkaweird",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100703100993547.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "770832209048895539",
+      "type": "Default",
+      "timestamp": "2020-10-28T02:12:00.007+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 4: Last month, astronomers at two separate observatories announced that phosphine, which is produced only through biotic processes on Earth, had been discovered on Venus at an extremely high 15-sigma confidence level. But a few days ago a new paper claimed that the original team analyzed the data wrongly and in fact the confidence is less than 2-sigma, making it a non-detection.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "654918169944784896",
+            "name": "3Head",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/654918169944784896.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "362431466346512384",
+            "name": "feelssadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/362431466346512384.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771178748958867516",
+      "type": "Default",
+      "timestamp": "2020-10-29T01:09:01.56+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 5: Today during my Japanese oral test I said \u201CI don\u2019t know\u201D when she asked what I was doing for winter break and then said \u201Ceating Christmas food\u201D when she asked what I was doing for Christmas. Then she was confused and asked what Christmas food was and I didn\u2019t even know so I just said \u201Cmeat.\u201D So definitely did not do too good there.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771584037474533407",
+      "type": "Default",
+      "timestamp": "2020-10-30T03:59:29.872+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 6: The false detection of phosphine on Venus is similar to another \u201Cdiscovery\u201D about 6 years ago, where scientists thought they had detected signals from gravitational waves in the Cosmic Microwave Background at 7-sigma confidence, which would have been extremely strong evidence for the Big Bang. Reanalysis and observations from a later, more sensitive telescope confirmed that the signal they originally detected could be completely attributed to cosmic dust.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771909367820713994",
+      "type": "Default",
+      "timestamp": "2020-10-31T01:32:14.671+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 7: Carved pumpkins!",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [
+        {
+          "id": "771909367611523082",
+          "url": "https://cdn.discordapp.com/attachments/769738312814428180/771909367611523082/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 188643
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772310466377809940",
+      "type": "Default",
+      "timestamp": "2020-11-01T04:06:04.019+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 8: My cat was more festive than me",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [
+        {
+          "id": "772310465421901843",
+          "url": "https://cdn.discordapp.com/attachments/769738312814428180/772310465421901843/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 1818883
+        },
+        {
+          "id": "772310465920892928",
+          "url": "https://cdn.discordapp.com/attachments/769738312814428180/772310465920892928/image1.jpg",
+          "fileName": "image1.jpg",
+          "fileSizeBytes": 1798025
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60b.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772666088503902208",
+      "type": "Default",
+      "timestamp": "2020-11-02T03:39:10.941+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 9: Eight students have been assaulted with paintball guns the past week or so. The police report emails we get are just like \u201Ca black SUV pulled alongside the student and the front passenger fired a paintball gun, striking the student in the arm, ear, and back.\u201D It\u2019s become such a meme now that multiple people dressed up as paintball victims for Halloween.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773036585184264232",
+      "type": "Default",
+      "timestamp": "2020-11-03T04:11:24.233+00:00",
+      "timestampEdited": "2020-11-03T04:11:34.117+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 10: St Augustine\u2019s Confessions is considered to be the first Western autobiography and also one of the most important pieces of Western literature. In it he describes his transition from a promiscuous, hedonistic lifestyle (examples he gives are stealing for fun and disobeying his mother\u2019s advice to \u201Cnever defile another man\u2019s wife\u201D) to Christianity, giving a guide for others to convert. Fun quote: \u201CWhen my father saw me at the baths, now growing towards manhood,...he, already hence anticipating his descendants, gladly told it to my mother\u201D",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773383549583097877",
+      "type": "Default",
+      "timestamp": "2020-11-04T03:10:06.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 11: Update on paintball assault saga",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [
+        {
+          "id": "773383549365256203",
+          "url": "https://cdn.discordapp.com/attachments/769738312814428180/773383549365256203/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 552842
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "375427227384283136",
+            "name": "OMEGALUL",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/375427227384283136.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773776404399652895",
+      "type": "Default",
+      "timestamp": "2020-11-05T05:11:10.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 12: Mary Shelley had an\u2026interesting relationship with her family. Her mother, Mary Wollstonecraft, died from a childbirth infection. Meanwhile, Percy Shelley, Mary\u2019s future husband, was out of contact with his family after being expelled from Oxford. He eloped with and quickly married Harriet Westbrook, who was 16 at the time. He then became a pupil of William Godwin, Mary\u2019s father, where he met and fell in love with Mary, taking her virginity on Wollstonecraft\u2019s grave and also leaving Harriet after she became pregnant. Percy and Mary eloped, bringing along one of Mary\u2019s half-sisters, but within two months, they returned broke, and Godwin kicked them out. Later, Mary\u2019s other half-sister committed suicide because she was in love with Percy and Harriet drowned herself. Sounds exciting.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "750967176940355685",
+            "name": "jeff",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/750967176940355685.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774154994345050133",
+      "type": "Default",
+      "timestamp": "2020-11-06T06:15:33.756+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 13: The solution to the rotation of solid bodies in 3 dimensions is famously messy. Maxwell suggested that \u201Cit had never been thoroughly understood by any but the most expert mathematicians.\u201D It is even used as a metaphor in Middlemarch, one of the greatest English novels: \u201CIn short, woman was a problem which, since Brooke\u0027s mind fell blank before it, could be hardly less complicated than the revolutions of an irregular solid.\u201D",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDE0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9e0.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774531207630684200",
+      "type": "Default",
+      "timestamp": "2020-11-07T07:10:29.993+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 14: Watched Okja. 6/10",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "375427227384283136",
+            "name": "OMEGALUL",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/375427227384283136.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fa.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774750081236074526",
+      "type": "Default",
+      "timestamp": "2020-11-07T21:40:13.527+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 15: I\u2019ve been up for two hours, all I\u2019ve eaten today is bubble waffles with ice cream, and the sun\u2019s already setting. What a great day",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775207439696003113",
+      "type": "Default",
+      "timestamp": "2020-11-09T03:57:36.281+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 16: Scott Joplin\u2019s \u201CGreat Crush Collision March\u201D was based on a publicity stunt done by the Missouri-Kansas-Texas Railroad. One of the company\u2019s agents, William Crush, had the great idea of having a public staged train crash. 40,000 people attended, but when the trains collided, their boilers exploded, sending debris into the crowd killing and injuring multiple people. Crush was fired that day, but was rehired the next day after no negative publicity came out. The event was a huge success for the company, giving them international recognition.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775589459567312916",
+      "type": "Default",
+      "timestamp": "2020-11-10T05:15:36.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 17: Three midterms this week",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "775962020159553566",
+      "type": "Default",
+      "timestamp": "2020-11-11T05:56:02.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 18: Three of the residential colleges are in quarantine now after they had 20 covid cases last week. My friend in one of them said most of them got it from two sixty person Halloween parties. Hopefully my college isn\u2019t stupid so I don\u2019t have to quarantine here over Thanksgiving.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "424087469185826826",
+            "name": "peepopepos",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/424087469185826826.png"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776325016878317628",
+      "type": "Default",
+      "timestamp": "2020-11-12T05:58:27.445+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 19: My friend ordered a bacon chicken sandwich combo with \u201Cjust cheese and bacon\u201D from Wendy\u2019s. They did not give him a bun. So he paid $9 for a chicken patty, a slice of cheese, and two pieces of bacon. Unlucky",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776698115972792320",
+      "type": "Default",
+      "timestamp": "2020-11-13T06:41:01.201+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 20: Physics is so free",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777077666196094978",
+      "type": "Default",
+      "timestamp": "2020-11-14T07:49:13.026+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 21: Apparently somebody was shot (with an actual non paintball gun) less than half a mile from my dorm a few hours ago. Unlucky",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE31",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f631.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777433999311503380",
+      "type": "Default",
+      "timestamp": "2020-11-15T07:25:09.461+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 22: I took a five hour nap today but didn\u2019t feel any less tired after it",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901646424145980",
+            "name": "kekwait",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901646424145980.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "777785581274660874",
+      "type": "Default",
+      "timestamp": "2020-11-16T06:42:13.133+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 23: Fibrodysplasia ossificans progressiva is the only known disease in which one organ system turns into another. Muscles and tendons can turn into bone either after damage or spontaneously, creating another skeleton structure that impedes movement as joints that are normally flexible and connected by ligaments become permanently fixed into place. Scary",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778154298991312907",
+      "type": "Default",
+      "timestamp": "2020-11-17T07:07:22.287+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 24: Masatoshi Koshiba, who pioneered neutrino astronomy and led the observatory that first discovered cosmic neutrinos and won the Nobel Prize in Physics in 2002, died this weekend.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901460419215510",
+            "name": "NOPE",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901460419215510.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2639\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2639.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778494774805397505",
+      "type": "Default",
+      "timestamp": "2020-11-18T05:40:18.047+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 25: My suitemate\u2019s friend\u2019s dad got arrested and charged with federal conspiracy a couple days ago for allegedly bribing the Harvard fencing coach.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "756240768884146206",
+            "name": "josephkim2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/756240768884146206.png"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778883400231944222",
+      "type": "Default",
+      "timestamp": "2020-11-19T07:24:33.569+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 26: There\u2019s a website called the math genealogy project that lets you enter any mathematician (at least any old one or recent American PhD graduate) and see their \u201Cancestry\u201D through PhD advisors. Almost half of mathematicians today are descendants of Leibniz, and my math professor\u2019s ancestors include Lagrange, Euler, Bernoulli, Laplace, Hilbert, Klein, and Gauss.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100763536588800",
+            "name": "monkathink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100763536588800.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779205510120996866",
+      "type": "Default",
+      "timestamp": "2020-11-20T04:44:30.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 27: I learned to draw dotted lines on a chalkboard today",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779598998855614484",
+      "type": "Default",
+      "timestamp": "2020-11-21T06:48:05.576+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 28: Coming back to San Diego tomorrow!",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779979750021398549",
+      "type": "Default",
+      "timestamp": "2020-11-22T08:01:03.728+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 29: Back home",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779983063098458113",
+      "type": "Default",
+      "timestamp": "2020-11-22T08:14:13.627+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome back \u2764\uFE0F",
+      "author": {
+        "id": "127611267388014592",
+        "name": "Tree",
+        "discriminator": "7503",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/127611267388014592/fa884c4db869c39ad488b0db1cfbfa9b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2764\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "456947228993650741",
+          "name": "nilirich",
+          "discriminator": 6860,
+          "nickname": "nilirich",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "780335028030144513",
+      "type": "Default",
+      "timestamp": "2020-11-23T07:32:48.606+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 30: Life\u2019s pretty boring at home so I\u2019ll do math facts for some time maybe. A function is considered to be of differentiability class C^0 if it is continuous, and C^k if all its partial derivatives exist and if they are all C^(k-1). The definition of a \u201Csmooth\u201D function is that it is C^infinity",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f680.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780692780690571265",
+      "type": "Default",
+      "timestamp": "2020-11-24T07:14:23.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 31: Depending on which axiom of set theory you use, the number of field automorphisms of the complex numbers varies. If you use the axiom of choice (equivalent to every vector space has a basis), then there are uncountably infinite of them. But if you use the axiom of determinancy (equivalent to every game that can\u2019t end in a tie has a winning strategy), there are only two.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDE0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9e0.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781060498783338547",
+      "type": "Default",
+      "timestamp": "2020-11-25T07:35:34.312+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 32: Played tennis for the first time in 3 months today. Wasn\u2019t that bad but I\u2019m so out of shape",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781421940681736204",
+      "type": "Default",
+      "timestamp": "2020-11-26T07:31:48.776+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 33: The seminar I wanted to take next semester is now at 9:30 so it\u2019ll be 6:30 here. Considering I can barely wake up by 10, I guess I\u2019ll have to find another class to take. Sad",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781718528377356339",
+      "type": "Default",
+      "timestamp": "2020-11-27T03:10:20.793+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 34: happy thanksgiving \uD83D\uDC95",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC95",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f495.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782135533299826699",
+      "type": "Default",
+      "timestamp": "2020-11-28T06:47:22.514+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 35: My nose has bled 8 days in a row now",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "751154330626818088",
+            "name": "feelsbadman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751154330626818088.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782513452341919754",
+      "type": "Default",
+      "timestamp": "2020-11-29T07:49:05.435+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 36: For some reason my parents want to go to North Carolina so I guess I will be there over winter break",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782870968510709801",
+      "type": "Default",
+      "timestamp": "2020-11-30T07:29:43.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 37: Everyday my weight fluctuates so much. Right now I\u2019m 7.5 pounds heavier than this morning but it\u2019ll probably be back down when I wake up",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD28",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f928.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783239411008536626",
+      "type": "Default",
+      "timestamp": "2020-12-01T07:53:47.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 38: I have four Japanese tests this week",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "755244024192958524",
+            "name": "KannaWhat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/755244024192958524.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783598946210938920",
+      "type": "Default",
+      "timestamp": "2020-12-02T07:42:27.341+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 39: The Arecibo telescope, which was the largest single-aperture telescope in the world until 2016, collapsed today",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783958541588496424",
+      "type": "Default",
+      "timestamp": "2020-12-03T07:31:21.56+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 40: There\u2019s a type of sea slug called a leaf sheep that retains chloroplasts from algae it eats for up to ten months and can then continue photosynthesis for that time",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784317792350240768",
+      "type": "Default",
+      "timestamp": "2020-12-04T07:18:53.616+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 41: Had my last class of the semester today",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "726901388604342302",
+            "name": "YEP",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726901388604342302.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784574058649223168",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:17:12.263+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 42: My math professor is giving us extra credit if we send him better versions of his picture of a \u201Ccute little ant on a manifold\u201D",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [
+        {
+          "id": "784574058376200203",
+          "url": "https://cdn.discordapp.com/attachments/769738312814428180/784574058376200203/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 564589
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785038567621394432",
+      "type": "Default",
+      "timestamp": "2020-12-06T07:02:59.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 43: Finally turned in my final paper for my seminar",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785398183223754772",
+      "type": "Default",
+      "timestamp": "2020-12-07T06:51:58.873+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 44: My physics professor gave us a function that spells porn",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [
+        {
+          "id": "785398182989266944",
+          "url": "https://cdn.discordapp.com/attachments/769738312814428180/785398182989266944/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 408749
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "564268416727384074",
+            "name": "pepelaugh",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/564268416727384074.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "726900986152485008",
+            "name": "feelsweirdman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/726900986152485008.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785748952636588032",
+      "type": "Default",
+      "timestamp": "2020-12-08T06:05:48.818+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 45: My mom bought almost all of our Christmas gifts and we just paid her for them so basically none of us knows the gifts we\u2019re giving each other except her",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDA7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9a7.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786138060458950657",
+      "type": "Default",
+      "timestamp": "2020-12-09T07:51:59.352+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 46: My physics final next week is 4.5 hours long",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "297144327719747584",
+            "name": "monkas",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/297144327719747584.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786501665221247016",
+      "type": "Default",
+      "timestamp": "2020-12-10T07:56:49.483+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 47: I\u2019ve eaten pizza six days in a row",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "665659922326880267",
+            "name": "peepoFat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/665659922326880267.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "786862315781750833",
+      "type": "Default",
+      "timestamp": "2020-12-11T07:49:55.277+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 48: One of my physics tas sent out an announcement saying that almost everybody made the same mistake on our pset and didn\u2019t consider the negative answer from a square root and then our piazza exploded with people saying that the question specifically asked for the positive answer only so he apologized. Although the people were dumb to get mad over something worth maybe one point since he\u2019s going to be the one grading the final worth 50% of our grade next week.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE1B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f61b.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787220747922833439",
+      "type": "Default",
+      "timestamp": "2020-12-12T07:34:12.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 49: Every year the Empire State Building holds an invitational race to the top of its 86 floors. The record time is 9:33",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE2E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f62e.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787589106149883934",
+      "type": "Default",
+      "timestamp": "2020-12-13T07:57:55.604+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 50: Tried sugar cookie toast crunch today. Kind of terrible. It just tastes like Cinnamon Toast Crunch without cinnamon and just extra sugar",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "591885485245202442",
+            "name": "wewega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/591885485245202442.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787947655397507093",
+      "type": "Default",
+      "timestamp": "2020-12-14T07:42:40.406+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 51: Although online teaching is maybe new, canvas definitely is not but somehow none of my professors know how to use it so I have over 100 in every class and it takes too much effort for me to manually calculate stuff so I don\u2019t really know what I have in any class.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "786704444326674483",
+            "name": "feelswerman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/786704444326674483.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788266859975540736",
+      "type": "Default",
+      "timestamp": "2020-12-15T04:51:04.708+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 52: Physics was a disaster. I spent an hour calculating the moment of inertia of a pentagon and probably didn\u2019t even get it right and then had barely any time for the rest of the questions. Unlucky",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "500100712026603551",
+            "name": "pepehands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/500100712026603551.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788646399021285376",
+      "type": "Default",
+      "timestamp": "2020-12-16T05:59:13.868+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 53: Started playing breath of the wild today",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "399808301732331524",
+            "name": "POGGERS",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/399808301732331524.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789022301986750494",
+      "type": "Default",
+      "timestamp": "2020-12-17T06:52:56.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 54: Jack Steinberger, who won the 1988 physics Nobel Prize for discovering the muon neutrino and proving that more than one type of neutrino exists, died this weekend.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789391953669259304",
+      "type": "Default",
+      "timestamp": "2020-12-18T07:21:47.948+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 55: Now that all my classes will be three hours earlier, my latest class is basically the same time as my earliest class last semester. Unlucky",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [
+        {
+          "id": "789391953270669322",
+          "url": "https://cdn.discordapp.com/attachments/769738312814428180/789391953270669322/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 428084
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789737953307262976",
+      "type": "Default",
+      "timestamp": "2020-12-19T06:16:40.69+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 56: Officially, 112 people died constructing the Hoover dam. The first recorded death was JG Tierney, who drowned in a flash flood, and the last death was his son, Patrick Tierney, who fell from one of the towers.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728078391156146227",
+            "name": "sadge",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728078391156146227.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790121176709595146",
+      "type": "Default",
+      "timestamp": "2020-12-20T07:39:28.269+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 57: America produced so many Purple Hearts during world war ii in anticipation of a ground invasion of japan that we still haven\u2019t had to make any more since then",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "547289631658475521",
+            "name": "pepega",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/547289631658475521.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790480753918083103",
+      "type": "Default",
+      "timestamp": "2020-12-21T07:28:18.156+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fotd 58: Watched mulan today. Pretty bad.",
+      "author": {
+        "id": "456947228993650741",
+        "name": "nilirich",
+        "discriminator": "6860",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/456947228993650741/b82d3ba8ad52ea4e967c97c0f940e18c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "626191509103968268",
+            "name": "kekw",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/626191509103968268.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "375427227384283136",
+            "name": "OMEGALUL",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/375427227384283136.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 60
+}
