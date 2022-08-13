@@ -12,7 +12,10 @@ function setup() {
 }
 
 function draw() {
-    circles.push(genCircle());
+    for(let i = 0; i < 10; i++) {
+        circles.push(genCircle());
+    }
+
     for (c of circles) {
         if(c.active == false) continue;
         for(c2 of circles) {
