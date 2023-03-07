@@ -16,7 +16,6 @@ var _PART_INDEX = 0;
 var _INTERVAL_VAL;
 
 // Element that holds the text
-console.log(document)
 var _ELEMENT = document.querySelector(".typewriter-text\ ")
 
 // Cursor element 
