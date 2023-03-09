@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arith/static/css/main.c219ac9a.css",
+    "main.js": "/arith/static/js/main.5b018b78.js",
+    "static/js/787.31563bb8.chunk.js": "/arith/static/js/787.31563bb8.chunk.js",
+    "index.html": "/arith/index.html",
+    "main.c219ac9a.css.map": "/arith/static/css/main.c219ac9a.css.map",
+    "main.5b018b78.js.map": "/arith/static/js/main.5b018b78.js.map",
+    "787.31563bb8.chunk.js.map": "/arith/static/js/787.31563bb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c219ac9a.css",
+    "static/js/main.5b018b78.js"
+  ]
+}
