@@ -53,16 +53,44 @@
         <p>
           After doing this for about 30 minutes, I got some results that we can start to analyze.
         </p>
-        <iframe style="width: 75vw; height: 60vh; overflow: hidden; margin: 3em;" scrolling="no" src="delay_histogram.html"
-          seamless></iframe>
+        <iframe style="width: 75vw; height: 60vh; overflow: hidden; margin: 3em;" scrolling="no"
+          src="delay_histogram.html" seamless></iframe>
         <p>
-          From the chart, we can see that most letters took me about ~55ms to type, and almost all of them are below 200ms. As we might also expect, the frequencies also form a normal distribution with some outliers towards the right. (Note that in this graph, I have pruned datapoints that were more than 5 standard deviations above the mean which removed 139 datapoints)
+          From the chart, we can see that most letters took me about ~55ms to type, and almost all of them are below
+          200ms. As we might also expect, the frequencies also form a normal distribution with some outliers towards the
+          right. (Note that in this graph, I have pruned datapoints that were more than 5 standard deviations above the
+          mean which removed 139 datapoints)
           <br><br>
-          Also taking a look at the average times pairs of letters take reveals that
+          Now considering the average time a pair of letters takes, we notice that some take much longer than others
+          (looks like Zipf's distribution?). This begs the question, what causes some pairs to take more time than
+          others?
         </p>
-
+        <iframe style="width: 75vw; height: 60vh; overflow: hidden; margin: 3em;" scrolling="no"
+          src="letterpair_time.html" seamless></iframe>
+        <p>
+          My first instinct is to look at the distances between letters on the keyboard, perhaps there is some way to
+          correlate how far apart letters are with the time it takes to type them. Obviously this is a pretty crude
+          approximation since we type with two hands (hopefully) so we don't really care about the absolute distances
+          very much but it's worth taking a look at.
+        </p>
+        <iframe style="width: 75vw; height: 60vh; overflow: hidden; margin: 3em;" scrolling="no"
+          src="time_dist_scatter.html"></iframe>
+        <p>
+          Well, seems like I was pretty wrong about that. In fact there is a <span style="font-weight: bold" ;> negative
+          </span>correlation between distance and time to type. May this could be explained by the fact that letters
+          that are far apart tend to be typed by different hands and therefore are actually faster not slower.
+          <br>
+          <br>
+          To test this theory, we can count the number of times we have to switch hands when typing a word (normalized
+          by length of word), and do the same analysis. If words that require more hand switching are quicker to type,
+          that proves some supporting evidence my explaination.
+        </p>
+        <iframe style="width: 75vw; height: 60vh; overflow: hidden; margin: 3em;" scrolling="no"
+          src="word_switches.html"></iframe>
+          <p>
+            Well, not really. I'm starting to get bored of this so I'll come back to this some other day (maybe) and hopefully actually be able to get some cool results about typing.
+          </p>
     </section>
-
   </div>
 </body>
 
