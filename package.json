@@ -5,7 +5,12 @@
     "helmet": "^5.1.0",
     "npm-run-all": "^4.1.5",
     "react-scripts": "^5.0.1",
-    "three": "^0.139.2"
+    "three": "^0.139.2",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "socket.io": "^4.4.0",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.12"
   },
   "name": "jonathanhsieh.dev",
   "version": "1.0.0",
@@ -15,7 +20,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm-run-all --parallel start:site start:rps2",
     "start:site": "node app.js",
-    "start:rps2": "cd public/rps2/rps2_server && npm install && node server.js"
+    "start:rps2": "cd public/rps2/rps2_server && node server.js"
   },
   "repository": {
     "type": "git",
