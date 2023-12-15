@@ -15,7 +15,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm-run-all --parallel start:site start:rps2",
     "start:site": "node app.js",
-    "start:rps2": "cd public/rps2/rps2_server && npm start"
+    "start:rps2": "cd public/rps2/rps2_server && node server.js"
   },
   "repository": {
     "type": "git",
