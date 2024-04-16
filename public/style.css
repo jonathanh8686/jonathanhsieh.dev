@@ -30,7 +30,7 @@
 }
 
 .about-text {
-  font-size: 0.4em;
+  font-size: 1.4vmax;
   width: 100%;
 }
 
@@ -86,7 +86,6 @@
 }
 
 @keyframes blink {
-
   from,
   to {
     background-color: transparent;
@@ -107,7 +106,8 @@
 .project-card {
   position: relative;
   background-color: rgba(255, 255, 255, 0.2);
-  height: 35vh;
+  height: 30vh;
+  width: 25vw;
   margin-bottom: 5vh;
   border: 2px;
   border-radius: 10px;
@@ -116,37 +116,46 @@
 
 .project-title {
   font-size: 2vmax;
-  padding-bottom: 10px;
+  padding: 10px;
 }
 
 .project-description {
-  font-size: 1.6vmax;
-  padding: 10px;
+  font-size: 1.4vmax;
+  padding: 20px;
 }
 
 @media (max-width: 1000px) {
   .project-card {
-    height: 35vh !important;
+    background-color: red;
+    height: 25vh !important;
+    width: 50vw;
   }
 
   .project-title {
     font-size: 3vmax;
-    padding-bottom: 10px;
+    padding: 10px;
   }
 
   .project-description {
     font-size: 2vmax;
     padding: 10px;
   }
+
+  .about-text {
+    font-size: 0.4em;
+    width: 100%;
+  }
 }
 
 @media (max-width: 620px) {
   .project-container {
-    grid-template-columns: repeat(2, 40%);
+    grid-template-columns: repeat(1, 100%);
   }
 
   .project-card {
+    background-color: blue;
     height: 25vh !important;
+    width: 70vw !important;
   }
 
   .about-div {
@@ -156,15 +165,17 @@
 
   .about-text {
     font-size: 0.4em;
+    width: 100%;
   }
 }
 
 @media (max-width: 400px) {
   .project-container {
-    grid-template-columns: repeat(1, 80%);
+    grid-template-columns: repeat(1, 100%);
   }
 
   .project-card {
+    background-color: green;
     height: 25vh !important;
   }
 
@@ -175,11 +186,11 @@
 
   .project-description {
     font-size: 2vmax;
-    padding: 10px;
+    padding: 20px;
   }
 
   .about-text {
-    font-size: 0.7em;
+    font-size: 0.8em;
+    width: 100%;
   }
 }
-

@@ -32,10 +32,9 @@
           <br><br>
           Intuitively, I think it's probably about the distribution
           of letters and more specifically where they are positioned on the keyboard. A naive answer might be something
-          like, typing
-          speed is proportional to the total distance between the letters.
+          like: time to type is roughly proportional to the total distance between the letters.
           <br><br>
-          But when I think about typing a bit more carefully, I've come to the conclusion that perhaps what's more
+          A more nuanced hypothesis might be that what's more
           important is the alternation of hands, because that's what allows typist to start really flowing between the
           characters. Double letters are probably
           a single finger needs to take on so much responsibilty (try typing "balloon" really fast, you'll notice your
@@ -46,7 +45,7 @@
           To answer this question, we need to do some data collection first!
         </p>
         <div id="p5canvas" style="margin: 50px 0px 50px 0px; border: 2px; border-style: solid;"> </div>
-        <div class="note" style="top: 28%">The wordlist comes from
+        <div class="note" style="top: 10%">The wordlist comes from
           <a href="https://www.mit.edu/~ecprice/wordlist.10000"
             style="text-decoration: none; color:beige; position: relative;">https://www.mit.edu/~ecprice/wordlist.10000</a>
         </div>
@@ -76,7 +75,7 @@
         <iframe style="width: 75vw; height: 60vh; overflow: hidden; margin: 3em;" scrolling="no"
           src="time_dist_scatter.html"></iframe>
         <p>
-          Well, seems like I was pretty wrong about that. In fact there is a <span style="font-weight: bold" ;> negative
+          I guess we can't reject the null hypothesis here. In fact there is a <span style="font-weight: bold" ;> negative
           </span>correlation between distance and time to type. May this could be explained by the fact that letters
           that are far apart tend to be typed by different hands and therefore are actually faster not slower.
           <br>
@@ -88,7 +87,9 @@
         <iframe style="width: 75vw; height: 60vh; overflow: hidden; margin: 3em;" scrolling="no"
           src="word_switches.html"></iframe>
           <p>
-            Well, not really. I'm starting to get bored of this so I'll come back to this some other day (maybe) and hopefully actually be able to get some cool results about typing.
+            Well, not really. As it turns out, it's more difficult than I thought to find correlations between how long it
+            takes to type a word and simple metrics about the word. It'll take some more effort to draw interesting conclusions
+            about what factors are important here.
           </p>
     </section>
   </div>

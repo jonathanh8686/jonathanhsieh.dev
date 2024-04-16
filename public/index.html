@@ -3,317 +3,112 @@
 
 <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1, shrink-to-fit=no">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1, shrink-to-fit=no" />
     <title>Jonathan Hsieh</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./style.css" />
     <link rel="stylesheet" href="./animations.css" />
-    	<script async src="https://unpkg.com/es-module-shims@1.3.6/dist/es-module-shims.js"></script>
+    <script async src="https://unpkg.com/es-module-shims@1.3.6/dist/es-module-shims.js"></script>
     <script type="importmap">
-        { "imports": { "three": "./build/three.module.js" } }
+      { "imports": { "three": "./build/three.module.js" } }
     </script>
 
-    <script type="module" src="./javascript/script.js " defer></script>
-    <script type="module" src="./javascript/yearupdater.js " defer></script>
-    <script type="module" src="./javascript/typewriter.js " defer></script>
-
+    <script type="module" src="./javascript/script.js" defer></script>
+    <script type="module" src="./javascript/yearupdater.js" defer></script>
+    <script type="module" src="./javascript/typewriter.js" defer></script>
 </head>
 
 <body>
     <canvas class="webgl"></canvas>
     <section class="name-title">
-        <h1 style="font-size: 3em; transform: translate(0%, -50%);" class="fade-in-text">Hi.</h1>
-        <h1 style="font-size: 1.8em; transform: translate(-0%, -50%); animation-delay: 1.5s; opacity: 0;" class="fade-in-text" ">I'm Jonathan</h1>
-        <h2 style=" position: absolute; bottom: 20px; font-size: 0.5em; opacity: 0; animation-delay:2.5s; " class=" flicker ">Scroll down to see more</h2>
-        <div style=" font-size: 0.6em; animation-delay:2.6s; opacity: 0; transform: translate(0%, -80%); " class=" typewriter-text fade-in-text ">&nbsp;</div><div class=" cursor "></div>
+        <h1 style="font-size: 3em; transform: translate(0%, -50%)" class="fade-in-text">
+            Hi.
+        </h1>
+        <h1 style="
+          font-size: 1.5em;
+          transform: translate(-0%, -50%);
+          animation-delay: 1.5s;
+          opacity: 0;
+        " class="fade-in-text">
+            I'm Jonathan
+        </h1>
+        <h2 style="
+          position: absolute;
+          bottom: 20px;
+          font-size: 0.5em;
+          opacity: 0;
+          animation-delay: 2.5s;
+        " class="flicker">
+            Scroll down to see more
+        </h2>
+        <div style="
+          font-size: 0.6em;
+          animation-delay: 2.6s;
+          opacity: 0;
+          transform: translate(0%, -80%);
+        " class="typewriter-text fade-in-text">
+            &nbsp;
+        </div>
+        <div class="cursor"></div>
     </section>
 
-    <section class=" section ">
+    <section class="section">
         <div class="about-div">
-        <h1>Jonathan Hsieh</h1>
-            <div class=" about-text " style="color: grey">a <span id="year-dec"></span> year old student at Northeastern University interested in CS and Math</div>
+            <h1>Jonathan Hsieh</h1>
+            <div class="about-text" style="color: gray">
+                a <span id="year-dec"></span> year old student at Northeastern
+                University interested in CS and Math
+            </div>
 
-            <div style="padding-top: 0.5em;">
+            <div style="padding-top: 0.5em">
                 <div class="about-text" style="color: white">
-                    This is where I keep some of my things, like my projects and random things I want to access.
+                    This is where I keep some of my things, like my projects and random
+                    things I want to access.
                 </div>
             </div>
-<!-- 
-            <div class=" about-text " style="color: white">I started my journey into computer science over 10 years ago when I first learned C# with guidance from my dad.
-                Since then I've studied languages like C++, Python, Java, Javascript and fiddled with a few more. </div>
-            <div class=" about-text " style="padding-top: 3vh;">Probably biggest change in my relationship with CS happened in freshman year of high-school, when I was introduced to
-                the US Computing Olympiad which served as my introduction to competitive programming. This eventually led me to learning more about algorithms and theoretical CS in general and sparked
-                my current interest.
-            </div>
-            <div class=" about-text " style="padding-top: 3vh;">
-                Apart from CS, I played Quizbowl for my highschool as a science player. This required me to learn a very broad set of information about topics like physics, chemistry, and biology.
-                I found myself captivated by the fields and always wanting to learn more which resulted in me starting a biochemistry minor at Northeastern University.
-            </div>
- -->
+
             <div class="about-text" style="padding-top: 3vh; padding-bottom: 2.5vh; color: beige">
-                If you want to learn more about me, you can check out my Resume or Github below:
+                If you want to learn more about me, you can check out my Resume or
+                GitHub below:
             </div>
 
-            <a href="/resume.pdf" style="text-decoration: none;"><img id="about" src="images/resume.png" style="position:relative; width:7%; padding-right:50px">
+            <a href="/resume.pdf" style="text-decoration: none"><img id="about" src="images/resume.png"
+                    style="position: relative; width: 7%; padding-right: 50px" />
             </a>
             <a href="https://github.com/jonathanh8686">
-                <img id="github" src="images/github.png" style="position:relative; width:7%; padding-right:50px">
+                <img id="github" src="images/github.png" style="position: relative; width: 7%; padding-right: 50px" />
             </a>
-
-
-        </div>
-        <!-- <div style=" display:flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-evenly; margin-top: 10%; ">
-            <div style=" width: 35vw; text-align: right; ">
-                <div class=" year ">2002</div>
-                <div style=" line-height: 0.5em " class=" year ">
-                    .
-                    <br>
-                    .
-                    <br>
-                    .
-                </div>
-                <div class=" year ">2009</div>
-                <div style=" line-height: 0.5em " class=" year ">
-                    .
-                    <br>
-                    .
-                    <br>
-                    .
-                </div>
-                <div class=" year ">2013</div>
-                <div class=" year ">2014</div>
-                <div class=" year ">2015</div>
-                <div class=" year ">2016</div>
-                <div class=" year ">2017</div>
-                <div class=" year ">2018</div>
-                <div class=" year ">2019</div>
-                <div class=" year ">2020</div>
-                <div class=" year ">2021</div>
-                <div class=" year ">2022</div> 
-            </div>
-            <div class=" timeline "></div>
-            <div style=" width: 35vw; padding-left: 0em; ">
-            <div style=" padding-top: 0.2em; ">
-                <hr>
-                <div class=" eventtext ">I'm born in Shanghai, China</div>
-            </div>
-
-            <div style=" padding-top: 2em; ">
-                <hr>
-                <div class=" eventtext ">I learn to walk, talk, and eat? Who does anything interesting at this age</div>
-            </div>
-
-            <div style=" padding-top: 1.1em; ">
-                <hr>
-                <div class=" eventtext ">I write my first program, a calculator in C#</div>
-            </div>
-
-            <div style=" padding-top: 2.5em; ">
-                <hr>
-                <div class=" eventtext ">I create some simple games in C#, the code and projects is now lost</div>
-            </div>
-
-            <div style=" padding-top: 2.3em; ">
-                <hr>
-                <div class=" eventtext ">My earliest saved project -- the card game " War " with a GUI made in
-                    C#</div>
-            </div>
-
-            <div style=" padding-top: 0.2em; ">
-                <hr>
-                <div class=" eventtext ">I begin to learn Python
-                    <br>
-                    <br>
-                    I complete a challenge from my dad: to implement a Big Integer class from scratch
-                </div>
-            </div>
-
-            <div style=" padding-top: 0.3em; ">
-                <hr>
-                <div class=" eventtext ">
-                    I complete my most difficult project to date: a fuzzy image matcher
-                </div>
-            </div>
-
-            <div style=" padding-top: 0.3em; ">
-                <hr>
-                <div class=" eventtext ">
-                    I create an AI that learns to play TicTacToe via a genetic algorithm
-                </div>
-            </div>
-
-            <div style=" padding-top: 0.3em; ">
-                <hr>
-                <div class=" eventtext ">
-                    My dad introduces me to the US Computing Olympiad and I begin my journey as a competitive programmer
-                </div>
-            </div>
-
-            <div style=" padding-top: 0.3em; ">
-                <hr>
-                <div class=" eventtext ">
-                    I train a Neural Network that reached 65% accuracy predicting the outcome of a League of Legends
-                    match
-                </div>
-            </div>
-
-
-
-            </div>
-            </div> -->
-    </section>
-    <section class=" section " style="">
-        <h2>Projects</h2>
-        <div class="project-container">
-            <div class="project-card" style="border-color: green;">
-                <div class="project-title">jonathanhsieh.dev</div>
-                <hr>
-                <div class="project-description">My personal website created with three.js and node. </div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/jonathanhsieh.dev">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card" style="border-color: green;">
-                <a href="/rps2" style="text-decoration: none; color: white;">
-                    <div class="project-title">RPS 2</div>
-                </a>
-                <hr>
-                <div class="project-description">The natural next step for hand games: Rock Paper Scissors 2.0!</div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/rps2">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card" style="border-color: green;">
-                <a href="/arith" style="text-decoration: none; color: white;">
-                    <div class="project-title">Arith</div>
-                </a>
-                <hr>
-                <div class="project-description">A game to test your mental math speed</div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/Arith">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card" style="border-color: blue;">
-                <a style="text-decoration: none; color: white;">
-                    <div class="project-title">ConnectFour Solver</div>
-                </a>
-                <hr>
-                <div class="project-description">A bot that uses the minimax algorithm + alpha-beta pruning to solve connect four</div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/ConnectFour">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card" style="border-color: green;">
-                    <div class="project-title">Clash Analyzer</div>
-                </a>
-                <hr>
-                <div class="project-description">A simple application to display information about the opponent team in LoL's Clash tournaments</div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/clash-analyzer">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card" style="border-color: blue;">
-                <div class="project-title">PsuedoSolver</div>
-                <hr>
-                <div class="project-description">A bot that is able to play the popular word game "Psuedo" very well</div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/PseudoSolver">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card" style="border-color: lightcoral;">
-                <div class="project-title">Genetic TicTacToe</div>
-                <hr>
-                <div class="project-description">A bot that is able to learn how to play TicTacToe through a genetic algorithm</div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/GeneticTicTacToe">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card" style="border-color: lightcoral;">
-                <div class="project-title">Roadmap</div>
-                <hr>
-                <div class="project-description">A tool that allows you to enter the location of several locations and helps you plan a trip</div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/GeneticTicTacToe">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card" style="border-color: red;">
-                <div class="project-title">Cent</div>
-                <hr>
-                <div class="project-description">Keeps track of money exchanges between my group of friends</div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/Cent">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card" style="border-color: blue;">
-                <div class="project-title">DraftBot</div>
-                <hr>
-                <div class="project-description">A discord bot that allows players to simulate a draft-pick without entering game</div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/DraftBot">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
-
-            <div class="project-card" style="border-color: lightcoral;">
-                <div class="project-title">ChessBot</div>
-                <hr>
-                <div class="project-description">A bot that automatically solves puzzles on chess.com using the latest StockFish engine</div>
-                <div style="position: absolute; bottom: 0px;">
-                    <a href="https://github.com/jonathanh8686/ChessBot">
-                        <img id="github" src="images/github.png" style="width:12%; float: left; padding: 20px;">
-                    </a>
-                </div>
-            </div>
         </div>
     </section>
-    <section class=" section ">
-        <h2>Blog</h2>
-        <div style="padding-top: 5vh";>
-            <a href="Blog/typing" style="text-decoration: none; color:white">
-            <div class="project-card" style="width: 50vw;">
-                    <div class="project-title">A Study on Typing</div>
-                    <hr>
-                    <div class="project-description">Many words about how not all words are equal, at least when it comes to typing.</div>
-                    <div style="position: absolute; bottom: 0px; font-size: 0.4em; padding: 10px;">
-                        4/12/2022
+
+    <section class="section">
+        <h3>Blog</h3>
+        <div style="padding-top: 5vh" ;>
+            <a href="Blog/typing" style="text-decoration: none; color: white">
+                <div class="project-container">
+                    <div class="project-card">
+                        <div class="project-title">A Study on Typing</div>
+                        <hr />
+                        <div class="project-description">
+                            Many words about how not all words are equal, at least when it
+                            comes to typing.
+                        </div>
+                        <div style="
+                  position: absolute;
+                  bottom: 0px;
+                  font-size: 0.4em;
+                  padding: 10px;
+                ">
+                            4/12/2022
+                        </div>
                     </div>
-            </div>
+                </div>
             </a>
-
         </div>
     </section>
-
-
 </body>
 
 </html>
