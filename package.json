@@ -35,11 +35,6 @@
   },
   "homepage": "https://github.com/jonathanh8686/jonathanhsieh.dev#readme",
   "devDependencies": {
-    "@eslint/eslintrc": "^3.0.2",
-    "@eslint/js": "^9.0.0",
-    "eslint": "^9.0.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.25.2",
     "globals": "^15.0.0"
   }
 }
