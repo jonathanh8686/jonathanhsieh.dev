@@ -50,30 +50,6 @@
   will-change: transform;
 }
 
-.eventdate {
-  font-size: 0.25em;
-  color: lightgreen;
-}
-
-.eventtext {
-  padding-left: 10px;
-  font-size: 0.3em;
-}
-
-.timeline {
-  display: flex;
-  height: 350vh;
-  border: 3px rgb(255, 255, 255) solid;
-  position: absolute;
-}
-
-.year {
-  padding-bottom: 5em;
-  padding-right: 1em;
-  font-size: 0.5em;
-  color: lightblue;
-}
-
 #container {
   text-align: center;
 }
@@ -86,11 +62,9 @@
 }
 
 @keyframes blink {
-  from,
-  to {
+  from, to {
     background-color: transparent;
   }
-
   50% {
     background-color: orange;
   }
@@ -99,15 +73,17 @@
 .project-container {
   padding-top: 5%;
   display: grid;
-  justify-content: space-evenly;
-  grid-template-columns: repeat(3, 30%);
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  grid-template-columns: repeat(2, 1fr); /* Updated to 3 columns */
 }
 
 .project-card {
   position: relative;
   background-color: rgba(255, 255, 255, 0.2);
-  height: 30vh;
-  width: 25vw;
+  height: 25vh;
+  width: 20vw;
   margin-bottom: 5vh;
   border: 2px;
   border-radius: 10px;
@@ -115,20 +91,28 @@
 }
 
 .project-title {
-  font-size: 2vmax;
+  font-size: 1.6vmax;
   padding: 10px;
 }
 
 .project-description {
-  font-size: 1.4vmax;
+  font-size: 1.3vmax;
   padding: 20px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
+  .section {
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+
+  .project-container {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns for medium screens */
+  }
+
   .project-card {
-    background-color: red;
     height: 25vh !important;
-    width: 50vw;
+    width: 30vw;
   }
 
   .project-title {
@@ -148,14 +132,18 @@
 }
 
 @media (max-width: 620px) {
+  .section {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
   .project-container {
-    grid-template-columns: repeat(1, 100%);
+    grid-template-columns: repeat(1, 100%); /* 1 column for small screens */
   }
 
   .project-card {
-    background-color: blue;
-    height: 25vh !important;
-    width: 70vw !important;
+    height: 25vh;
+    width: 50vw;
   }
 
   .about-div {
@@ -164,7 +152,7 @@
   }
 
   .about-text {
-    font-size: 0.4em;
+    font-size: 20px;
     width: 100%;
   }
 }
@@ -175,7 +163,6 @@
   }
 
   .project-card {
-    background-color: green;
     height: 25vh !important;
   }
 
@@ -190,7 +177,7 @@
   }
 
   .about-text {
-    font-size: 0.8em;
+    font-size: 20px;
     width: 100%;
   }
 }
