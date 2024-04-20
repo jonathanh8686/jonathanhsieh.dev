@@ -19,10 +19,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm-run-all --parallel start:site start:rps2",
-    "dev": "nodemon start:site",
-    "start:site": "node app.js",
-    "start:rps2": "cd public/rps2/rps2_server && node server.js"
+    "start": "node app.js",
+    "dev": "nodemon start:site"
   },
   "repository": {
     "type": "git",
