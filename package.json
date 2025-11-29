@@ -20,7 +20,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
-    "dev": "nodemon start:site"
+    "dev": "nodemon start:site",
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
